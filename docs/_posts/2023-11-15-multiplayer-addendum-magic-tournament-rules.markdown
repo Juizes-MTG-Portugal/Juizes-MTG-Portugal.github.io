@@ -30,6 +30,27 @@ This document is updated periodically. Please obtain the most current version [h
 
 ## 1.1. Tournament Types
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+  <p>
+    There are two types of sanctioned <strong>Magic</strong> tournaments: rated and casual.
+  </p>
+  <p>
+    Rated tournaments are further divided into two types: Premier and non-Premier. Premier tournaments are run by 
+    Wizards of the Coast or select Tournament Organizers. They have unique names and features. Non-Premier 
+    tournaments are tournaments that are not explicitly Premier.
+  </p>
+  <p>
+    There are two major tournament formats: Limited and Constructed. Each has rules specific to its format. In 
+    Limited tournaments, all product for play is provided during the tournament. In Constructed tournaments, players 
+    compete using decks prepared beforehand. Some Premier tournaments may consist of multiple formats within the 
+    same tournament.
+  </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
 **1.1A.** There are two tournament modes: Head-to-Head and Multiplayer. 
@@ -42,34 +63,65 @@ In Multiplayer tournaments, players are organized in Pods. A Pod consists of the
 
 A Two-Headed Giant team is treated as a single player when determining the tournament mode.
 
-## 1.6. Tournament Organizer
-
-**Policy Additions**
-
-_The Tournament Organizer of a tournament is responsible for all tournament logistics including:_
-
-* _Sanctioning the event._
-* _Providing a site for the tournament that meets the tournament’s expected needs._
-* _Advertising the tournament in advance of the tournament date._
-* _Staffing the tournament with appropriate tournament officials._
-* _Providing all materials necessary to operate the tournament (e.g. product for Limited format  tournaments)._
-* _Reporting the tournament results._
-* _Saving match result slips from each tournament for a period of 6 months (to aid in match appeals)._
-* **Storing any other match result data from each tournament for a period of 6 months (to aid in match appeals).**
-
-## 1.9. Scorekeeper
-
-**Policy Additions**
-
-_The Scorekeeper’s responsibilities include:_
-
-* _Generating correct pairings each round and accurately entering the results of those rounds._
-* _Generating standings for posting before and after the final Swiss round. Other rounds may also be  posted at the Head Judge’s discretion._
-* _Solving all scorekeeping problems that arise in consultation with the Head Judge._
-* _Making sure all necessary information is included in the tournament’s report to be submitted to the DCI._
-* **Saving match data (such as slips or software data) to be turned over to the Tournament Organizer at the conclusion of the event.**
-
 ## 1.10 Players
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      Players are responsible for:
+    </p>
+    <ul>
+      <li>
+        Behaving in a respectful manner toward tournament officials, other tournament participants, and spectators and refraining from unsporting conduct at all times.
+      </li>
+      <li>
+        Maintaining a clear and legal game state.
+      </li>
+      <li>
+        Complying with announced start times and time limits.
+      </li>
+      <li>
+        Calling attention to any rules or policy infraction they notice in their matches.
+      </li>
+      <li>
+        Bringing to a judge’s attention any discrepancies in their tournament match record.
+      </li>
+      <li>
+        Accurately reporting the results of their matches in a timely manner.
+      </li>
+      <li>
+        Refraining from enrolling in tournaments in which they are not allowed by policy to participate.
+      </li>
+      <li>
+        Being familiar with the rules contained within this document.
+      </li>
+      <li>
+        Being physically present for the tournament. A player must bring the following items to a tournament in order to participate:
+      </li>
+      <li>
+        A physical, visible, and reliable method to maintain and record game information (tokens, score counters, pen and paper, and so on).
+      </li>
+      <li>
+        Any materials specifically required for a particular tournament format, such as assembled decks  and/or decklists for constructed tournaments.
+      </li>
+    </ul>
+    <p>
+      Players retain their responsibilities even if a judge provides them with extra assistance. 
+    </p>
+    <p>
+      The individual members of a team are considered players, and are equally responsible for required tournament 
+      procedures, such as accurately reporting the results of their match. Players are only responsible for the games they 
+      play themselves and not separate games being played by their teammates but are expected to point out rules 
+      violations they observe in their teammates’ matches.
+    </p>
+    <p>
+      Players who do not fulfill their responsibilities may be subject to penalties and review by the DCI. Wizards of the 
+      Coast and the DCI reserve the right to suspend or revoke a player's membership without prior notice for any 
+      reason they deem necessary.
+    </p>
+  </blockquote>
+</details>
+<p></p>
 
 **Policy Additions**
 
@@ -79,9 +131,56 @@ _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer mat
 
 ## 1.12 Rules Enforcement Levels
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      Rules Enforcement Levels (REL) are a means to communicate to the players and judges what expectations they can have of the tournament in terms of rigidity of rules enforcement, technically correct play, and procedures used. 
+    </p>
+    <p>
+      The Rules Enforcement Level of a tournament generally reflects the prizes awarded and the distance a player may be expected to travel.
+    </p>
+    <p>
+      The appropriate Rules Enforcement Level for specific programs is listed in Appendix F. 
+    </p>
+    <p>
+      <strong><em>Regular</em></strong>
+    </p>
+    <p>
+      Regular tournaments are focused on fun and social aspects, not enforcement. Most tournaments are run at this 
+      level unless they offer sizeable prizes or invitations. Players are expected to know most of the game rules, may 
+      have heard of policy and what is “really bad,” but generally play in a fashion similar to the way they do casually. 
+      Players are still responsible for following the rules, but the focus is on education and sportsmanship over 
+      technically precise play. Infractions in these tournaments are covered by the Judging at Regular Rules 
+      Enforcement Level document, located at <a href="http://wpn.wizards.com/document/magic-gathering-judging-regular-rel">http://wpn.wizards.com/document/magic-gathering-judging-regular-rel</a>.
+    </p>
+    <p>
+      <strong><em>Competitive</em></strong> 
+    </p>
+    <p>
+      Competitive tournaments are usually those with significant cash prizes or invitations awarded to Professional 
+      tournaments. Players are expected to know the game’s rules and be familiar with the policies and procedures, but 
+      unintentional errors are not punished severely. These are tournaments that protect the interests of all players by 
+      providing tournament integrity while also recognizing that not all players are intimately familiar with 
+      Professional-level tournament structure, proper procedures, and rules. Infractions in these tournaments are 
+      covered by the Magic Infraction Procedure Guide, located at <a href="http://wpn.wizards.com/document/magic-infraction-procedure-guide">http://wpn.wizards.com/document/magic-infraction-procedure-guide</a>. 
+    </p>
+    <p>
+      <strong><em>Professional</em></strong> 
+    </p>
+    <p>
+      Professional level tournaments offer large cash awards, prestige, and other benefits that draw players from great 
+      distances. These tournaments hold players to a higher standard of behavior and technically-correct play than 
+      Competitive tournaments. Infractions in these tournaments are covered by the Magic Infraction Procedure Guide, 
+      located at <a href="http://wpn.wizards.com/document/magic-infraction-procedure-guide">http://wpn.wizards.com/document/magic-infraction-procedure-guide</a>.
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
-**1.12A.** For Multiplayer tournaments, there are differences on how to handle infractions when compared to Head-to-Head tournaments. Those differences are covered by the Multiplayer Supplemental Infraction Procedure Guide, located at https://github.com/MonarchDevelopment/MIPG-and-MSTR/blob/main/MSIPG.md
+**1.12A.** For Multiplayer tournaments, there are differences on how to handle infractions when compared to Head-to-Head tournaments. Those differences are covered by the Multiplayer Addendum to the Infraction Procedure Guide, located at [https://juizes-mtg-portugal.github.io/](https://juizes-mtg-portugal.github.io/)
 
 # 2. Tournament Mechanics
 
