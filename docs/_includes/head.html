@@ -4,6 +4,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <style>
+    ul#markdown-toc {
+        position: fixed;
+        left: 0;
+        top: 6rem;
+        width: calc((100% - 800px)/2 - 1rem);
+        height: calc(100vh - 6rem);
+        overflow-y: auto;
+    }
+  </style>
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}

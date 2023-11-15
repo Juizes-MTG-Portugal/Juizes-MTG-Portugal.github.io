@@ -10,17 +10,13 @@ categories: unofficial documents multiplayer competitive
 
 **DISCLAIMER: This is an unofficial rules document written by independent judges. This is not official Wizards of the Coast documentation.**
 
-**Multiplayer Supplemental Infraction Procedure Guide**
-
-_Effective February 10, 2022_
-
 ---
 
 # Introduction
 
-The Multiplayer Supplemental Infraction Procedure Guide exists to assist Judges who are working at Competitive or Professional Rules Enforcement Level in Multiplayer game mode tournaments. This document is written as a supplement to the Infraction Procedure Guide and should be used in close conjunction with it and the Multiplayer Supplemental Tournament Rules. 
+The Multiplayer Addendum to the Infraction Procedure Guide exists to assist Judges who are working at Competitive or Professional Rules Enforcement Level in Multiplayer game mode tournaments. This document is written as a supplement to the Infraction Procedure Guide and should be used in close conjunction with it and the Multiplayer Addendum to the Magic Tournament Rules. 
 
-This document is an extension of the Infraction Procedure Guide, and therefore a person using the Multiplayer Supplement should first be familiar with that document. Once a person has reviewed the relevant sections of the Infraction Procedure Guide, they can turn to the Multiplayer Supplemental Infraction Procedure Guide to find details on how to proceed in Multiplayer Game Modes.
+This document is an extension of the Infraction Procedure Guide, and therefore a person using the Multiplayer Addendum should first be familiar with that document. Once a person has reviewed the relevant sections of the Infraction Procedure Guide, they can turn to the Multiplayer Addendum to the Infraction Procedure Guide to find details on how to proceed in Multiplayer Game Modes.
 
 ## Framework
 

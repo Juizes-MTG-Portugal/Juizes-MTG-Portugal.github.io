@@ -8,20 +8,15 @@ categories: unofficial documents multiplayer competitive regular
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-
 **DISCLAIMER: This is an unofficial rules document written by independent judges. This is not official Wizards of the Coast documentation.**
-
-**Multiplayer Supplemental Tournament Rules**
-
-_Effective February 10, 2022_
 
 ---
 
 # Introduction
 
-The Multiplayer Supplemental Tournament Rules exist to assist Judges who are working at Competitive or Professional Rules Enforcement Level in Multiplayer Tournaments. This document is written as a supplement to the Magic Tournament Rules and should be used in close conjunction with it and the Multiplayer Supplemental Infraction Procedure Guide.
+The Multiplayer Addendum to the Magic Tournament Rules exists to assist Judges who are working at any Rules Enforcement Level in Multiplayer game mode tournaments. This document is written as a supplement to the Magic Tournament Rules and should be used in close conjunction with it. 
 
-This document is an extension of the Magic Tournament Rules, and therefore a person using the Multiplayer Supplement should first be familiar with that document. Once a person has reviewed the relevant sections of the Magic Tournament Rules, they can turn to the Multiplayer Supplemental Tournament Rules to find details on how to proceed in Multiplayer Tournaments.
+This document is an extension of the Magic Tournament Rules, and therefore a person using the Multiplayer Addendum should first be familiar with that document. Once a person has reviewed the relevant sections of the Magic Tournament Rules, they can turn to the Multiplayer Addendum to the Magic Tournament Rules to find details on how to proceed in Multiplayer Tournaments.
 
 ## Framework
 
@@ -29,7 +24,7 @@ Each section within this document mirrors its namesake in the Magic Tournament R
 
 At the time of original publishing, this document has been published solely in English. If such a time exists that this document be printed, translated, or otherwise ported to another language, tournament participants must refer to the English version to settle disputes concerning interpretations.
 
-This document is updated periodically. Please obtain the most current version [here](https://github.com/MonarchDevelopment/MIPG-and-MSTR/blob/main/MSTR.md).
+This document is updated periodically. Please obtain the most current version [here](https://juizes-mtg-portugal.github.io/).
 
 # 1. Tournament Fundamentals
 
