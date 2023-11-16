@@ -678,6 +678,39 @@ This process follows the same rules specified in MAMTR 4.2A.
 
 ## 5.4. Unsporting Conduct
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      Unsporting conduct will not be tolerated at any time. Tournament participants must behave in a polite and respectful manner. Unsporting conduct includes, but is not limited to:
+    </p>
+    <ul>
+      <li>
+        Using profanity.
+      </li>
+      <li>
+        Engaging in behavior that could reasonably be expected to create a feeling of being harassed, bullied, or stalked.
+      </li>
+      <li>
+        Arguing with, acting belligerently toward, or insulting tournament officials, players, or spectators.
+      </li>
+      <li>
+        Violating the personal privacy or safety of any participant, including spectators and staff.
+      </li>
+      <li>
+        Using social media to bully, shame, or intimidate other participants.
+      </li>
+      <li>
+        Failing to follow the instructions of a tournament official.
+      </li>
+    </ul>
+    <p>
+      Officials are expected to investigate potential matters brought their attention as soon as possible and take actions to discourage repeat behavior. All incidents of unsporting conduct are subject to further DCI review.
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
 Unsporting conduct will not be tolerated at any time. Tournament participants must behave in a polite and respectful manner. Unsporting conduct includes, but is not limited to: 
@@ -688,6 +721,19 @@ Unsporting conduct will not be tolerated at any time. Tournament participants mu
 # 6. Constructed Tournament Rules
 
 ## 6.1. Deck Construction Restrictions 
+
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      Constructed decks must contain a minimum of sixty cards. There is no maximum deck size. If a player chooses to use a sideboard, it may not contain more than fifteen cards.
+    </p>
+    <p>
+      Except for cards with the basic supertype or cards with text that specifies otherwise, a player’s combined deck and sideboard may not contain more than four of any individual card, based on its English card title.
+    </p>
+  </blockquote>
+</details>
+<p></p>
 
 **Policy Additions**
 
@@ -745,6 +791,30 @@ For the single elimination portion of the tournament, the seating and play order
 
 ## 10.1 Participation Minimums
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      Participation minimums for a tournament to be sanctioned as a rated tournament are as follows:
+    </p>
+    <ul>
+      <li>
+        For individual tournaments, a minimum of four (4) players must participate.
+      </li>
+      <li>
+        For team and Two-Headed Giant tournaments, a minimum of four (4) teams must participate.
+      </li>
+    </ul>
+    <p>
+      Certain Premier tournaments (e.g, Regional Championship Qualifiers) require a higher minimum number of players.
+    </p>
+    <p>
+      If the participation minimum is not met, the tournament is no longer DCI-sanctioned. If participation minimums are not met for any DCI-sanctioned tournament, the Tournament Organizer should report the tournament as “Did Not Occur.”
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
 **10.1A.** For Multiplayer tournaments at Regular Rules Enforcement Level, a minimum of four (4) players must participate.
@@ -753,15 +823,94 @@ For the single elimination portion of the tournament, the seating and play order
 
 ## 10.2 Number of Rounds
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      The minimum number of rounds required for a tournament to be sanctioned as a rated tournament is as follows:
+    </p>
+    <ul>
+      <li>
+        For individual tournaments, a minimum of three (3) rounds
+      </li>
+      <li>
+        For team and Two-Headed Giant tournaments, a minimum of two (2) rounds
+      </li>
+    </ul>
+    <p>
+      If the minimum number of rounds is not met, the tournament is no longer DCI-sanctioned. If the minimum number of rounds is not met for any DCI-sanctioned, rated tournament, the Tournament Organizer should report the tournament as “Did Not Occur.”
+    </p>
+    <p>
+      The number of rounds should be announced at or before the beginning of the first round; once announced, it cannot be changed. A variable number of rounds can be announced instead, with specific criteria for ending the tournament. For example, a tournament with 20 players can be announced as five rounds unless only one player has four match wins after four rounds.
+    </p>
+    <p>
+      The recommended number of rounds for Swiss tournaments can be found in Appendix E.
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
 **10.2A.** For Multiplayer tournaments at Regular Rules Enforcement Level, a minimum of one (1) round should be played.
 
 **10.2B.** For Multiplayer tournaments at Competitive Rules Enforcement Level, a minimum of two (2) rounds should be played.
 
-## 10.4 Pairing Algorithm 
+## 10.4 Pairing Algorithm
 
-**10.4A.** For Multiplayer tournaments, it is recommended that Tournament Organizers use Squirebot. The most up-to-date version can be found at (https://github.com/MonarchDevelopment/SquireCore/tree/main/docs/SwissPairingAlgorithm.md)
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      Unless otherwise announced, tournaments are assumed to follow the Swiss pairing algorithm. Some tournaments may proceed to single-elimination playoff rounds between the top 2, 4, or 8 (or other number) players after the Swiss rounds are over. The Swiss pairing algorithm is modified in booster draft tournaments as explained in section 7.6.
+    </p>
+    <p>
+      At Pro Tour and World Championship tournaments, competitors are advanced to the playoff rounds before the end of the Swiss rounds (and receive byes for the remaining Swiss rounds) if they have achieved the announced number of match points required to advance to the playoff rounds. In this case, competitors in the Top 8 playoff are seeded in order from 1st through 8th. Seeding is determined by:
+    </p>
+    <ul>
+      <li>
+        The round in which a competitor received the required number of match points to advance to the playoff rounds.
+      </li>
+      <li>
+        Their opponents’ match-win percentage, the competitor’s game-win percentage, and their opponents’ game-win percentage as of the round in which they receive the required number of match points to advance to the playoff rounds.
+      </li>
+      <li>
+        Seeding for the Top 8 playoff is locked after each round in which a competitor receives the required number of match points to advance to the playoff rounds.
+      </li>
+    </ul>
+    <p>
+      For constructed tournaments that have a single-elimination playoff (or Sealed Deck tournaments that do not use a Booster Draft for the playoff), the recommended pairing method is to pair the playoff players by the final Swiss standings.
+    </p>
+    <p>
+      For an 8-player playoff, the 1st place player plays the 8th place player, the 2nd place player plays the 7th place player, the 3rd place player plays the 6th place player, and the 4th place player plays the 5th place player. The winners of the 1st/8th place and 4th/5th place matches play each other in the next round of the playoff. The winners of the 2nd/7th place and 3rd/6th place matches play each other in the next round of the playoff. The remaining players play in the last round of the playoff.
+    </p>
+    <img src="/assets/images/top8.svg">
+    <p>
+      For a 4-player playoff, the 1st place player plays the 4th place player, and the 2nd place player plays the 3rd place player. The remaining players play in the last round of the playoff.
+    </p>
+    <img src="/assets/images/top4.svg">
+    <p>
+      For Limited tournaments that have a single-elimination Booster Draft playoff, it is recommend that only an 8-player playoff is run using the following method described below.
+    </p>
+    <p>
+      Use a random method to seat players around the draft table and conduct the draft.
+    </p>
+    <img src="/assets/images/draft_round.svg">
+    <p>
+      After the draft has concluded, the player in seat 1 plays the player in seat 5, the player in seat 2 plays the player in seat 6, the player in seat 3 plays the player in seat 7, and the player in seat 4 plays the player in seat 8. The winners of the seat 1/5 and the 3/7 matches play each other in the next round of the playoff. The winners of the seat 2/6 and the seat 4/8 matches play each other in the next round of the playoff. The remaining players play in the last round of the playoff.
+    </p>
+    <img src="/assets/images/seats_draft.svg">
+    <p>
+      For most Premier Events, the playoff options above are required, not optional.
+    </p>
+    <p>
+      Premier Events include the following tournaments: Magic: The Gathering World Championship, Pro Tour, Pro Tour Qualifier, Regional Championship, and Regional Championship Qualifier
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
+**10.4A.** For Multiplayer tournaments, it is recommended that Tournament Organizers use a tool that implements the following modified swiss pairing algorithm. There are commercial solutions and also open source solutions [^1] [^2] [^3].
 
 In Multiplayer tournaments, the modified swiss pairing algorithm is as follows:
 
@@ -777,7 +926,7 @@ In Multiplayer tournaments, the modified swiss pairing algorithm is as follows:
 
 In Multiplayer tournaments, the single-elimination playoffs are paired according to the following pattern:
 
-![Screenshot 2022-05-30 124751](https://user-images.githubusercontent.com/5087/170986132-35236b8f-97bb-4240-97b0-a5ef77a79a4e.png)
+![top16](/assets/images/top16.svg)
 
 Uneven cuts:
 
@@ -785,6 +934,10 @@ Uneven cuts:
 - In the case of a top 10 cut, the top 2 seeded players skip the semifinals, with the remaining 8 players being paired in 2 pods for the semifinals, according to the pattern above.
 
 In the semi finals, the seeds of the winners from the quarterfinals are taken into account and the same pattern as above is applied for the semi final pairings.
+
+[^1]: [EDH_matchmaker](https://github.com/eVen-gits/EDH_matchmaker) _open source_
+[^2]: [SquireBot](https://github.com/SquireTournamentServices/SquireBot) _open source, requires Discord_
+[^3]: [Command Tower](https://topdeck.gg/subscribe) _requires a monthly fee_
 
 # Appendix B – Time Limits
 
