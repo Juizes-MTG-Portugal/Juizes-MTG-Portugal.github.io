@@ -186,6 +186,19 @@ _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer mat
 
 ## 2.1. Match Structure
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      A <strong>Magic</strong> match consists of a series of games that are played until one side has won a set number of games, usually two. Drawn games do not count toward this goal. If the round ends before a player has won the required number of games, the winner of the match is the player who has won the most games at that point. If both players have equal game wins, the match is a draw.
+    </p>
+    <p>
+      The Tournament Organizer may change the required number of games to be won for any portion of the tournament as long as this choice is announced before the tournament begins. Match results, not individual game results, are reported at the end of the tournament.
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
 **2.1A.** In Multiplayer tournaments, the usual number of games required to win a match is one. If a game ends in a draw, a new game is started including every player in the Pod.
@@ -198,6 +211,19 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 
 ## 2.2. Play/Draw Rule
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      For the first game of a match, a designated player - the winner of a random method (such as a die roll or coin toss) during Swiss rounds, or the player ranked higher at the end of Swiss rounds during playoff matches - chooses either to play first or to play second. They must state this choice before looking at their hand. If they state no choice, it is assumed that they are playing first. The player who plays first skips the draw step of their first turn. This is referred to as the play/draw rule.
+    </p>
+    <p>
+      After each game in a match, the loser of that game decides whether to play first in the next game. They may wait until after sideboarding to make the decision. If the previous game was a draw, the player who decided to play or draw at the beginning of the drawn game chooses.
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
 **2.2A** In Multiplayer tournaments, both the seating order and first player are defined with a random method. There is no “winner of a random-method” as in Head-to-Head tournaments and therefore no choice to be made in swiss rounds. In single elimination, the player with the highest standing from the swiss portion of the tournament will go first, followed by the player with the next highest, until all player’s order is decided.
@@ -206,37 +232,141 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 
 ## 2.3. Pregame Procedure
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      The following steps must be performed in a timely manner before each game begins:
+    </p>
+    <ol>
+      <li>
+        If sideboarding is allowed, players may remove cards from their decks and add cards from their sideboards.
+      </li>
+      <li>
+        Players shuffle their decks. Steps 1 and 2 may be repeated.
+      </li>
+      <li>
+        Players present their decks to their opponents for additional shuffling. The sideboard (if any) is also presented at this time.
+      </li>
+      <li>
+        If a companion is being used, it is noted. After the first game, the companion does not need to be noted again; it is assumed to be in use until rescinded.
+      </li>
+      <li>
+        The appropriate player must decide whether to play first or second at this point, if they haven’t done so already (see section 2.2).
+      </li>
+      <li>
+        Each player draws seven cards. Optionally, these cards may be dealt face down on the table.
+      </li>
+      <li>
+        Each player, in turn order, may take mulligans. (Rules on mulligans can be found in the <strong>Magic</strong> Comprehensive Rules, rule 103.4). If a player takes a mulligan, they shuffle again and repeat the presentation process described above.
+      </li>
+    </ol>
+    <p>
+      The game is considered to have begun once all players have completed taking mulligans. Pregame procedures may be performed before time for the match has officially begun.
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
 **2.3A.** Some Multiplayer tournaments and Formats might introduce changes to the sequence of pregame procedures. Refer to the mode or format specific rules in the Comprehensive Rules.
 
-## 2.4. Conceding or Intentionally Drawing Games or Matches
+## 2.4. End of Match Procedure
+
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      Once the game is complete, players may not leave the table until the result of the match is recorded unless they are doing so to record the result.
+    </p>
+    <p>
+      If the match time limit is reached before a winner is determined, the player whose turn it is finishes their turn and five additional turns are played in total. This usually means that one player takes three turns and the other two, but a player taking extra turns may affect this. If the active player has already indicated that they would like to pass the turn when the time limit is reached, that is considered to be in the next turn.
+    </p>
+    <p>
+      Team tournaments featuring multiple players playing together (such as Two-Headed Giant) use three turns instead of five.
+    </p>
+    <p>
+      Once time is called, no new games should begin.If the game is incomplete at the end of additional turns, the game is considered a draw.
+    </p>
+    <p>
+      If a judge assigned a time extension (because of a long ruling, deck check, or other reason) the end-of-match procedure does not begin until the end of the time extension.
+    </p>
+    <p>
+      In single-elimination rounds, matches may not end in a draw. If all players have equal game wins at the end of additional turns, the player with the highest life total wins the current game. In the event all players have equal life totals (or are between games and the game wins are tied), the game/match continues with an additional state-based action: if a player does not have the highest life total, they lose the game. Two-Headed Giant teams are treated as a single player for determining a game winner.
+    </p>
+  </blockquote>
+</details>
+<p></p>
 
 **Policy Additions**
 
-**2.4A.** In Multiplayer tournaments, players may leave the table after losing a match as remaining players continue playing (see rule 800.4 in the Comprehensive Rules). 
+**2.4A.** In Multiplayer tournaments, organizers have two methods to consider when deciding how to handle end-of-round procedure: 2.4AA and 2.4AB. It is recommended that 2.4AA be utilized when round times are 75 minutes or less, and 2.4AB be utilized when rounds times are between 75 and 90 minutes.
 
-**2.4B.** If a player leaving the game would affect current or imminent game actions, those actions occur as though that player was still in the game until the end of the current phase.
-
-## 2.5. End of Match Procedure
-
-**Policy Additions**
-
-**2.5A.** In Multiplayer tournaments, organizers have two methods to consider when deciding how to handle end-of-round procedure: 2.5AA and 2.5AB. It is recommended that 2.5AA be utilized when round times are 75 minutes or less, and 2.5AB be utilized when rounds times are between 75 and 90 minutes.
-
-**2.5AA.** In Multiplayer tournaments, use N turns instead of five, where N equals the number of remaining players. The number of extra turns is determined as time in the round is called. Once this number is determined, players leaving the game have no impact. 
+**2.4AA.** In Multiplayer tournaments, use N turns instead of five, where N equals the number of remaining players. The number of extra turns is determined as time in the round is called. Once this number is determined, players leaving the game have no impact. 
 
 _Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer match. Alice is the active player when time in the round was called. Alice finishes playing turn 0, and since there are 4 remaining players in the Pod, 4 extra turns will be played. Bob takes his turn, then Charlie takes his. However, during Charlie’s turn, Alice and Daniel both lose the game. Bob and Charlie will take the remaining turns, since the number of extra turns was determined as time in the round was called and is not impacted by players leaving the game during extra turns._
 
-**2.5AB.** In Multiplayer tournaments, if the time limit is reached before a winner is determined, the player whose turn it is finishes their turn. If the active player has already indicated that they’d like to pass the turn when the time limit is reached, that is considered to be in the next turn. If the game is incomplete at the end of additional turns, the game is considered a draw. If a judge assigned a time extension (because of a long ruling, deck check, or other reason) the end-of-match procedure does not begin until the end of the time extension. 
+**2.4AB.** In Multiplayer tournaments, if the time limit is reached before a winner is determined, the player whose turn it is finishes their turn. If the active player has already indicated that they’d like to pass the turn when the time limit is reached, that is considered to be in the next turn. If the game is incomplete at the end of additional turns, the game is considered a draw. If a judge assigned a time extension (because of a long ruling, deck check, or other reason) the end-of-match procedure does not begin until the end of the time extension. 
 
 _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. Arnold is the active player when time in the round is called. Arnold finishes their turn and passes. Since no winner has been declared, the match must be reported as a draw._
 
-**2.5B.** In Multiplayer tournaments, it is strongly recommended that single elimination matches be untimed. Any deviation must be communicated to the players before tournament begins and any tiebreaker method should be based solely on information pertaining to the current match.
+**2.4B.** In Multiplayer tournaments, it is strongly recommended that single elimination matches be untimed. Any deviation must be communicated to the players before tournament begins and any tiebreaker method should be based solely on information pertaining to the current match.
+
+## 2.5. Conceding or Intentionally Drawing Games or Matches
+
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      Until the result of a match has been recorded, players may concede or mutually agree to a draw in that game or match. If the conceding player won a game in the match, the match must be reported as 2-1. Intentional draws where no games were played are always reported as 0-0-3 in EventLink.
+    </p>
+    <p>
+      Players may not agree to a concession or draw in exchange for any reward or incentive. Doing so will be considered Bribery (see section 5.2).
+    </p>
+    <p>
+      If a player refuses to play, it is assumed that they have conceded the match.
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
+**Policy Additions**
+
+**2.5A.** In Multiplayer tournaments, players may leave the table after losing a match as remaining players continue playing (see rule 800.4 in the Comprehensive Rules). 
+
+**2.5B.** If a player leaving the game would affect current or imminent game actions, those actions occur as though that player was still in the game until the end of the current phase.
 
 # 3. Tournament Rules
 
 ## 3.1. Tiebreakers
+
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      The following tiebreakers are used to determine how a player ranks in a tournament:
+    </p>
+    <ol>
+      <li>
+        Match points
+      </li>
+      <li>
+        Opponents’ match-win percentage
+      </li>
+      <li>
+        Game-win percentage
+      </li>
+      <li>
+        Opponents’ game-win percentage
+      </li>
+    </ol>
+    <p>
+      Definitions of these tiebreakers can be found in Appendix C. Not all of these tiebreakers may be used in formats with single-game matches.
+    </p>
+  </blockquote>
+</details>
+<p></p>
 
 **Policy Additions**
 
@@ -248,6 +378,19 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 4. Opponents’ Match Win percentage
 
 ## 3.13. Hidden Information
+
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      Hidden information refers to the faces of cards and other objects at which the rules of the game and format do not allow you to look.
+    </p>
+    <p>
+      Throughout the match, a draft, and pregame procedures, players are responsible for keeping their cards above the level of the playing surface and for making reasonable efforts to prevent hidden information from being revealed. However, players may choose to reveal their hands or any other hidden information available to them, unless specifically prohibited by the rules. Players must not actively attempt to gain information hidden from them but are not required to inform opponents who are accidentally revealing hidden information.
+    </p>
+  </blockquote>
+</details>
+<p></p>
 
 **Policy Additions**
 
@@ -283,28 +426,183 @@ _Example: In a situation where Alice resolved Gather Specimens, Bob controls Len
 
 ## 4.1. Player Communication
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      Communication between players is essential to the successful play of any game that involves virtual objects or hidden information. While bluffing may be an aspect of games, there need to be clear lines as to what is, and is not, acceptable for players to say or otherwise represent. This will confirm expectations of both sporting and competitive players during a game.
+    </p>
+    <p>
+      A player should have an advantage due to better understanding of the options provided by the rules of the game, greater awareness of the interactions in the current game state, and superior tactical planning. Players are under no obligation to assist their opponents in playing the game. Regardless of anything else, players are expected to treat opponents politely and with respect. Failure to do so may lead to Unsporting Conduct penalties.
+    </p>
+    <p>
+      There are four categories of information: status, free, derived, and private. 
+    </p>
+    <p>  
+      Status information is information that must be announced upon change and physically tracked by the affected player. Methods for tracking must be visible to both players during the match. A shared method is acceptable as long as all players in the match have access to it. At Competitive and Professional REL, methods that can easily be accidentally changed (such as dice) may not be used. Status information consists of:
+    </p>
+      <ul>
+        <li>
+          Life total.
+        </li>
+        <li>
+          Counters a player has attached to them.
+        </li>
+        <li>
+          Continuous effects with no defined expiration within the game that apply to that player, such as Monarchor City’s Blessing.
+        </li>
+        <li>
+          Unspent mana in a player’s mana pool.
+        </li>
+        <li>
+          Location in a dungeon.
+        </li>
+        <li>
+          How many times the Ring has tempted a player.
+        </li>
+      </ul>
+    <p>
+      Free information is information to which all players are entitled access without contamination or omissions made by their opponents. If a player is ever unable or unwilling to provide free information to an opponent that has requested it, they should call a judge and explain the situation. Free information consists of:
+    </p>
+      <ul>
+        <li>
+          Details of current game actions and past game actions that still affect the game state. 
+        </li>
+        <li>
+          The name of any visible object.
+        </li>
+        <li>
+          The number and type of any counter that isn’t defined as status information.
+        </li>
+        <li>
+          The state (whether it’s tapped, attached to another permanent, face down, etc.) and current zone of any object or player.
+        </li>
+        <li>
+          The game score of the current match.
+        </li>
+        <li>
+          The current step and/or phase and which player(s) are active.
+        </li>
+      </ul>
+    <p>
+      Derived information is information to which all players are entitled access, but opponents are not obliged to assist in determining and may require some skill or calculation to determine. Derived information consists of:
+    </p>
+      <ul>
+        <li>
+          The number of any kind of objects present in any game zone that are not defined as free information.
+        </li>
+        <li>
+          All characteristics of objects in public zones that are not defined as free or status information.
+        </li>
+        <li>
+          Game Rules, Tournament Policy, Oracle content and any other official information pertaining to the current tournament. Cards are considered to have their Oracle text printed on them.
+        </li>
+      </ul>
+    <p>
+      Private information is information to which players have access only if they are able to determine it from the current visual game state or their own record of previous game actions.
+    </p>
+      <ul>
+        <li>
+          Any information that is not status, free or derived is automatically private information.
+        </li>
+      </ul>
+    <p>
+      The following rules govern player communication:
+    </p>
+      <ul>
+        <li>
+          Players must announce any changes to status information about themselves and must represent it with a physical designation.
+        </li>
+        <li>
+          If a player notices a discrepancy in recorded or announced status information, they are expected to point it out as soon as the discrepancy is noticed.
+        </li>
+        <li>
+          Players must answer all questions asked of them by a judge completely and honestly, regardless of the type of information requested. Players may request to do so away from the match.
+        </li>
+        <li>
+          Players may not represent derived, free, or status information incorrectly.
+        </li>
+        <li>
+          Players must answer completely and honestly any specific questions pertaining to free information.
+        </li>
+        <li>
+          At Regular Rules Enforcement Level, all derived information is instead considered free.
+        </li>
+      </ul>
+    <p>
+      Judges are encouraged to help players in determining free and status information but must avoid assisting players with derived information about the game state.
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
-_Status information consists of:_
+Status information consists of:
 
-* _Life totals._
-* _Counters a player has attached to them._
-* _Continuous effects with no defined expiration within the game that apply to that player, such as Monarch or City’s Blessing._
-* _Unspent mana in a player’s mana pool._
-* _Location in a dungeon._
-* **Amount of damage a player received from a Commander.**
+* ... _(existing items)_
+* Amount of damage a player received from a Commander.
 
-_Free information consists of:_
+Free information consists of:
 
-* _Details of current game actions and past game actions that still affect the game state._
-* _The name of any visible object._
-* _The number and type of any counter that isn’t defined as status information._
-* _The state (whether it’s tapped, attached to another permanent, face down, etc.) and current zone of any object or player._
-* _The game score of the current match._
-* _The current step and/or phase and which player(s) are active._
-* **The number of times a Commander has been cast from the command zone.**
+* ... _(existing items)_
+* The number of times a Commander has been cast from the command zone.
 
 ## 4.2. Tournament Shortcuts
+
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      A tournament shortcut is an action taken by players to skip parts of the technical play sequence without explicitly announcing them. Tournament shortcuts are essential for the smooth play of a game, as they allow players to play in a clear fashion without getting bogged down in the minutiae of the rules. Most tournament shortcuts involve skipping one or more priority passes to the mutual understanding of all players; if a player wishes to demonstrate or use a new tournament shortcut entailing any number of priority passes, they must be clear where the game state will end up as part of the request.
+    </p>
+    <p>
+      A player may interrupt a tournament shortcut by explaining how they are deviating from it or at which point in the middle they wish to take an action. A player may interrupt their own shortcut in this manner. If part of the shortcut is discovered to be or becomes illegal, the shortcut stops at that point. A player is not allowed to use a previously undeclared tournament shortcut, or to modify an in-use tournament shortcut without announcing the modification, in order to create ambiguity in the game.
+    </p>
+    <p>
+      A player may not request priority and take no action with it. If a player decides they do not wish to do anything, the request is nullified and priority is returned to the player that originally had it.
+    </p>
+    <p>
+      During the resolution of one of their spells or abilities, a player may not assume their opponent has taken a shortcut. They must seek confirmation that a choice with no visible impact was taken.
+    </p>
+    <p>
+      Certain conventional tournament shortcuts used in Magic are detailed below. They define a default communication; if a player wishes to deviate from these, they should be explicit about doing so. Note that some of these are exceptions to the policy above in that they do cause non-explicit priority passes.
+    </p>
+    <ul>
+      <li>
+        If the active player passes priority with an empty stack during their first main phase, the non-active player is assumed to be acting in beginning of combat unless they are affecting whether a beginning of combat ability triggers. Then, after those actions resolve or no actions took place, the active player receives priority at the beginning of combat. Beginning of combat triggered abilities (even ones that target) may be announced at this time.
+      </li>
+      <li>
+        If the active player passes priority with an empty stack during their second main phase or uses a phrase such as “Go” or “Your Turn” at any time, the non-active player is assumed to be acting in the end step unless they are affecting how or whether an end of turn ability triggers. End of turn triggered abilities that do not target resolve after the non-active player passes priority.
+      </li>
+      <li>
+        Whenever a player adds an object to the stack, they are assumed to be passing priority unless theyexplicitly announce that they intend to retain it.
+      </li>
+      <li>
+        If a player adds a group of objects to the stack without explicitly retaining priority, they are assumed to be adding them to the stack individually and allowing each to resolve before adding the next. If another player wishes to take an action at a point in the middle of this sequence, the actions should be reversed to that point.
+      </li>
+      <li>
+        If a player casts a spell or activates an ability and announces choices for it that are not normally made until resolution, the player must adhere to those choices unless an opponent responds to that spell or ability. If an opponent inquires about choices made during resolution, that player is assumed to be passing priority and allowing that spell or ability to resolve. 
+      </li> 
+      <li>
+        A player is assumed to have paid any cost of 0 unless they announce otherwise. 
+      </li>
+      <li>
+        A player who casts a spell or activates an ability that targets an object on the stack is assumed to target the legal spell closest to the top of the stack unless the player specifies otherwise. 
+      </li>
+      <li>
+        A player is assumed to be attacking another player with their creatures and not any planeswalkers that player may control unless the attacking player specifies otherwise.
+      </li>
+      <li>
+        A player who does not scry/surveil when instructed to is assumed to have not looked and chosen to leave the cards in the same order.
+      </li>
+      <li>
+        In the Two-Headed Giant format, attacking creatures are assumed to be attacking the head of the defending player sitting directly across from their controller, unless the creature's controller specifies otherwise.
+      </li>
+    </ul>
+  </blockquote>
+</details>
+<p></p>
 
 **Edits**
 
@@ -322,12 +620,49 @@ The reason being that we can't simply assume a default opponent when there are m
 
 This is in contrast to Head-to-Head tournaments, where the priority is returned to the player that had originally it. This is done to prevent abuse where players verbally announce outside of their priority window, that they wish to do something and by not doing anything, they are potentially leading other players into passing priority.
 
-_Example: Alice is attacking and Bob is pondering what to do while they have priority. Daniel says they will use a Cyclonic Rift at the end of Alice’s turn. Thus, Bob passes priority and Charles also passes priority, followed by Daniel. Combat ends and during their second main phase, Alice plays a land and says “Pass the turn” - attempting to execute the Tournament Shortcut. Then, Bob and Charles both pass priority saying “OK “ on the Tournament Shortcut, knowing that Daniel would do something. However, Daniel says he changed his mind and doesn’t want to do anything.  \
-If Daniel were to pass priority here, the turn would end and Bob’s turn would start, without Bob having a chance to do anything. \
-The Head-to-Head fix would allow Charles to have priority at this point, but Charles is fully tapped-out, so they can’t initiate a new round of priority. \
-With this fix, we allow Alice to have priority back in their second main phase, after they played the land for the turn._
+_Example: Alice is attacking and Bob is pondering what to do while they have priority. Daniel says they will use a Cyclonic Rift at the end of Alice’s turn. Thus, Bob passes priority and Charles also passes priority, followed by Daniel. Combat ends and during their second main phase, Alice plays a land and says “Pass the turn” - attempting to execute the Tournament Shortcut. Then, Bob and Charles both pass priority saying “OK “ on the Tournament Shortcut, knowing that Daniel would do something. However, Daniel says he changed his mind and doesn’t want to do anything._
+
+_If Daniel were to pass priority here, the turn would end and Bob’s turn would start, without Bob having a chance to do anything._
+
+_The Head-to-Head fix would allow Charles to have priority at this point, but Charles is fully tapped-out, so they can’t initiate a new round of priority._
+
+_With this fix, we allow Alice to have priority back in their second main phase, after they played the land for the turn._
 
 ## 4.4. Loops
+
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      A loop is a form of tournament shortcut that involves detailing a sequence of actions to be repeated and then performing a number of iterations of that sequence. The loop actions must be identical in each iteration and cannot include conditional actions ("If this, then that".)
+    </p>
+    <p>
+      If no players are involved in maintaining the loop, each player in turn order chooses a number of iterations to perform before they will take an action to break the loop or that they wish to take no action. If all players choose to take no action, the game is a draw. Otherwise, the game advances through the lowest number of iterations chosen and the player who chose that number takes an action to break the loop.
+    </p>
+    <p>
+      If one player is involved in maintaining the loop, they choose a number of iterations. The other players, in turn order, agree to that number or announce a lower number after which they intend to intervene. The game advances through the lowest number of iterations chosen and the player who chose that number receives priority.
+    </p>
+    <p>
+      If two or more players are involved in maintaining a loop within a turn, each player in turn order chooses a number of iterations to perform. The game advances through the lowest number of iterations chosen and the player who chose that number receives priority.
+    </p>
+    <p>
+      Loops may span multiple turns if a game state is not meaningfully changing. Note that drawing cards other than the ones being used to sustain the loop is a meaningful change. If two or more players are involved in maintaining a loop across turns, each player chooses a number of iterations to perform, or announces their intent to continue indefinitely. If all players choose to continue indefinitely, the game is a draw. Otherwise, the game advances through the lowest number of iterations chosen and the player who chose that number receives priority at the point they stop taking an action to sustain the loop.
+    </p>
+    <p>
+      A player intervening during a loop may specify that one iteration of the loop is only partly performed in order to be able to take action at the appropriate point. If they do, the final iteration is only performed up to the chosen point.
+    </p>
+    <p>
+      Non-deterministic loops (loops that rely on decision trees, probability, or mathematical convergence) may not be shortcut. A player attempting to execute a nondeterministic loop must stop if at any point during the process a previous game state (or one identical in all relevant ways) is reached again. This happens most often in loops that involve shuffling a library.
+    </p>
+    <p>
+      Some loops are sustained by choices rather than actions. In these cases, the rules above may be applied, with the player making a different choice rather than ceasing to take an action. The game moves to the point where the player makes that choice. If the choice involves hidden information, a judge may be needed to determine whether any choice is available that will not continue the loop.
+    </p>
+    <p>
+      The judge is the final arbiter of what constitutes a loop. A player may not 'opt-out' of shortcutting a loop, nor may they make irrelevant changes between iterations in an attempt to make it appear as though there is no loop. Once a loop has been shortcut, it may not be restarted until the game has changed in a relevant way. Proposing loops as an effort to use up time on the clock is Stalling.
+    </p>
+  </blockquote>
+</details>
+<p></p>
 
 **Policy Additions**
 
@@ -337,7 +672,7 @@ This process continues until an earliest point in the loop is not proposed, in w
 
 Then, the first player that proposed the earliest point in the loop is considered to be requesting priority to interrupt the shortcut created by the loop.
 
-This process follows the same rules specified in MSTR 4.2A.
+This process follows the same rules specified in MAMTR 4.2A.
 
 # 5. Tournament Violations
 
@@ -347,13 +682,8 @@ This process follows the same rules specified in MSTR 4.2A.
 
 Unsporting conduct will not be tolerated at any time. Tournament participants must behave in a polite and respectful manner. Unsporting conduct includes, but is not limited to: 
 
-* _Using profanity._
-* _Engaging in behavior that could reasonably be expected to create a feeling of being harassed, bullied, or stalked._
-* _Arguing with, acting belligerently toward, or insulting tournament officials, players, or spectators._
-* _Violating the personal privacy or safety of any participant, including spectators and staff._
-* _Using social media to bully, shame, or intimidate other participants._
-* _Failing to follow the instructions of a tournament official._
-* **Violating the Tournament Organizer’s Code of Conduct (if applicable).**
+* ... _(existing items)_
+* Violating the Tournament Organizer’s Code of Conduct (if applicable).
 
 # 6. Constructed Tournament Rules
 
@@ -371,45 +701,45 @@ Commander Format introduces changes to the Deck Construction rules as defined in
 
 Refer to the official banlist available at: [https://mtgcommander.net/index.php/banned-list/](https://mtgcommander.net/index.php/banned-list/)
 
-# X. Commander Tournament Rules
+# *. Commander Tournament Rules
 
 **This section as whole is an addition from this supplement and should be interpreted as being next to the Format-specific sections of the Magic Tournament Rules: After “9. Two-Headed-Giant Tournament Rules” and before “10. Sanctioning Rules”.**
 
-## X.1. Match Structure
+## *.1. Match Structure
 
-**X.1A.** In Commander matches, the required number of game wins to win a match is one. As per 2.1, a Match continues until the required number of game wins is attained by a player or ends in a draw.
+***.1A.** In Commander matches, the required number of game wins to win a match is one. As per 2.1, a Match continues until the required number of game wins is attained by a player or ends in a draw.
 
-**X.1B.** In Commander matches, players play against each other in Pods. Each Pod should be composed of four players. In the case that the number of participants is not divisible by 4, it is recommended that players that can’t be matched in Pods of four receive a Bye for that round instead.
+***.1B.** In Commander matches, players play against each other in Pods. Each Pod should be composed of four players. In the case that the number of participants is not divisible by 4, it is recommended that players that can’t be matched in Pods of four receive a Bye for that round instead.
 
-## X.2. Communication Rules
+## *.2. Communication Rules
 
-**X.2A.** Commander Damage is considered Status Information and therefore subject to the rules defined in section 4.1 Player Communication.
+***.2A.** Commander Damage is considered Status Information and therefore subject to the rules defined in section 4.1 Player Communication.
 
-## X.3. Play/Draw Rule
+## *.3. Play/Draw Rule
 
-**X.3A.** Due to Commander being typically played in Best-of-One matches, the way the turn cycles are organized in the Pod, and the fact that the first player also draws, the Play-Draw Rule is ignored.
+***.3A.** Due to Commander being typically played in Best-of-One matches, the way the turn cycles are organized in the Pod, and the fact that the first player also draws, the Play-Draw Rule is ignored.
 
 Instead, for the Swiss portion of the tournament, seating order (and thus turn order) will be established by a random method decided by the Tournament Organizer. The turn order cannot be altered except by in-game effects.
 
 For the single elimination portion of the tournament, the seating and play order is defined by the standings from the Swiss portion of the tournament, in accordance with rule 2.2A Play/Draw Rule.
 
-**X.3B.** If the tournament match structure includes multiple games per match, it is recommended that the seating order is randomized between games, as well as the starting player, because otherwise all the players would continue playing with the same priority order as before.
+***.3B.** If the tournament match structure includes multiple games per match, it is recommended that the seating order is randomized between games, as well as the starting player, because otherwise all the players would continue playing with the same priority order as before.
 
-## X.4. Pregame Procedure
+## *.4. Pregame Procedure
 
-**X.4A.** Before drawing opening hands, players will reveal their Companion (if any) and then their Commander as per Comprehensive Rules 103.2c. All other pregame procedures are performed as normal.
+***.4A.** Before drawing opening hands, players will reveal their Companion (if any) and then their Commander as per Comprehensive Rules 103.2c. All other pregame procedures are performed as normal.
 
-## X.5. Time Extensions
+## *.5. Time Extensions
 
-**X.5A** Because Commander decks are 100-card singleton lists, after a Deck Check is performed tournament staff should award extra time to the affected match totaling the time spent on the deck check, plus four (4) extra minutes to account for the additional shuffling time needed.
+***.5A** Because Commander decks are 100-card singleton lists, after a Deck Check is performed tournament staff should award extra time to the affected match totaling the time spent on the deck check, plus four (4) extra minutes to account for the additional shuffling time needed.
 
-## X.6. Commander Booster Draft
+## *.6. Commander Booster Draft
 
-**X.6A** Refer to the Comprehensive Rules (section 903.13. Commander Draft) for instructions on how Commander Booster Draft works.
+***.6A** Refer to the Comprehensive Rules (section 903.13. Commander Draft) for instructions on how Commander Booster Draft works.
 
-## X.7 Commander Single Elimination Procedures
+## *.7 Commander Single Elimination Procedures
 
-**X.7A** Due to the nature of Commander gameplay, it is strongly recommended that single-elimination rounds be run with no time limit. Any deviation from this recommendation must be communicated to the players before tournament begins and any tiebreaker method should be based solely on information pertaining to the current match.
+***.7A** Due to the nature of Commander gameplay, it is strongly recommended that single-elimination rounds be run with no time limit. Any deviation from this recommendation must be communicated to the players before tournament begins and any tiebreaker method should be based solely on information pertaining to the current match.
 
 # 10. Sanctioning Rules
 
