@@ -941,13 +941,344 @@ In the semi finals, the seeds of the winners from the quarterfinals are taken in
 
 # Appendix B – Time Limits
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      The <strong>required</strong> minimum time limit for any match is 40 minutes.
+    </p>
+    <p>
+      The following time limits are <strong>recommended</strong> for each round of a tournament:
+    </p>
+    <ul>
+      <li>
+        Constructed and Limited tournaments - 50 minutes
+      </li>
+      <li>
+        Single-elimination quarterfinal or semifinal matches - 90 minutes
+      </li>
+      <li>
+        Single-elimination final matches - no time limit
+      </li>
+    </ul>
+    <p>
+      The following additional time limits are recommended for Limited tournaments:
+    </p>
+    <ul>
+      <li>
+        Sealed Deck - 20 minutes for deck registration and 30 minutes for deck construction. For Prereleases and Sealed Deck events that take place on the weekend of a new set release, 15 additional minutes for deck construction is recommended.
+      </li>
+      <li>
+        Draft - 25 minutes for deck registration and construction.
+      </li>
+      <li>
+        Team Sealed Deck - 20 minutes for deck registration and 60 minutes for deck construction. For Team-format Sealed Deck events that take place on the weekend of a new set release, 15 additional minutes for deck construction is recommended.
+      </li>
+      <li>
+        Team Draft - 40 minutes for deck construction and registration.
+      </li>
+      <li>
+        Two-Headed Giant Sealed Deck - 20 minutes for deck registration and 60 minutes for deck construction. For Two-headed Giant Sealed Deck events that take place on the weekend of a new set release, 15 additional minutes for deck construction is recommended.
+      </li>
+      <li>
+        Two-Headed Giant Draft - 40 minutes for deck construction and registration
+      </li>
+    </ul>        
+    <p>
+      The Head Judge of the tournament is the final authority on time limits for a tournament. However, any deviation from these recommendations must be announced prior to and during tournament registration.
+    </p>
+    <p>
+      Magic Premier Tournaments may have different time limits. These time limits can be found in the tournament or tournament series fact sheet.
+    </p>
+    <p>
+      In timed rounds, players must wait for the officially tracked time to begin before starting their match.
+    </p>
+    <p>
+      Booster Draft Timing
+    </p>
+    <p>
+      Individual Booster Drafts have the following default time limits for each pick:
+    </p>
+    <table>
+      <thead>
+        <tr>
+          <th>Cards remaining in pack</th>
+          <th>Time allotted</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>15 cards</td><td>40 seconds</td></tr>
+        <tr><td>14 cards</td><td>40 seconds</td></tr>
+        <tr><td>13 cards</td><td>35 seconds</td></tr>
+        <tr><td>12 cards</td><td>30 seconds</td></tr>
+        <tr><td>11 cards</td><td>25 seconds</td></tr>
+        <tr><td>10 cards</td><td>25 seconds</td></tr>
+        <tr><td>9 cards</td><td>20 seconds</td></tr>
+        <tr><td>8 cards</td><td>20 seconds</td></tr>
+        <tr><td>7 cards</td><td>15 seconds</td></tr>
+        <tr><td>6 cards</td><td>10 seconds</td></tr>
+        <tr><td>5 cards</td><td>10 seconds</td></tr>
+        <tr><td>4 cards</td><td>5 seconds</td></tr>
+        <tr><td>3 cards</td><td>5 seconds</td></tr>
+        <tr><td>2 cards</td><td>5 seconds</td></tr>
+        <tr><td>1 card</td><td>N/A</td></tr>
+      </tbody>
+    </table>
+    <p>
+      The time for review after the first booster pack is 60 seconds. Each subsequent review period increases by 30 seconds.
+    </p>
+    <p>
+      Rochester Draft Timing
+    </p>
+    <p>
+      The review period for a draft booster after it has been laid out on the table and before the first card is drafted is 20 seconds. Players have 5 seconds for each pick.
+    </p>
+    <p>
+      Two-Headed Giant Draft Timing
+    </p>
+    <p>
+      Two-Headed Giant Booster Drafts have the following default time limits for each pick:
+    </p>
+    <table>
+      <thead>
+        <tr><th colspan="2">Cards remaining in pack</th><th></th></tr>
+        <tr><th>15-Card Booster</th><th>14-Card Booster</th><th>Time allotted</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>15</td><td>14</td><td>50 seconds</td></tr>
+        <tr><td>13</td><td>12</td><td>45 seconds</td></tr>
+        <tr><td>11</td><td>10</td><td>40 seconds</td></tr>
+        <tr><td>9 </td><td>8 </td><td>30 seconds</td></tr>
+        <tr><td>7 </td><td>6 </td><td>20 seconds</td></tr>
+        <tr><td>5 </td><td>4 </td><td>10 seconds</td></tr>
+        <tr><td>3 </td><td>- </td><td>5 seconds</td></tr>
+        <tr><td>1 </td><td>2 </td><td>N/A</td></tr>
+      </tbody>
+    </table>
+    <p>
+      In addition, players receive 60 seconds to review their drafted cards in between booster packs
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
-* For Multiplayer tournaments at Regular REL—90 minutes
-* For Multiplayer tournaments at Competitive REL—75 minutes
-* For Multiplayer single elimination matches—no time limit
+The following time limits are recommended for each round of a Multiplayer tournament:
+
+* For swiss rounds at Regular REL - 90 minutes
+* For swiss rounds at Competitive REL - 75 minutes
+* For single elimination matches - no time limit
+
+20-card Multiplayer Booster Drafts, with 2 picks per booster, have the following default time limits for each pick:
+
+| Cards remaining in pack | Time allotted |
+|-----------------------------------------|
+| 20 cards                | 60 seconds    |
+| 18 cards                | 60 seconds    |
+| 16 cards                | 55 seconds    |
+| 14 cards                | 50 seconds    |
+| 12 cards                | 45 seconds    |
+| 10 cards                | 35 seconds    |
+| 8 cards                 | 25 seconds    |
+| 6 cards                 | 15 seconds    |
+| 4 cards                 | 10 seconds    |
+| 2 cards                 | N/A           |
 
 # Appendix C – Tiebreaker Explanation
+
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      Match Points
+    </p>
+    <p>
+      Players earn 3 match points for each match win, 0 points for each match loss and 1 match point for each match ending in a draw. Players receiving byes are considered to have won the match.
+    </p>
+    <ul>
+      <li>A player's record is 6–2–0 (Wins–Losses–Draws). That player has 18 match points (6*3, 2*0, 0*1).</li>
+      <li>A player's record is 4–2–2. That player has 14 match points (4*3, 2*0, 2*1).</li>
+    </ul>
+    <p>
+      Game Points
+    </p>
+    <p>
+      Game points are similar to match points in that players earn 3 game points for each game they win and 1 point for each game that ends in a draw, and 0 points for any game lost. Unfinished games are considered draws. Unplayed games are worth 0 points.
+    </p>
+    <ul>
+      <li>
+        A player wins a match 2–0–0, so they earn 6 game points and their opponent receives 0 game points from the match.
+      </li>
+      <li>
+         A player wins a match 2–1–0, so they earn 6 game points and their opponent earns 3 game points from the match.
+      </li>
+      <li>
+        A player wins a match 2–0–1, so they earn 7 game points and their opponent earns 1 game point from the match.
+      </li>
+    </ul>
+    <p>
+      Game points are not used in team tournaments; only the overall result of the match is used for tiebreakers.
+    </p>
+    <p>
+      Match-win percentage
+    </p>
+    <p>
+      A player’s match-win percentage is that player’s accumulated match points divided by the total match points possible in those rounds (generally, 3 times the number of rounds played). If this number is lower than 0.33, use 0.33 instead. The minimum match-win percentage of 0.33 limits the effect low performances have when calculating and comparing opponents’ match-win percentage.
+    </p>
+    <p>
+      <em>Examples:</em>
+    </p>
+    <p>
+      These three players competed in an 8-round tournament, although only the first player completed all rounds
+    </p>
+    <table>
+      <thead>
+        <tr>
+          <th>Tournament Record</th>
+          <th>Match Points</th>
+          <th>Rounds Played</th>
+          <th>Match-win Percentage</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>5-2-1</td>
+          <td>16</td>
+          <td>8</td>
+          <td>16/(8*3) = 0.667</td>
+        </tr>
+        <tr>
+          <td>1-3-0, then withdraws</td>
+          <td>3</td>
+          <td>4</td>
+          <td>3/(4*3) = 0.25, so 0.33 is used.</td>
+        </tr>
+        <tr>
+          <td>3-2-0, including a first-round bye, then withdraws</td>
+          <td>9</td>
+          <td>5</td>
+          <td>9/(5*3) = 0.60</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      Game-win percentage
+    </p>
+    <p>
+      Similar to the match-win percentage, a player’s game-win percentage is the total number of game points they earned divided by the total game points possible (generally, 3 times the number of games played). Again, use 0.33 if the actual game-win percentage is lower than that.
+    </p>
+    <p>
+      These two players competed in a four-round tournament:
+    </p>
+    <table>
+      <thead>
+        <tr>
+          <th>Game Record by Match</th>
+          <th>Game Points</th>
+          <th>Games Played</th>
+          <th>Game-win Percentage</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <ul>
+              <li>Round 1: 2 wins (6 game points)</li>
+              <li>Round 2: 2 wins and 1 loss (6 game points)</li>
+              <li>Round 3: 1 win and 2 losses (3 game points)</li>
+              <li>Round 4: 2 wins (6 game points)</li>
+            </ul>
+          </td>
+          <td>21</td>
+          <td>10</td>
+          <td>21/(3*10) = 0.70</td>
+        </tr>
+        <tr>
+          <td>
+            <ul>
+              <li>Round 1: 1 win and 2 losses (3 game points)</li>
+              <li>Round 2: 1 win and 2 losses (3 game points)</li>
+              <li>Round 3: 2 losses (0 game points)</li>
+              <li>Round 4: 1 win and 2 losses (3 game points)</li>
+            </ul>
+          </td>
+          <td>9</td>
+          <td>11</td>
+          <td>9/(3*11) = 0.27, so 0.33 is used.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      Opponents’ match-win percentage
+    </p>
+    <p>
+      A player’s opponents’ match-win percentage is the average match-win percentage of each opponent that player faced (ignoring those rounds for which the player received a bye). Use the match-win percentage definition listed above when calculating each individual opponent’s match-win percentage.
+    </p>
+    <p>
+      <em>Examples:</em>
+    </p>
+    <ul>
+      <li>
+        <p>
+          A player’s record in an eight-round tournament is 6–2–0. Her opponents’ match records were: 4–4–0, 7–1–0, 1–3–1, 3–3–1, 6–2–0, 5–2–1, 4–3–1, and 6–1–1, so her opponents’ match-win percentage is:
+        </p>
+        <p>
+          $${12 \over 24} + {21 \over 24} + {4 \over 15} + {10 \over 21} + {18 \over 24} + {16 \over 24} + {13 \over 24} + {19 \over 24} \over 8 \text{ opponents}$$
+        </p>
+          
+        <p>
+          <center>Translated to the decimal system, this equation is:</center>          
+        </p>
+        <p>
+          $$0.50 + 0.88 + 0.33 \text{ (raised from 0.27)} + 0.48 + 0.75 + 0.67 + 0.54 + 0.79 \over 8$$
+        </p>
+        <p>
+          <center>With the individual match-win percentages added together, this equation becomes:</center>
+        </p>
+        <p>
+          $$4.94 \over 8$$
+        </p>
+        <p>
+          <center>This player's opponents' match-win percentage is 0.62</center>
+        </p>
+      </li>
+      <li>
+        <p>
+          Another player’s record at the same tournament was 6–2–0. His opponents’ records were: bye, 7–1–0, 1–3–1, 3–3–1, 6–2–0, 5–2–1, 4–3–1, and 6–1–1, so his opponents’ match-win percentage is:
+        </p>
+        <p>
+          $$0.88 + 0.33 \text{ (raised from 0.27)} + 0.48 + 0.75 + 0.67 + 0.54 + 0.79 \over 7$$
+        </p>
+        <p>
+          <center>With the individual match-win percentages added together, this equation becomes:</center>
+        </p>
+        <p>
+          $$4.44 \over 7$$
+        </p>
+        <p>
+          <center>This player's opponents' match-win percentage is 0.63</center>
+        </p>
+      </li>
+    </ul>
+    <p>
+      Opponents’ game-win percentages
+    </p>
+    <p>
+      Similar to opponents’ match-win percentage, a player’s opponents’ game-win percentage is simply the average game-win percentage of all that player’s opponents. And, as with opponents’ match-win percentage, each opponent has a minimum game-win percentage of 0.33. 
+    </p>
+    <p>
+      Byes
+    </p>
+    <p>
+      When a player is assigned a bye for a round, they are considered to have won the match 2–0.
+    </p>
+    <p>
+      Thus, that player earns 3 match points and 6 game points. A player’s byes are ignored when computing their opponents’ match-win and opponents’ game-win percentages.
+    </p>
+  </blockquote>
+</details>
+<p></p>
 
 ## Match Points
 
@@ -1011,6 +1342,78 @@ $$
 
 # Appendix E – Recommended Number of Rounds in Swiss Tournaments
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      The following number of Swiss rounds is required for Premier tournaments (such as Regional ChampionshipQualifiers). It may be used at the Tournament Organizer’s discretion for non-Premier tournaments.
+    </p>
+    <table>
+      <thead>
+        <tr>
+          <th>Players (Teams)</th>
+          <th>Swiss Rounds</th>
+          <th>Playoff</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>4 (Team/2HG Only)</td>
+          <td>2 Single-Elimination Rounds (No Swiss)</td>
+          <td>None (Run Single Elimination)</td>
+        </tr>
+        <tr>
+          <td>5-8</td>
+          <td>3 Single-Elimination Rounds (No Swiss)</td>
+          <td>None (Run Single Elimination)</td>
+        </tr>
+        <tr>
+          <td>9-16</td>
+          <td>4 (if Limited Format with Booster Draft in Playoff)5 (All Other Formats)</td>
+          <td>Top 8 (If Limited Format with Booster Draft in Playoff)Top 4 (All Other Formats)</td>
+        </tr>
+        <tr>
+          <td>17-32</td>
+          <td>5</td>
+          <td>Top 8</td>
+        </tr>
+        <tr>
+          <td>33-64</td>
+          <td>6</td>
+          <td>Top 8</td>
+        </tr>
+        <tr>
+          <td>65-128</td>
+          <td>7</td>
+          <td>Top 8</td>
+        </tr>
+        <tr>
+          <td>129-226</td>
+          <td>8</td>
+          <td>Top 8</td>
+        </tr>
+        <tr>
+          <td>227-409</td>
+          <td>9</td>
+          <td>Top 8</td>
+        </tr>
+        <tr>
+          <td>410+</td>
+          <td>10</td>
+          <td>Top 8</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      Team tournaments consider each team as a single player for this purpose.
+    </p>
+    <p>
+      In tournaments where awarded byes are used, each player with a 1-round bye should count as 2 players, each player with a 2-round bye should count as 4 players, and each player with a 3-round bye should count as 8 players when using the above chart.
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
 For Multiplayer tournaments, in a configuration of four (4) players per Pod, it is recommended to use the following number of rounds:
@@ -1019,22 +1422,25 @@ For Multiplayer tournaments, in a configuration of four (4) players per Pod, it 
 | ------- | ---------------------------------------------------------------- | ------- |
 | 4       | None (Run 1 Single elimination round)                            | None    |
 | 5-15    | 2                                                                | Top 4   |
-| 16-32   | 3                                                                | Top 10  |
-| 33-64   | 4                                                                | Top 16  |
-| 65-128  | 5                                                                | Top 16  |
-| 129-256 | 5                                                                | Top 40  |
+| 16-24   | 3                                                                | Top 10  |
+| 25-32   | 4                                                                | Top 10  |
+| 33-64   | 5                                                                | Top 16  |
+| 65-128  | 6                                                                | Top 16  |
+| 129-256 | 7                                                                | Top 40  |
 
 For Multiplayer tournaments with more than 257 participants, perform a Top 40 Playoff and apply the following mathematical formula to figure out the number of rounds to play:
 
-$$ {\text{Rounded up }(\log_4(\text{number of players})) + 1} $$
+$$ {\text{Rounded up }(\log_4(\text{number of players})) + 2} $$
 
-![image](https://user-images.githubusercontent.com/5087/215114736-5f1488d8-2927-4845-a9dc-20201aaa1250.png)
+But as you can see in the following graph, we adjust the recommended rounds, mostly because we are also including a playoff section:
 
-_Between 257 and 1024 players, the recommended number of rounds is 6._
+![rounds per players](/assets/images/players_rounds.svg)
 
-_With 1024+ players the recommended number of rounds becomes 7._
+_Between 257 and 1024 players, the recommended number of rounds is 8._
 
-_In any case, you may want to consider splitting very large events into smaller ones that get merged afterwards_ 
+_With 1024+ players the recommended number of rounds becomes 9._
+
+_In any case, you may want to consider splitting very large events into smaller ones that get merged afterwards, or split the event over multiple days, with cuts based on match points between each day_
 
 When the number of players is uneven with the desired Pod size, and byes are being awarded, consider that for each player being awarded a Bye, it's as if 3 invisible players would also exist. Think of these invisible players as dummies that the player awarded the Bye got to play against and win. So, in a scenario where you have 30 players enrolled in the event, because you will have to award 2 Byes, you should actually consider using a number of rounds as if you had 36 players, to mitigate the power imbalance of the multiple Byes.
 
