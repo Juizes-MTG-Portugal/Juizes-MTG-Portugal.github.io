@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Multiplayer Addendum to the Infraction Procedure Guide"
-date: 2023-11-19 19:00:00 +0000
+date: 2023-11-20 15:00:00 +0000
 categories: unofficial documents multiplayer competitive
+permalink: multiplayer-addendum-ipg
 ---
 
 * This will become a table of contents (this text will be scrapped).
@@ -14,78 +15,21 @@ categories: unofficial documents multiplayer competitive
 
 # Introduction
 
-The Multiplayer Addendum to the Infraction Procedure Guide exists to assist Judges who are working at Competitive or Professional Rules Enforcement Level in Multiplayer game mode tournaments. This document is written as a supplement to the Infraction Procedure Guide and should be used in close conjunction with it and the Multiplayer Addendum to the Magic Tournament Rules. 
+The Multiplayer Addendum to the Infraction Procedure Guide exists to assist Judges who are working at Competitive or Professional Rules Enforcement Level in Multiplayer Game Mode Tournaments. This document is written as a supplement to the Infraction Procedure Guide and should be used in close conjunction with it and the Multiplayer Addendum to the Magic Tournament Rules. 
 
-This document is an extension of the Infraction Procedure Guide, and therefore a person using the Multiplayer Addendum should first be familiar with that document. Once a person has reviewed the relevant sections of the Infraction Procedure Guide, they can turn to the Multiplayer Addendum to the Infraction Procedure Guide to find details on how to proceed in Multiplayer Game Mode.
+This document is an extension of the Infraction Procedure Guide, and therefore a person using the Multiplayer Addendum should first be familiar with that document. Once a person has reviewed the relevant sections of the Infraction Procedure Guide, they can turn to the Multiplayer Addendum to the Infraction Procedure Guide to find details on how to proceed in Multiplayer Tournaments.
 
 ## Framework
 
-Each section within this document mirrors its namesake in the Infraction Procedure Guide. Within each section, **Policy Additions** and **Edits** can be found. **Policy Additions** are policies outlined as best practice for handling infractions, penalties, and fixes. **Edits** are designed to address the few important removals or additions to this document that differ from the Infraction Procedure Guide. Items or sections with italicized text are taken directly from the Infraction Procedure Guide.
+Each section within this document mirrors its namesake in the Infraction Procedure Guide. Within each section, **Policy Additions** can be found. **Policy Additions** are policies outlined as best practice for handling infractions, penalties, and fixes.
 
-See the **Multiplayer Supplemental Tournament Rules** for further definitions of terms in this document. 
+See the **Multiplayer Addendum to the Tournament Rules** for further definitions of terms in this document. 
 
 At the time of original publishing, this document has been published solely in English. If such a time exists that this document be printed, translated, or otherwise ported to another language, tournament participants must refer to the English version to settle disputes concerning interpretations.
 
-This document is updated periodically. Please obtain the most current version [here](https://github.com/MonarchDevelopment/MIPG-and-MSTR/blob/main/MSIPG.md).
+This document is updated periodically. Please obtain the most current version [here](https://juizes-mtg-portugal.github.io/).
 
 # 1. General Philosophy
-
-<details>
-  <summary><strong>Original policy</strong></summary>
-  <blockquote>
-    <p>
-Judges are neutral arbiters and enforcers of policy and rules. A judge shouldn’t intervene in a 
-game unless they believe a rules violation has occurred, a player with a concern or question 
-requests assistance, or the judge wishes to prevent a situation from escalating. Judges don’t stop 
-play errors from occurring, but instead deal with errors that have occurred, penalize those who 
-violate rules or policy, and promote fair play and sporting conduct by example and diplomacy. 
-Judges may intervene to prevent or preempt errors occurring outside of a game. Knowledge of a 
-player’s history or skill does not alter an infraction, but it may be taken into account during an 
-investigation.
-</p>
-<p>
-The purpose of a penalty is to educate the player not to make similar mistakes in the future. This 
-is done through both an explanation of where the rules or policies were violated and a penalty to 
-reinforce the education. Penalties are also for the deterrence and education of every other player 
-in the event and are also used to track player behavior over time.
-</p>
-<p>
-If a minor violation is quickly handled by the players to their mutual satisfaction, a judge does 
-not need to intervene. If the players are playing in a way that is clear to both players, but might 
-cause confusion to an external observer, judges are encouraged to request that the players make 
-the situation clear, but not assess an infraction or issue any penalty. In both these situations, the 
-judge should ensure that the game progresses normally. More significant violations are addressed 
-by first identifying what infraction applies, then proceeding with the corresponding instructions.
-</p>
-<p>
-Only the Head Judge is authorized to issue penalties that deviate from these guidelines. The 
-Head Judge may not deviate from this guide’s procedures except in significant and exceptional 
-circumstances or a situation that has no applicable philosophy for guidance. Significant and 
-exceptional circumstances are rare - a table collapses, a draft booster contains cards from a 
-different set, etc. The Rules Enforcement Level, round of the tournament, age or experience-level of the player, desire to educate the player, and certification level of the judge are NOT 
-exceptional circumstances. If another judge feels deviation is appropriate, they must consult with 
-the Head Judge.
-</p>
-<p>
-Judges are human and make mistakes. When a judge makes a mistake, they should acknowledge 
-the mistake, apologize to the players, and fix it if it is not too late. If a member of the tournament 
-staff gives a player erroneous information that causes them to commit a violation, the Head 
-Judge is authorized to downgrade the penalty. For example, a player asks a judge whether a card 
-is legal for a format and is told yes. When that player’s deck is found to be illegal because of 
-these cards, the Head Judge applies the normal procedure for fixing the decklist, but may 
-downgrade the penalty to a Warning because of the direct error of the judge. If a player clearly 
-acts on erroneous information provided by a judge during the game, the Head Judge may 
-consider a backup to the point of the action taken, even if that action did not lead to a violation.
-    </p>
-  </blockquote>
-</details>
-<p></p>
-
-**Policy Additions**
-
-**1A.** In Multiplayer formats, due to larger match sizes and longer match lengths, the number of games played is typically one. As such, the penalty of Game Loss is effectively equivalent to the penalty of Match Loss. The application of Game Loss has been modified where appropriate. 
-
-**1B.** In some cases, the penalty of Game Loss remains. In other cases, a new remedy and penalty have been substituted to maintain the philosophy of the Infraction Procedure Guide when the application of a Game Loss has been deemed too severe or otherwise inappropriate.
 
 ## 1.1. Definition of Penalties
 
@@ -169,7 +113,7 @@ the disqualified player and that player’s opponent.
 
 **Policy Additions**
 
-**1.1A.** In best-of-one Multiplayer game mode a Game Loss penalty would be equivalent to a Match Loss. Therefore, each penalty where a Game Loss would be applied has been updated while maintaining the purposes of mitigating advantages and disincentivizing the infraction. 
+**1.1A.** In Multiplayer Tournaments, in some cases the penalty or additional remedy of **Skipping a Turn** is applied. Please refer to the Comprehensive Rules 500.10 for details on how Skipping a Turn works.
 
 ## 1.3. Randomizing a Library
 
@@ -193,7 +137,7 @@ Shuffles performed by a judge as part of a remedy are not considered shuffles fo
 
 **Policy Additions**
 
-**1.3A.** In Multiplayer game mode, check with all players when determining and verifying wheter any portion of a library is non-random.
+**1.3A.** In Multiplayer Tournaments, **check with all Players** when determining and verifying wheter any portion of a library is non-random.
 
 # 2. Game Play Errors
 
@@ -222,7 +166,9 @@ Loss. For multi-day tournaments, the penalty count for these infractions resets 
 
 **Policy Additions**
 
-**2A.** In Multiplayer game mode, the third infraction is often not worthy of a Match Loss. It is still important, however, to discourage the infraction and mitigate the possible gained avantage. In Multiplayer game mode, only the **fourth and subsequent Warnings** for a Game Play Error in the same category, for the **Missed Trigger, Looking at Extra Cards, Mulligan Procedure Error and Game Rule Violation** categories are upgraded to a Game Loss.
+**2A.** In Multiplayer Tournaments, given the **added complexity of the game state** that can occur, specially in **Best-of-One matches**, the third infraction is often not worthy of an upgrade from **Warning** to **Game Loss** which is an effective **Match Loss**. It is still important, however, to discourage the infraction and mitigate the possible gained avantage. 
+
+As such, in Multiplayer Tournaments, only the **fourth and subsequent Warnings** for a Game Play Error in the same category, for the **Missed Trigger** and **Game Rule Violation** categories are upgraded to a **Game Loss**.
 
 ## 2.1. Game Play Error — Missed Trigger
 
@@ -386,9 +332,9 @@ Loss. For multi-day tournaments, the penalty count for these infractions resets 
 
 **Policy Additions**
 
-**2.1A. Additional Remedy** In Multiplayer game mode, since there are multiple opponents, the decisions that would be made by "the opponent", are instead made by a majority vote by the opponents. If no majority decision is reached (perhaps because one opponent was eliminated and there is an even number of opponents), the final decision will be made by a randomly chosen opponent.
+**2.1A. Additional Remedy** In Multiplayer Tournaments, since there are multiple opponents, **the decisions** that would be made by "the opponent" _(when and if the missed trigger is put on the stack / resolves)_, are **instead made by a majority vote** of the opponents. If no majority decision is reached _(perhaps because one opponent was eliminated and there is an even number of opponents)_, the final decision will be made by a randomly chosen opponent.
 
-**2.1B. Upgrade** In Multiplayer game mode, this infraction only upgrades to Game Loss after the forth and subsequent ones.
+**2.1B. Upgrade** In Multiplayer Tournaments, this infraction only upgrades to **Game Loss after the forth and subsequent Warnings**.
 
 ## 2.3. Game Play Error — Hidden Card Error
 
@@ -508,7 +454,7 @@ they may swap the card for a card with the morph ability in hand.
 
 **Policy Additions**
 
-**2.3A Additional Remedy** In Multiplayer game mode, the decision on what cards must be returned, majority of remaining opponents must decide on the card(s) returned. If no majority decision is reached, the final decision will be made by a randomly chosen opponent. 
+**2.3A Additional Remedy** In Multiplayer Tournaments, the **decision on what cards** must be returned is made by a **majority vote** of opponents. If no majority decision is reached, the final decision will be made by a randomly chosen opponent. 
 
 ## 2.5. Game Play Error — Game Rule Violation
 
@@ -595,57 +541,438 @@ continued both players will have committed a Game Rule Violation.
 
 **Policy Additions**
 
-**2.5A Philosophy** In Multiplayer Game mode, it is expected that all players are mindful of what is happening in the game.
+**2.5A Philosophy** In Multiplayer Tournaments, it is expected that **all players** are mindful of what is happening in the game.
 
-**2.5B Additional Remedy** In Multiplayer Game mode, if the judge believes that more than one player is responsible for the Game Rule Violation, such as due to the opponents controlling the continuous effect modifying the rules of the game that led to the Game Rule Violation or a player taking action based on another player’s instruction, then all of the involved players will have committed a Game Play Error - Game Rule Violation, where the remaining players that were not involved have commited a Game Play Error - Failure to Maintain Game State.
+**2.5B Additional Remedy** In Multiplayer Tournaments, if the judge believes that **more than one player** is responsible for the Game Rule Violation, such as due to the opponents controlling the continuous effect modifying the rules of the game that led to the Game Rule Violation or a player taking action based on another player’s instruction, then **all of the involved players** will have committed a Game Play Error - **Game Rule Violation**, where the **remaining players that were not involved** have commited a Game Play Error - **Failure to Maintain Game State**.
 
-**2.5C. Upgrade** In Multiplayer game mode, this infraction only upgrades to Game Loss after the forth and subsequent ones.
+**2.5C. Upgrade** In Multiplayer Tournaments, this infraction only upgrades to **Game Loss after the forth and subsequent Warnings**.
 
 # 3. Tournament Errors
 
 ## 3.1. Tournament Error — Tardiness
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Game Loss</strong>
+    <p>
+      <strong>Definition</strong>
+    </p>
+    <p>
+A player is not in their seat at the beginning of a round, or has not completed tasks assigned 
+within the time allocated. If a round begins before the previous round would have ended (due to 
+all players finishing early), tardiness does not apply until the scheduled end of the previous 
+round.
+    </p>
+    <p>
+If, before or during a match, a player requests and receives permission from a judge for a delay 
+for a legitimate task, such as a bathroom break or finding replacements for missing cards, that 
+player has up to 10 minutes to perform that task before they are considered tardy. If the player 
+takes more than 10 minutes, a Match Loss will be applied. Otherwise, no penalty will be applied 
+and a time extension given for the time taken.
+    </p>
+    <p>
+<strong>Examples</strong>
+    </p>
+    <ol type="A">
+      <li>A player arrives to their seat 5 minutes after the round begins.</li>
+      <li>A player hands in their decklist after the time designated by the judge or organizer.</li>
+      <li>A player loses their deck and cannot find replacement cards within the first 10 minutes of the round.</li>
+      <li>A player sits at an incorrect table and plays the wrong opponent.</li>
+    </ol>
+    <p>
+<strong>Philosophy</strong>
+    </p>
+    <p>
+Players are responsible for being on time and in the correct seat for their matches, and for 
+completing registrations in a timely manner. The Tournament Organizer may announce that they 
+are giving the players some additional time before a penalty is issued. Otherwise, the penalty is 
+issued as soon as the round begins.
+    </p>
+    <p>
+<strong>Additional Remedy</strong>
+    </p>
+    <p>
+The players are given a time extension corresponding to the length of the tardiness. 
+    </p>
+    <p>
+<strong>Upgrade</strong>: A player not in their seat 10 minutes into the round will receive a Match Loss and will 
+be dropped from the tournament unless they report to the Head Judge or Scorekeeper before the 
+end of the round.
+    </p>
+    <p>
+<strong>Downgrade</strong>: A player who arrives at their seat before 1 minute has elapsed in the round receives 
+a Warning.
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
-**3.1A. Penalty** In Multiplayer game mode, no Game Loss is awarded for Tardiness. Instead, players who arrive late and would normally receive a Game Loss skip their first turn. For more information on skipping turns, refer to Comprehensive Rules 500.10.
+**3.1A. Penalty** In Multiplayer Tournaments, **no Game Loss** is awarded for Tardiness. Instead, players who arrive late and would normally receive a Game Loss **skip their first turn**. For more information on skipping turns, refer to Comprehensive Rules 500.10. There is still the path for upgrade to Match Loss after 10 minutes, and the path for downgrade to Warning before 1 minute.
 
 ## 3.2. Tournament Error — Outside Assistance
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Match Loss</strong>
+    <p>
+      <strong>Definition</strong>
+    </p>
+    <p>
+A player, spectator, or other tournament participant does any of the following:
+    </p>
+    <ul>
+      <li>Seeks play advice or private information about their match from others once they have sat 
+for their match.</li>
+      <li>Gives play advice or reveals private information to players who have sat for their match. </li>
+      <li>During a game, refers to notes (other than Oracle™ pages) made before the official 
+beginning of the current match.</li>
+    </ul>
+    <p>
+These criteria also apply to any deck construction and draft portions of a limited tournament. 
+Additionally, no notes of any kind may be made during a draft. Some team formats have 
+additional communication rules that may modify the definition of this infraction.
+    </p>
+    <p>
+Notes made outside the current match may only be referenced between games, and must have 
+been in the player’s possession since the beginning of the match.
+    </p>
+    <p>
+<strong>Examples</strong>
+    </p>
+    <ol type="A">  
+      <li>During a game, a player references play notes that were created before the tournament.</li>
+      <li>A spectator points out the correct play to a player who had not solicited the information.</li>
+    </ol>
+    <p>
+<strong>Philosophy</strong>
+    </p>
+    <p>
+Tournaments test the skill of a player, not their ability to follow external advice or directions. 
+Any strategy advice, play advice, or construction advice from an external source is considered 
+outside assistance.
+    </p>
+    <p>
+Visual modifications to cards, including brief text, that provide minor strategic information or 
+hints are acceptable and not considered notes. Detailed instructions or complex strategic advice 
+may not be written on cards. The Head Judge is the final arbiter on what cards and notes are 
+acceptable for a tournament. Spectators who commit this infraction may be asked to leave the 
+venue if they are not enrolled in the tournament.
+    </p>
+    <p>
+<strong>Downgrade</strong>: If the information acquired is information that the player would have access to 
+between games, the penalty is a Game Loss.
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
-**3.2A. Definition** In Multiplayer game mode, this refers only to players outside of the current match. Players who offer advice or strategic lines of play to opponents within their current match have not committed Outside Assistance. Keep in mind that players that got eliminated count as spectators, so while eliminated, they are considered outside of the current match.
-
-**3.2B. Downgrade** In Multiplayer games modes, if the penalty for Outside Assistance is downgraded, it downgrades to a Warning instead of a Game Loss. 
+**3.2A. Definition** In Multiplayer Tournaments, this refers **only to players outside of the current match**. Players who offer advice or strategic lines of play to opponents within their current match have not committed Outside Assistance. Keep in mind that **players that got eliminated count as spectators**, so while eliminated, they are considered outside of the current match.
 
 ## 3.3 Tournament Error — Slow Play
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Warning</strong>
+    <p>
+      <strong>Definition</strong>
+    </p>
+A player takes longer than is reasonably required to complete game actions. If a judge believes a 
+player is intentionally playing slowly to take advantage of a time limit, the infraction is 
+Unsporting Conduct — Stalling.
+    </p>
+    <p>
+It is also slow play if a player continues to execute a loop without being able to provide an exact 
+number of iterations and the expected resulting game state.
+    </p>
+    <p>
+<strong>Examples</strong>
+    </p>
+    <ol type="A">
+      <li>A player repeatedly reviews their opponent’s graveyard without any significant change in 
+game state.</li>
+      <li>A player spends time writing down the contents of an opponent’s library while resolving 
+Thought Hemorrhage.</li>
+      <li>A player takes an excessive amount of time to shuffle their deck between games.</li>
+      <li>A player gets up from their seat to look at standings or goes to the bathroom without 
+permission of an official.</li>
+    </ol>
+    <p>
+<strong>Philosophy</strong>
+    </p>
+    <p>
+All players have the responsibility to play quickly enough so that their opponents are not at a 
+significant disadvantage because of the time limit. A player may be playing slowly without 
+realizing it. A comment of “I need you to play faster” is often appropriate and all that is needed. 
+Further slow play should be penalized.
+    </p>
+    <p>
+<strong>Additional Remedy</strong>
+    </p>
+    <p>
+In the event that the match exceeds the time limit, two additional turns are added to the number 
+of additional turns played. This turn extension occurs before any end-of-match procedure can 
+begin and after any time extensions that may have been issued. 
+No additional turns are awarded if the match is already in additional turns, though the Warning 
+still applies.
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
-**3.3A. Additional Remedy** In Multiplayer game mode, no additional extra turns are added as a remedy for slow play. Players who receive a Slow Play warning during the round will skip any extra turns originating from the End-of-Round procedure. Their turn is not considered when determining extra turns for end of round procedure. The remaining players take their extra turns. 
+**3.3A. Additional Remedy** In Multiplayer Tournaments, no **additional extra turns** are added as a remedy for slow play. Players who receive a Slow Play warning during the round will **skip any extra turns** originating from the End-of-Round procedure. Their turn is not considered when determining extra turns for end of round procedure. The remaining players take their extra turns. 
 
-**3.3B. Additional Remedy** If a player is issued a Warning for Slow Play after time in the round has been called in Multiplayer game mode, that player's turn(s) originating from the End-of-Round procedure are not skipped, though the Warning still applies. 
+**3.3B. Additional Remedy** If a player is issued a Warning for **Slow Play after time in the round** has been called in Multiplayer Tournaments, that player's turn(s) originating from the End-of-Round procedure are **not skipped**, though the Warning still applies. 
 
 ## 3.5. Tournament Error — Deck Problem
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Warning</strong>
+    <p>
+      <strong>Definition</strong>
+    </p>
+    <p>
+The contents of a deck or sideboard do not match the decklist registered and the decklist 
+represents what the player intended to play.
+    </p>
+    <p>
+If there are extra cards stored with the sideboard that could conceivably be played in the player’s 
+deck, they will be considered a part of the sideboard unless they are:
+    </p>
+    <ul>
+      <li>Promotional cards that have been handed out as part of the event.</li>
+      <li>Double-faced cards represented by substitute cards in the deck.</li>
+      <li>Damaged cards that have been officially proxied for the tournament.</li>
+      <li>Double-faced cards being used to represent the back side of cards in the deck. These 
+cards must not be sleeved in the same way as cards in the main deck and/or sideboard. </li>
+    </ul>
+    <p>
+Cards in different sleeves, tokens, and double-faced cards for which substitute cards are being 
+used are ignored when determining deck (not sideboard) legality. 
+    </p>
+    <p>
+If a player is unable to locate cards (or identical equivalents) from their main deck, treat it as a 
+Decklist Problem instead. If sideboard cards are missing, make a note of this, but issue no 
+penalty.
+    </p>
+    <p>
+The discovery of a card that violates a companion restriction is a Deck Problem if the player 
+does not wish to modify their decklist to accommodate the companion restriction.
+</p>
+    <p>
+<strong>Examples</strong>
+    </p>
+    <ol type="A">
+      <li>A player has 59 cards in their deck, but 60 listed on their decklist.</li>
+      <li>A player has a Pacifism in their deck from a previous opponent.</li>
+      <li>In game one of a match, A player has Pithing Needle in their deck, but only has one 
+registered in their sideboard.</li>
+    </ol>
+    <p>
+<strong>Philosophy</strong>
+    </p>
+Players are expected to call attention to deck errors immediately, and not gain any potential 
+advantage from having the cards in their deck.
+    </p>
+    <p>
+The most common forms of deck error are failure to desideboard and having a card in the wrong 
+deck. Both of these are difficult to gain advantage from without obvious cheating. Allowing the 
+opponent to choose which card they would otherwise be working with is sufficient to 
+compensate for the easily discovered situations. Duplicates of cards that begin in the main deck 
+are more problematic, as they are not as easy to realize and catch, and thus mandate an upgraded 
+penalty.
+    </p>
+    <p>
+A window in which the error is a Game Loss is necessary to discourage intentional abuse of the 
+minimum number of cards in the deck. Once that point has passed, the opponent agrees that the 
+deck is valid. Judges should always be mindful of the abuse possibilities when investigating 
+these infractions.
+    </p>
+    <p>
+<strong>Additional Remedy</strong>
+        </p>
+    <p>
+Locate any cards missing from the deck and any incorrect cards in any game zone. Reveal those 
+cards to the opponent. If the game has started, the opponent chooses whether to fix the problem 
+now or when a player would next get priority, and which of the missing cards replaces each 
+incorrect card; any extras are shuffled into the random portion of the library. If more cards are 
+being removed than added, prioritize ones not in the library first. If there are still additional cards 
+not in the library that need replacing, they are replaced by cards from the random portion of the
+library. If the missing card(s) are with the sideboard and it isn’t the first game, choose the ones to 
+be returned to the deck at random from main deck cards in the sideboard.
+    </p>
+    <p>
+If the error caused a violation of a companion restriction and it is a post-sideboard game (or a 
+pre-sideboard game and the player has elected to continue with the deck they registered that does 
+not match the revealed companion condition), locate all cards violating the restriction. Then, 
+choose that number of cards at random from unrevealed cards in the sideboard that meet the 
+companion restriction. The opponent decides which chosen card replaces each illegal card. If 
+making the deck match the companion condition is impossible, upgrade the penalty to a Game 
+Loss.
+    </p>
+    <p>
+If the missing card(s) were in a previous or current opponent’s deck, issue penalties to both 
+players.
+    </p>
+    <p>
+<strong>Upgrade</strong>: While presented to the opponent for pre-game shuffling or during a deckcheck, if it is 
+discovered that a deck contains an invalid number of cards (and any missing cards are not in the 
+opponent’s deck) or a sideboard contains too many cards, the penalty is a Game Loss.
+    </p>
+    <p>
+<strong>Upgrade</strong>: If an opponent may have made strategic decisions based on the presence of a 
+sideboard card (such as having seen it in the hand or library during a search effect), the penalty is 
+a Game Loss.
+    </p>
+    <p>
+<strong>Upgrade</strong>: If an error resulted in more copies of a main deck card being played than were 
+registered or allowed by companion restriction and this was discovered after the game had 
+begun, the penalty is a Game Loss unless all copies of the card are still in the random portion of 
+the library. For example if the decklist has two copies of Shock in the main deck and two in the 
+sideboard, but a search finds two copies of Shock in the library with another already in the 
+graveyard, the penalty is upgraded.
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
-**3.5A. Additional Remedy** In Multiplayer game mode, the card or cards are revealed to all opponents. The majority of opponents must come to a decision on which missing card replaces each incorrect card. If no majority decision is reached, the final decision will be made by a randomly chosen opponent.  
+**3.5A. Additional Remedy** In Multiplayer Tournaments, the **located card or cards are revealed to all opponents**. The **majority of opponents** must come to a decision on wether to fix the problem now or when a player would next get priority, and which missing cards replaces each incorrect card. If no majority decision is reached, the final decision will be made by a randomly chosen opponent.  
 
-**3.5B. Additional Remedy** In Multiplayer game mode, it's possible for multiple cards to be missing by be located in multiple players' decks. If the missing card(s) were in a previous or current opponent’s deck(s), issue penalties to **all involved** players.
+**3.5B. Additional Remedy** In Multiplayer Tournaments, it's possible for multiple cards to be missing by be located in multiple players' decks. If the missing card(s) were in a previous or current opponent’s deck(s), issue **penalties to all involved players**.
 
 # 4. Unsporting Conduct
 
 ## 4.2. Unsporting Conduct — Major
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Match Loss</strong>
+    <p>
+      <strong>Definition</strong>
+    </p>
+    <p>
+A player takes action towards one or more individuals that could reasonably be expected to 
+create a feeling of being harassed, threatened, bullied, or stalked. This may include insults based 
+on race, color, religion, national origin, age, gender, disability, or sexual orientation. Threats of 
+physical violence should be treated as Unsporting Conduct – Aggressive Behavior.
+    </p>
+    <p>
+It is possible for an offender to commit this infraction without intending malice or harm to the 
+subject of the harassment. 
+    </p>
+    <p>
+<strong>Examples</strong>
+    </p>
+    <ol>
+      <li>A player uses a racial slur against their opponent.</li>
+      <li>A player intentionally misgenders their opponent.</li>
+      <li>A player takes inappropriate photos of another player without express permission.</li>
+      <li>A player asks a spectator for a date, is denied, and continues to press the issue.</li>
+      <li>A player purposefully obstructs another player with the intent of inducing physical 
+contact.</li>
+      <li>A spectator uses social media to bully another player.</li>
+    </ol>
+    <p>
+<strong>Philosophy</strong>
+    </p>
+    <p>
+A safe environment is a basic expectation of any tournament attendee. Harassment undermines 
+the safety and integrity of a tournament. Players who purposefully create harmful or 
+unwelcoming situations in a tournament are expected to immediately correct the behavior and 
+demonstrate remorse or be removed.
+    </p>
+    <p>
+Because of the confrontational nature of this infraction, judges need to end any match in progress 
+and separate the players. Care should be taken not to escalate the situation if at all possible. The 
+offender will be removed from the area to receive the penalty, and education about why the 
+behavior is unacceptable regardless of excuse. They may need a few moments to cool down
+afterwards. Apologizing is encouraged, but the desire of the other individuals to not interact with 
+their harasser must be respected.
+    </p>
+    <p>
+Officials must investigate these matters as soon as they are brought to their attention. If they 
+determine that the infraction does not meet the criteria for Unsporting Conduct – Major, it is still 
+recommended that the players be talked to to avoid future misunderstandings.
+    </p>
+    <p>
+<strong>Additional Remedy</strong>
+    </p>
+    <p>
+The player must correct the behavior immediately. If the offense occurs at the end of a match, it 
+is acceptable for the judge to apply the penalty to the next match instead.
+    </p>
+    <p>
+<strong>Upgrade</strong>: If the offense was committed with malicious intent, the player displays no remorse, or 
+the offense is repeated at a later time, the penalty is Disqualification and removal from the venue
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
-**4.2A. Philosophy** In Multiplayer game mode, only the players instigating or perpetuating confrontation are removed from the match.
+**4.2A. Philosophy** In Multiplayer Tournaments, only the players instigating or perpetuating confrontation are removed from the match, in which case the **match can continue with the remaining players**.
 
 ## 4.4. Unsporting Conduct — Bribery and Wagering
 
+<details>
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Match Loss</strong>
+    <p>
+      <strong>Definition</strong>
+    </p>
+    <p>
+A player offers an incentive to entice an opponent into conceding, drawing, or changing the 
+results of a match, encourages such an offer, or accepts such an offer. Refer to section 5.2 of the 
+Magic Tournament Rules for a more detailed description of what constitutes bribery.
+    </p>
+    <p>
+Wagering occurs when a player or spectator at a tournament places or offers to place a bet on the 
+outcome of a tournament, match or any portion of a tournament or match. The wager does not 
+need to be monetary, nor is it relevant if a player is not betting on their own match.
+    </p>
+    <p>
+If the player was aware that what they were doing was against the rules, the infraction is 
+Unsporting Conduct — Cheating.
+    </p>
+    <p>
+<strong>Examples</strong>
+    </p>
+    <ol>
+      <li>A player in a Swiss round offers their opponent $100 to concede the match.</li>
+      <li>A player offers their opponent a card in exchange for a draw.</li>
+      <li>A player asks for a concession in exchange for a prize split.</li>
+      <li>Two players agree that the winner of the match will be able to choose a rare card out of 
+the other person’s deck after the match.</li>
+      <li>Two spectators place a bet on the number of games that will be needed to decide a match.</li>
+    </ol>
+    <p>
+<strong>Philosophy</strong>
+    </p>
+    <p>
+Bribery and wagering disrupt the integrity of the tournament and are strictly forbidden.
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
-**4.4A. Philosophy** In Multiplayer game mode, in-game agreements, such as offering to not attack one another, are not Bribery. Bribery refers to tangible, monetary, or other similar means outside of the game offered to influence or change gameplay decisions or match outcome.
+**4.4A. Philosophy** In Multiplayer Tournaments, **in-game agreements**, such as offering to not attack one another, are **not Bribery**. Bribery refers to tangible, monetary, or other similar means outside of the game offered to influence or change gameplay decisions or match outcome.
 
 # Credit
 

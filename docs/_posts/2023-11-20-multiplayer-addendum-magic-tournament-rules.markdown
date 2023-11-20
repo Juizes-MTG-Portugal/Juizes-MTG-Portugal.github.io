@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Multiplayer Addendum to the Magic Tournament Rules"
-date: 2023-11-19 19:00:00 +0000
+date: 2023-11-20 15:00:00 +0000
 categories: unofficial documents multiplayer competitive regular
+permalink: multiplayer-addendum-mtr
 ---
 
 * This will become a table of contents (this text will be scrapped).
@@ -14,7 +15,7 @@ categories: unofficial documents multiplayer competitive regular
 
 # Introduction
 
-The Multiplayer Addendum to the Magic Tournament Rules exists to assist Judges who are working at any Rules Enforcement Level in Multiplayer game mode tournaments. This document is written as a supplement to the Magic Tournament Rules and should be used in close conjunction with it. 
+The Multiplayer Addendum to the Magic Tournament Rules exists to assist Judges who are working at any Rules Enforcement Level in Multiplayer Game Mode Tournaments. This document is written as a supplement to the Magic Tournament Rules and should be used in close conjunction with it. 
 
 This document is an extension of the Magic Tournament Rules, and therefore a person using the Multiplayer Addendum should first be familiar with that document. Once a person has reviewed the relevant sections of the Magic Tournament Rules, they can turn to the Multiplayer Addendum to the Magic Tournament Rules to find details on how to proceed in Multiplayer Tournaments.
 
@@ -57,9 +58,9 @@ This document is updated periodically. Please obtain the most current version [h
 
 In Head-to-Head tournaments, games are played in such a way that there are only two players or two teams involved.
 
-In Multiplayer tournaments, each player or team will play against more than one opposing player or team. The mode of a tournament is a characteristic independent from tournament type and format. A tournament can be, for example, Premier, Limited, and Multiplayer.
+In Multiplayer Tournaments, each player or team will play against more than one opposing player or team. The mode of a tournament is a characteristic independent from tournament type and format. A tournament can be, for example, Premier, Limited, and Multiplayer.
 
-In Multiplayer tournaments, players are organized in Pods. A Pod consists of the group of players competing and a seating order.
+In Multiplayer Tournaments, players are organized in Pods. A Pod consists of the group of players competing and a seating order.
 
 A Two-Headed Giant team is treated as a single player when determining the tournament mode.
 
@@ -125,7 +126,7 @@ A Two-Headed Giant team is treated as a single player when determining the tourn
 
 **Policy Additions**
 
-**1.10A.** For Multiplayer tournaments, if a Player loses a game during a match, they are expected to act as Spectators for the remainder of the ongoing game.
+**1.10A.** For Multiplayer Tournaments, if a Player loses a game during a match, they are expected to act as Spectators for the remainder of the ongoing game.
 
 _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer match. Bob loses the game to combat damage, but doesn’t leave the table and keeps spectating the game. From this point, until the end of the game, Bob is forbidden from participating in any political or strategic discussions, since at this point it would be advantageous for Bob if the game ended up in a draw._
 
@@ -180,7 +181,7 @@ _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer mat
 
 **Policy Additions**
 
-**1.12A.** For Multiplayer tournaments, there are differences on how to handle infractions when compared to Head-to-Head tournaments. Those differences are covered by the Multiplayer Addendum to the Infraction Procedure Guide, located at [https://juizes-mtg-portugal.github.io/](https://juizes-mtg-portugal.github.io/)
+**1.12A.** For Multiplayer Tournaments, there are differences on how to handle infractions when compared to Head-to-Head tournaments. Those differences are covered by the Multiplayer Addendum to the Infraction Procedure Guide, located at [https://juizes-mtg-portugal.github.io/](https://juizes-mtg-portugal.github.io/)
 
 # 2. Tournament Mechanics
 
@@ -201,7 +202,7 @@ _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer mat
 
 **Policy Additions**
 
-**2.1A.** In Multiplayer tournaments, the usual number of games required to win a match is one. If a game ends in a draw, a new game is started including every player in the Pod.
+**2.1A.** In Multiplayer Tournaments, the usual number of games required to win a match is one. If a game ends in a draw, a new game is started including every player in the Pod.
 
 The winner of a match is the player that won the required number of games, or the player that has won the most games.
 
@@ -226,9 +227,9 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 
 **Policy Additions**
 
-**2.2A** In Multiplayer tournaments, both the seating order and first player are defined with a random method. There is no “winner of a random-method” as in Head-to-Head tournaments and therefore no choice to be made in swiss rounds. In single elimination, the player with the highest standing from the swiss portion of the tournament will go first, followed by the player with the next highest, until all player’s order is decided.
+**2.2A** In Multiplayer Tournaments, both the seating order and first player are defined with a random method. There is no “winner of a random-method” as in Head-to-Head tournaments and therefore no choice to be made in swiss rounds. In single elimination, the player with the highest standing from the swiss portion of the tournament will go first, followed by the player with the next highest, until all player’s order is decided.
 
-**2.2B** For Multiplayer tournaments where the number of game wins required to win a match is  greater than one, the seating order must be randomized across all games. The starting player is decided using a random method for each game after the first.
+**2.2B** For Multiplayer Tournaments where the number of game wins required to win a match is  greater than one, the seating order must be randomized across all games. The starting player is decided using a random method for each game after the first.
 
 ## 2.3. Pregame Procedure
 
@@ -270,7 +271,7 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 
 **Policy Additions**
 
-**2.3A.** Some Multiplayer tournaments and Formats might introduce changes to the sequence of pregame procedures. Refer to the mode or format specific rules in the Comprehensive Rules.
+**2.3A.** Some Multiplayer Tournaments and Formats might introduce changes to the sequence of pregame procedures. Refer to the mode or format specific rules in the Comprehensive Rules.
 
 ## 2.4. End of Match Procedure
 
@@ -301,17 +302,17 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 
 **Policy Additions**
 
-**2.4A.** In Multiplayer tournaments, organizers have two methods to consider when deciding how to handle end-of-round procedure: 2.4AA and 2.4AB. It is recommended that 2.4AA be utilized when round times are 75 minutes or less, and 2.4AB be utilized when rounds times are between 75 and 90 minutes.
+**2.4A.** In Multiplayer Tournaments, organizers have two methods to consider when deciding how to handle end-of-round procedure: 2.4AA and 2.4AB. It is recommended that 2.4AA be utilized when round times are 75 minutes or less, and 2.4AB be utilized when rounds times are between 75 and 90 minutes.
 
-**2.4AA.** In Multiplayer tournaments, use N turns instead of five, where N equals the number of remaining players. The number of extra turns is determined as time in the round is called. Once this number is determined, players leaving the game have no impact. 
+**2.4AA.** In Multiplayer Tournaments, use N turns instead of five, where N equals the number of remaining players. The number of extra turns is determined as time in the round is called. Once this number is determined, players leaving the game have no impact. 
 
 _Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer match. Alice is the active player when time in the round was called. Alice finishes playing turn 0, and since there are 4 remaining players in the Pod, 4 extra turns will be played. Bob takes his turn, then Charlie takes his. However, during Charlie’s turn, Alice and Daniel both lose the game. Bob and Charlie will take the remaining turns, since the number of extra turns was determined as time in the round was called and is not impacted by players leaving the game during extra turns._
 
-**2.4AB.** In Multiplayer tournaments, if the time limit is reached before a winner is determined, the player whose turn it is finishes their turn. If the active player has already indicated that they’d like to pass the turn when the time limit is reached, that is considered to be in the next turn. If the game is incomplete at the end of additional turns, the game is considered a draw. If a judge assigned a time extension (because of a long ruling, deck check, or other reason) the end-of-match procedure does not begin until the end of the time extension. 
+**2.4AB.** In Multiplayer Tournaments, if the time limit is reached before a winner is determined, the player whose turn it is finishes their turn. If the active player has already indicated that they’d like to pass the turn when the time limit is reached, that is considered to be in the next turn. If the game is incomplete at the end of additional turns, the game is considered a draw. If a judge assigned a time extension (because of a long ruling, deck check, or other reason) the end-of-match procedure does not begin until the end of the time extension. 
 
 _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. Arnold is the active player when time in the round is called. Arnold finishes their turn and passes. Since no winner has been declared, the match must be reported as a draw._
 
-**2.4B.** In Multiplayer tournaments, it is strongly recommended that single elimination matches be untimed. Any deviation must be communicated to the players before tournament begins and any tiebreaker method should be based solely on information pertaining to the current match.
+**2.4B.** In Multiplayer Tournaments, it is strongly recommended that single elimination matches be untimed. Any deviation must be communicated to the players before tournament begins and any tiebreaker method should be based solely on information pertaining to the current match.
 
 ## 2.5. Conceding or Intentionally Drawing Games or Matches
 
@@ -333,7 +334,7 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **Policy Additions**
 
-**2.5A.** In Multiplayer tournaments, players may leave the table after losing a match as remaining players continue playing (see rule 800.4 in the Comprehensive Rules). 
+**2.5A.** In Multiplayer Tournaments, players may leave the table after losing a match as remaining players continue playing (see rule 800.4 in the Comprehensive Rules). 
 
 **2.5B.** If a player leaving the game would affect current or imminent game actions, those actions occur as though that player was still in the game until the end of the current phase.
 
@@ -370,7 +371,7 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **Policy Additions**
 
-**3.1A.** In Multiplayer tournaments, the following tie breakers are used to determine how a player ranks:
+**3.1A.** In Multiplayer Tournaments, the following tie breakers are used to determine how a player ranks:
 
 1. Match points
 2. Match Win percentage
@@ -394,11 +395,11 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **Policy Additions**
 
-**3.13A** In Head-to-Head tournaments, having the permission to look at an opponent’s card that the opponent can also look at is technically the same as that card being revealed. However in Multiplayer tournaments, that is not true. Being able to look at a card that an opponent can look at doesn’t give a player the right to reveal that card to everyone. According to Head-to-Head Tournament rules though, players are free to reveal cards that they can look at and this clashes with the concept of distinguishing between the Look and Reveal actions as defined in CR 701.16 (a through d). 
+**3.13A** In Head-to-Head tournaments, having the permission to look at an opponent’s card that the opponent can also look at is technically the same as that card being revealed. However in Multiplayer Tournaments, that is not true. Being able to look at a card that an opponent can look at doesn’t give a player the right to reveal that card to everyone. According to Head-to-Head Tournament rules though, players are free to reveal cards that they can look at and this clashes with the concept of distinguishing between the Look and Reveal actions as defined in CR 701.16 (a through d). 
 
 One of the reasons we want to allow players revealing hidden information they gained access to is to avoid a player accidentally revealing hidden information and either them or the players that gained that information accidentally being penalized. In Multiplayer it is expected that when a player is dealing with hidden information that pertains to one of their opponents, that they are extra careful about not physically revealing it. At the same time we also want to allow players to still be allowed to bluff about hidden information, so in any situation, players are allowed to verbally reveal any hidden information they may have gained.
 
-In Multiplayer tournaments, the following rules apply to physically revealing card faces in hidden zones:
+In Multiplayer Tournaments, the following rules apply to physically revealing card faces in hidden zones:
 
 - Library: the owner of the cards in the library can choose to physically reveal as long as they have been instructed to look at them.
 - Face down exile: any player with a currently applicable instruction allowing them to look at the cards may physically reveal them.
@@ -604,19 +605,17 @@ Free information consists of:
 </details>
 <p></p>
 
-**Edits**
+**Policy Additions**
 
-Any references to “non-active player” within MTR 4.2 refer to each non-active player in turn order within Multiplayer tournaments.
+**4.2A** Any references to “non-active player” within MTR 4.2 refer to each non-active player in turn order within Multiplayer Tournaments.
 
-The following shortcut doesn't apply in Multiplayer tournament games, as long as there are more than 2 players still participating in said game:
+**4.2B** The following shortcut doesn't apply in Multiplayer tournament games, as long as there are more than 2 players still participating in said game:
 
 * _A player is assumed to be attacking another player with their creatures and not any planeswalkers that player may control unless the attacking player specifies otherwise._
 
 The reason being that we can't simply assume a default opponent when there are multiple options. Players will always need to define an opponent / planeswalker / battle when attacking. This also applies to creatures put directly into the battlefield and attacking.
 
-**Policy Additions**
-
-**4.2A** In Multiplayer tournaments, if a player requests priority and decides they do not wish to do anything, the request is nullified, priority is returned to the active player and the game state is backed up to the point after the last game action.
+**4.2C** In Multiplayer Tournaments, if a player requests priority and decides they do not wish to do anything, the request is nullified, priority is returned to the active player and the game state is backed up to the point after the last game action.
 
 This is in contrast to Head-to-Head tournaments, where the priority is returned to the player that had originally it. This is done to prevent abuse where players verbally announce outside of their priority window, that they wish to do something and by not doing anything, they are potentially leading other players into passing priority.
 
@@ -666,7 +665,7 @@ _With this fix, we allow Alice to have priority back in their second main phase,
 
 **Policy Additions**
 
-**4.4A** In Multiplayer tournaments, a player intervening during a loop may specify that one iteration of the loop is only partly performed in order to be able to take action at the appropriate point. If they do, the final iteration is only performed up to the chosen point. This process cycles through each player, in turn order, where they may propose a number of iterations and point in the loop where they wish to interrupt.
+**4.4A** In Multiplayer Tournaments, a player intervening during a loop may specify that one iteration of the loop is only partly performed in order to be able to take action at the appropriate point. If they do, the final iteration is only performed up to the chosen point. This process cycles through each player, in turn order, where they may propose a number of iterations and point in the loop where they wish to interrupt.
 
 This process continues until an earliest point in the loop is not proposed, in which case it's considered that everyone is passing priority on the loop until it reaches the agreed point.
 
@@ -817,9 +816,9 @@ For the single elimination portion of the tournament, the seating and play order
 
 **Policy Additions**
 
-**10.1A.** For Multiplayer tournaments at Regular Rules Enforcement Level, a minimum of four (4) players must participate.
+**10.1A.** For Multiplayer Tournaments at Regular Rules Enforcement Level, a minimum of four (4) players must participate.
 
-**10.1B.** For Multiplayer tournaments at Competitive Rules Enforcement Level, a minimum of sixteen (16) players must participate.
+**10.1B.** For Multiplayer Tournaments at Competitive Rules Enforcement Level, a minimum of sixteen (16) players must participate.
 
 ## 10.2 Number of Rounds
 
@@ -852,9 +851,9 @@ For the single elimination portion of the tournament, the seating and play order
 
 **Policy Additions**
 
-**10.2A.** For Multiplayer tournaments at Regular Rules Enforcement Level, a minimum of one (1) round should be played.
+**10.2A.** For Multiplayer Tournaments at Regular Rules Enforcement Level, a minimum of one (1) round should be played.
 
-**10.2B.** For Multiplayer tournaments at Competitive Rules Enforcement Level, a minimum of two (2) rounds should be played.
+**10.2B.** For Multiplayer Tournaments at Competitive Rules Enforcement Level, a minimum of two (2) rounds should be played.
 
 ## 10.4 Pairing Algorithm
 
@@ -910,9 +909,9 @@ For the single elimination portion of the tournament, the seating and play order
 </details>
 <p></p>
 
-**10.4A.** For Multiplayer tournaments, it is recommended that Tournament Organizers use a tool that implements the following modified swiss pairing algorithm. There are commercial solutions and also open source solutions [^1] [^2] [^3].
+**10.4A.** For Multiplayer Tournaments, it is recommended that Tournament Organizers use a tool that implements the following modified swiss pairing algorithm. There are commercial solutions and also open source solutions [^1] [^2] [^3].
 
-In Multiplayer tournaments, the modified swiss pairing algorithm is as follows:
+In Multiplayer Tournaments, the modified swiss pairing algorithm is as follows:
 
 * Pairings should be done by sorting players by performance (Match points plus Tiebreakers in order), followed by preferably matching players following the performance order, starting from the highest performing players, by allocating them to Pods. This is referred to as Top-to-Bottom assignment.
 * This matching process must avoid matching between players that have already played against each other during previous rounds.
@@ -924,7 +923,7 @@ In Multiplayer tournaments, the modified swiss pairing algorithm is as follows:
   - _In an event with 22 players, pair players using 4 pods with size 4 and 2 pods with size 3_
   - _In an event with 21 players, pair players using 3 pods with size 4 and 3 pods with size 3_
 
-In Multiplayer tournaments, the single-elimination playoffs are paired according to the following pattern:
+In Multiplayer Tournaments, the single-elimination playoffs are paired according to the following pattern:
 
 ![top16](/assets/images/top16.svg)
 
@@ -1284,7 +1283,7 @@ The following time limits are recommended for each round of a Multiplayer tourna
 
 **Policy Additions**
 
-In Multiplayer tournaments, players earn N+1 match points for each match win, where N is the standard number of players in a Pod for that tournament.
+In Multiplayer Tournaments, players earn N+1 match points for each match win, where N is the standard number of players in a Pod for that tournament.
 
 The winner is the one that by the end of the round time has the most game wins or that before the end of the round time has achieved the required number of game wins.
 
@@ -1300,7 +1299,7 @@ A player who receives a bye in a Multiplayer tournament receives N+1 match point
 
 **Policy Additions**
 
-In Multiplayer tournaments, players earn N+1 game points for each game they win, where N is the standard number of players in a Pod for that tournament.
+In Multiplayer Tournaments, players earn N+1 game points for each game they win, where N is the standard number of players in a Pod for that tournament.
 
 Each player who began a game that does not end with a winner being declared will earn 1 point.
 
@@ -1308,7 +1307,7 @@ Each player who began a game that does not end with a winner being declared will
 
 **Policy Additions**
 
-In Multiplayer tournaments, the Match Win Percentage is defined as follows:
+In Multiplayer Tournaments, the Match Win Percentage is defined as follows:
 
 $$ {\text{Match points} - (\text{Number of byes} \times \text{Points per win}) \over \text{Number of matches played} \times \text{Points per win}} $$
 
@@ -1316,7 +1315,7 @@ $$ {\text{Match points} - (\text{Number of byes} \times \text{Points per win}) \
 
 **Policy Additions**
 
-In Multiplayer tournaments, Opponents’ Average Match Points is defined as follows:
+In Multiplayer Tournaments, Opponents’ Average Match Points is defined as follows:
 
 $$ {\text{(MP  of opponent 1)} + \text{(MP of opponent 2)} + \text{...} + \text{(MP of opponent n)} \over n} $$
 
@@ -1326,7 +1325,7 @@ Note that Byes do not count towards n.
 
 **Policy Additions**
 
-In Multiplayer tournaments, Opponent Match Win % is defined as follows: 
+In Multiplayer Tournaments, Opponent Match Win % is defined as follows: 
 
 $$ {\text{(MW Percent of opponent 1)} + \text{(MW Percent of opponent 2)} + \text{...} + \text{(MW Percent of opponent n)} \over n} $$
 
@@ -1416,7 +1415,7 @@ $$
 
 **Policy Additions**
 
-For Multiplayer tournaments, in a configuration of four (4) players per Pod, it is recommended to use the following number of rounds:
+For Multiplayer Tournaments, in a configuration of four (4) players per Pod, it is recommended to use the following number of rounds:
 
 | Players | Swiss Rounds                                                     | Playoff |
 | ------- | ---------------------------------------------------------------- | ------- |
@@ -1428,7 +1427,7 @@ For Multiplayer tournaments, in a configuration of four (4) players per Pod, it 
 | 65-128  | 6                                                                | Top 16  |
 | 129-256 | 7                                                                | Top 40  |
 
-For Multiplayer tournaments with more than 257 participants, perform a Top 40 Playoff and apply the following mathematical formula to figure out the number of rounds to play:
+For Multiplayer Tournaments with more than 257 participants, perform a Top 40 Playoff and apply the following mathematical formula to figure out the number of rounds to play:
 
 $$ {\text{Rounded up }(\log_4(\text{number of players})) + 2} $$
 
