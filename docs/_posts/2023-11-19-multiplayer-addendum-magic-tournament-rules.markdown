@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Multiplayer Addendum to the Magic Tournament Rules"
-date:   2023-11-15 00:41:52 +0000
+title: "Multiplayer Addendum to the Magic Tournament Rules"
+date: 2023-11-19 19:00:00 +0000
 categories: unofficial documents multiplayer competitive regular
 ---
 
