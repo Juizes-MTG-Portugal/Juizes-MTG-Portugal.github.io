@@ -168,7 +168,7 @@ Loss. For multi-day tournaments, the penalty count for these infractions resets 
 
 **2A.** In Multiplayer Tournaments, given the **added complexity of the game state** that can occur, specially in **Best-of-One matches**, the third infraction is often not worthy of an upgrade from **Warning** to **Game Loss** which is an effective **Match Loss**. It is still important, however, to discourage the infraction and mitigate the possible gained avantage. 
 
-As such, in Multiplayer Tournaments, only the **fourth and subsequent Warnings** for a Game Play Error in the same category, for the **Missed Trigger** and **Game Rule Violation** categories are upgraded to a **Game Loss**.
+As such, in Multiplayer Tournaments, only the **fourth and subsequent Warnings** for a Game Play Error in the same category, are upgraded to a **Game Loss**.
 
 ## 2.1. Game Play Error — Missed Trigger
 
@@ -333,8 +333,6 @@ As such, in Multiplayer Tournaments, only the **fourth and subsequent Warnings**
 **Policy Additions**
 
 **2.1A. Additional Remedy** In Multiplayer Tournaments, since there are multiple opponents, **the decisions** that would be made by "the opponent" _(when and if the missed trigger is put on the stack / resolves)_, are **instead made by a majority vote** of the opponents. If no majority decision is reached _(perhaps because one opponent was eliminated and there is an even number of opponents)_, the final decision will be made by a randomly chosen opponent.
-
-**2.1B. Upgrade** In Multiplayer Tournaments, this infraction only upgrades to **Game Loss after the forth and subsequent Warnings**.
 
 ## 2.3. Game Play Error — Hidden Card Error
 
@@ -544,8 +542,6 @@ continued both players will have committed a Game Rule Violation.
 **2.5A Philosophy** In Multiplayer Tournaments, it is expected that **all players** are mindful of what is happening in the game.
 
 **2.5B Additional Remedy** In Multiplayer Tournaments, if the judge believes that **more than one player** is responsible for the Game Rule Violation, such as due to the opponents controlling the continuous effect modifying the rules of the game that led to the Game Rule Violation or a player taking action based on another player’s instruction, then **all of the involved players** will have committed a Game Play Error - **Game Rule Violation**, where the **remaining players that were not involved** have commited a Game Play Error - **Failure to Maintain Game State**.
-
-**2.5C. Upgrade** In Multiplayer Tournaments, this infraction only upgrades to **Game Loss after the forth and subsequent Warnings**.
 
 # 3. Tournament Errors
 
