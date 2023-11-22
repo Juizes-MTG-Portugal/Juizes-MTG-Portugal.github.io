@@ -33,7 +33,7 @@ This document is updated periodically. Please obtain the most current version [h
 
 ## 1.1. Definition of Penalties
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -117,7 +117,7 @@ the disqualified player and that player’s opponent.
 
 ## 1.3. Randomizing a Library
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -141,7 +141,7 @@ Shuffles performed by a judge as part of a remedy are not considered shuffles fo
 
 # 2. Game Play Errors
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -172,7 +172,7 @@ As such, in Multiplayer Tournaments, only the **fourth and subsequent Warnings**
 
 ## 2.1. Game Play Error — Missed Trigger
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <strong style="float:right; border: 1px solid black; padding: 0px 15px;">No Penalty</strong>
@@ -336,7 +336,7 @@ As such, in Multiplayer Tournaments, only the **fourth and subsequent Warnings**
 
 ## 2.3. Game Play Error — Hidden Card Error
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Warning</strong>
@@ -456,7 +456,7 @@ they may swap the card for a card with the morph ability in hand.
 
 ## 2.5. Game Play Error — Game Rule Violation
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Warning</strong>
@@ -547,7 +547,7 @@ continued both players will have committed a Game Rule Violation.
 
 ## 3.1. Tournament Error — Tardiness
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Game Loss</strong>
@@ -610,7 +610,7 @@ a Warning.
 
 ## 3.2. Tournament Error — Outside Assistance
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Match Loss</strong>
@@ -672,7 +672,7 @@ between games, the penalty is a Game Loss.
 
 ## 3.3 Tournament Error — Slow Play
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Warning</strong>
@@ -730,7 +730,7 @@ still applies.
 
 ## 3.5. Tournament Error — Deck Problem
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Warning</strong>
@@ -852,7 +852,7 @@ graveyard, the penalty is upgraded.
 
 ## 4.2. Unsporting Conduct — Major
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Match Loss</strong>
@@ -924,7 +924,7 @@ the offense is repeated at a later time, the penalty is Disqualification and rem
 
 ## 4.4. Unsporting Conduct — Bribery and Wagering
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Match Loss</strong>

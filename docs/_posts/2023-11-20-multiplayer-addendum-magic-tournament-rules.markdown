@@ -31,7 +31,7 @@ This document is updated periodically. Please obtain the most current version [h
 
 ## 1.1. Tournament Types
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
   <p>
@@ -65,7 +65,7 @@ In Multiplayer Tournaments, players are organized in Pods. A Pod consists of the
 A Two-Headed Giant team is treated as a single player when determining the tournament mode.
 
 ## 1.10 Players
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -132,7 +132,7 @@ _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer mat
 
 ## 1.12 Rules Enforcement Levels
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -187,7 +187,7 @@ _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer mat
 
 ## 2.1. Match Structure
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -212,7 +212,7 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 
 ## 2.2. Play/Draw Rule
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -233,7 +233,7 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 
 ## 2.3. Pregame Procedure
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -275,7 +275,7 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 
 ## 2.4. End of Match Procedure
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -316,7 +316,7 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 ## 2.5. Conceding or Intentionally Drawing Games or Matches
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -342,7 +342,7 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 ## 3.1. Tiebreakers
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -380,7 +380,7 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 ## 3.13. Hidden Information
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -427,7 +427,7 @@ _Example: In a situation where Alice resolved Gather Specimens, Bob controls Len
 
 ## 4.1. Player Communication
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -551,7 +551,7 @@ Free information consists of:
 
 ## 4.2. Tournament Shortcuts
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -629,7 +629,7 @@ _With this fix, we allow Alice to have priority back in their second main phase,
 
 ## 4.4. Loops
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -677,7 +677,7 @@ This process follows the same rules specified in MAMTR 4.2A.
 
 ## 5.4. Unsporting Conduct
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -721,7 +721,7 @@ Unsporting conduct will not be tolerated at any time. Tournament participants mu
 
 ## 6.1. Deck Construction Restrictions 
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -790,7 +790,7 @@ For the single elimination portion of the tournament, the seating and play order
 
 ## 10.1 Participation Minimums
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -822,7 +822,7 @@ For the single elimination portion of the tournament, the seating and play order
 
 ## 10.2 Number of Rounds
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -857,7 +857,7 @@ For the single elimination portion of the tournament, the seating and play order
 
 ## 10.4 Pairing Algorithm
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -940,7 +940,7 @@ In the semi finals, the seeds of the winners from the quarterfinals are taken in
 
 # Appendix B – Time Limits
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -1086,7 +1086,7 @@ The following time limits are recommended for each round of a Multiplayer tourna
 
 # Appendix C – Tiebreaker Explanation
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
@@ -1341,7 +1341,7 @@ $$
 
 # Appendix E – Recommended Number of Rounds in Swiss Tournaments
 
-<details>
+<details markdown="0">
   <summary><strong>Original policy</strong></summary>
   <blockquote>
     <p>
