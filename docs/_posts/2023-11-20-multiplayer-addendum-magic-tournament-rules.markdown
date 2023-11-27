@@ -338,6 +338,10 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **2.5B.** If a player leaving the game would affect current or imminent game actions, those actions occur as though that player was still in the game until the end of the current phase.
 
+**2.5C.** The decision to **Intentionally Draw a Game** must be unanimous among the **Players that are still playing the Game**. This means that **players that lost the Game don't have a say in this decision**.
+
+**2.5D** The decision to **Intentionally Draw a Match** must be unanimous among the **Players that are still playing the Match**. This means that **players that lost a / the Game** in the current Match, still **have a say in this decision**.
+
 # 3. Tournament Rules
 
 ## 3.1. Tiebreakers
