@@ -1004,7 +1004,7 @@ clock.</li>
 
 **Policy Additions**
 
-**4.7A. Definition** In Multiplayer Tournaments, in a situation where one or more Players lost the game, the remaining opponents cannot purposefully drag the the game, while still physically playing at a fast pace, with the goal of finishing the match in a draw. 
+**4.7A. Definition** In Multiplayer Tournaments, in a situation where one or more Players lost the game, the remaining opponents cannot purposefully drag the the game, while still physically playing at a fast pace, with the goal of draining the Round timer and finishing the match in a draw. 
 
 **4.7B. Examples** In a Multiplayer Tournament, during swiss rounds, Player A is about to win the game, so is Player B if Player A is stopped. Facing this standoff, an Intentional Draw is proposed. Players B, C and D want to Draw the Match, while Player A disagrees and only agrees with drawing the current game and then starting a new game with the remaing 60 minutes on the clock. Player A desires to start a new game becaue they believe they have a good chance to win even with few time remaining, while Players B, C and D recognize that Player A might have an good chance to win a new game fast. Players B, C and D then agree to eliminate Player A and not attempt to win for the remaining time in the Round. Players B, C and D are Stalling.
 
