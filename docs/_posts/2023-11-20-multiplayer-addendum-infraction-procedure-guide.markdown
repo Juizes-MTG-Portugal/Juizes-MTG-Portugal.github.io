@@ -872,7 +872,7 @@ subject of the harassment.
     <p>
 <strong>Examples</strong>
     </p>
-    <ol>
+    <ol type="A">
       <li>A player uses a racial slur against their opponent.</li>
       <li>A player intentionally misgenders their opponent.</li>
       <li>A player takes inappropriate photos of another player without express permission.</li>
@@ -948,7 +948,7 @@ Unsporting Conduct — Cheating.
     <p>
 <strong>Examples</strong>
     </p>
-    <ol>
+    <ol type="A">
       <li>A player in a Swiss round offers their opponent $100 to concede the match.</li>
       <li>A player offers their opponent a card in exchange for a draw.</li>
       <li>A player asks for a concession in exchange for a prize split.</li>
@@ -969,6 +969,45 @@ Bribery and wagering disrupt the integrity of the tournament and are strictly fo
 **Policy Additions**
 
 **4.4A. Philosophy** In Multiplayer Tournaments, **in-game agreements**, such as offering to not attack one another, are **not Bribery**. Bribery refers to tangible, monetary, or other similar means outside of the game offered to influence or change gameplay decisions or match outcome.
+
+## 4.7. Unsporting Conduct — Stalling
+
+<details markdown="0">
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Disqualification</strong>
+    <p>
+      <strong>Definition</strong>
+    </p>
+    <p>
+A player intentionally plays slowly in order to take advantage of the time limit. If the slow play 
+is not intentional, please refer to Tournament Error — Slow Play instead.
+          </p>
+    <p>
+<strong>Examples</strong>
+          </p>
+     <ol type="A">
+<li>A player has two lands in their hand, no options available to significantly affect the game, 
+and spends excessive time “thinking” about what to do to eat up time on the clock.</li>
+<li>A player is ahead in games and significantly slows down their pace of play so the 
+opponent has little chance to catch up.</li>
+<li>A player playing slowly appeals a warning in an attempt to gain advantage by having 
+more time to make a decision.</li>
+<li>A player intentionally mulligans slowly before the third game in an attempt to make it 
+harder for their opponent to win in time.</li>
+<li>A player losing a game starts slowing down the pace of play in an attempt to run out the 
+clock.</li>
+    </ol>
+  </blockquote>
+</details>
+<p></p>
+
+**Policy Additions**
+
+**4.7A. Definition** In Multiplayer Tournaments, in a situation where one or more Players lost the game, the remaining opponents cannot purposefully drag the the game, while still physically playing at a fast pace, with the goal of finishing the match in a draw. 
+
+**4.7B. Examples** In a Multiplayer Tournament, during swiss rounds, Player A is about to win the game, so is Player B if Player A is stopped. Facing this standoff, an Intentional Draw is proposed. Players B, C and D want to Draw the Match, while Player A disagrees and only agrees with drawing the current game and then starting a new game with the remaing 60 minutes on the clock. Player A desires to start a new game becaue they believe they have a good chance to win even with few time remaining, while Players B, C and D recognize that Player A might have an good chance to win a new game fast. Players B, C and D then agree to eliminate Player A and not attempt to win for the remaining time in the Round. Players B, C and D are Stalling.
+
 
 # Credit
 
