@@ -342,6 +342,8 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **2.5D** The decision to **Intentionally Draw a Match** must be unanimous among the **Players that are still playing the Match**. This means that **players that lost a / the Game** in the current Match, still **have a say in this decision**.
 
+**2.5E** When **Intentionally Drawing a Game** during a **Single Elimination** or other wise untimed round, there may be some restrictions in place to prevent the repetition of this process from extending the Tournament indefinitely. Check [Appendix B - Time Limits](#appendix-b-–-time-limits) for the recommended restrictions.
+
 # 3. Tournament Rules
 
 ## 3.1. Tiebreakers
@@ -1069,9 +1071,20 @@ In the semi finals, the seeds of the winners from the quarterfinals are taken in
 
 The following time limits are recommended for each round of a Multiplayer tournament:
 
-* For swiss rounds at Regular REL - 90 minutes
-* For swiss rounds at Competitive REL - 75 minutes
-* For single elimination matches - no time limit
+* For Swiss Rounds at Regular REL - 90 minutes
+* For Swiss Rounds at Competitive REL - 75 minutes
+* For Single Slimination Matches - no time limit
+  In the situation where players Intentionally Draw a game in a Single Elimination Match, it is recommended to apply the following restrictions:
+  * A 150 minutes timer that starts counting since the beginning of the Round comes into effect after the first Intentional Draw.
+  * After these 150 minutes, this Pod is allowed to continue playing, on _overtime_, as long as there other Pods still playing, not yet on _overtime_.
+  * After the 150 minutes + _overtime_ period is over, the match follows the standard End-of-Round procedure for the Tournament.
+  * In case the Match results in a Draw, the Player with the highest Standing from the Swiss Portion of the event should be considered the Winner.
+  * It is recommended that the Finals do not impose any time limit, even after Intentional Draws.
+
+_**Example**:_
+
+_During a Tournament Semifinals, Pod 1 is playing a 3-hour long grindy game. Pod 2 decided to Intentionally Draw a game at the 90 minute mark, hence triggering the 150 minutes timer, thus now having 60 minutes to reach a Match conclusion. After the 150 minutes have passed, they were made aware the Pod 1 is still playing and as such they are allowed overtime to continue playing, but that at any moment the Pod 1 finishes their match, they will have to wrap it up with the standard End-of-Round procedure for the event. As such, they had the chance to play for up to 30 minutes overtime and find a Winner through playing a game of Magic. After Pod 1 finishes their Match, and Pod 2 finishes the End-of-Round procedure, if no Winner is found, then the player with the highest standing from Swiss Rounds in Pod 2 is considered the Winner and moves on to the Finals._
+
 
 20-card Multiplayer Booster Drafts, with 2 picks per booster, have the following default time limits for each pick:
 
