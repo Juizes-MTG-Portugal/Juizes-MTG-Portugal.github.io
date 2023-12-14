@@ -302,17 +302,19 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 
 **Policy Additions**
 
-**2.4A.** In Multiplayer Tournaments, organizers have two methods to consider when deciding how to handle end-of-round procedure: 2.4AA and 2.4AB. It is recommended that 2.4AA be utilized when round times are 75 minutes or less, and 2.4AB be utilized when rounds times are between 75 and 90 minutes.
-
-**2.4AA.** In Multiplayer Tournaments, use N turns instead of five, where N equals the number of remaining players. The number of extra turns is determined as time in the round is called. Once this number is determined, players leaving the game have no impact. 
+**2.4A.** In Multiplayer Tournaments, use N turns instead of five, where N equals the number of remaining players. The number of extra turns is determined as time in the round is called. Once this number is determined, players leaving the game have no impact. 
 
 _Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer match. Alice is the active player when time in the round was called. Alice finishes playing turn 0, and since there are 4 remaining players in the Pod, 4 extra turns will be played. Bob takes his turn, then Charlie takes his. However, during Charlie’s turn, Alice and Daniel both lose the game. Bob and Charlie will take the remaining turns, since the number of extra turns was determined as time in the round was called and is not impacted by players leaving the game during extra turns._
 
-**2.4AB.** In Multiplayer Tournaments, if the time limit is reached before a winner is determined, the player whose turn it is finishes their turn. If the active player has already indicated that they’d like to pass the turn when the time limit is reached, that is considered to be in the next turn. If the game is incomplete at the end of additional turns, the game is considered a draw. If a judge assigned a time extension (because of a long ruling, deck check, or other reason) the end-of-match procedure does not begin until the end of the time extension. 
+**2.4B.** In Multiplayer Tournaments, even with the extra turns, it is possible that the individual turns take up too much time if players are playing slowly and debating strategic decisions as a group.
 
-_Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. Arnold is the active player when time in the round is called. Arnold finishes their turn and passes. Since no winner has been declared, the match must be reported as a draw._
+In order to enforce a fast pace during extra turns, an **extra turns time limit** is applied. If the **extra turns time limit** is reached before a winner is determined, the active player can still finish their turn without the match ending abruptly.
 
-**2.4B.** Check [Appendix B - Time Limits](#appendix-b-–-time-limits) for the recommended time limits in Multiplayer Tournaments.
+_Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. Time in the round has been called and Arnold and Benjamin played their extra turns. Cam is the active player when the overtime limit is reached. Cam finishes their turn and passes. Since no winner has been declared, the match must be reported as a draw._
+
+**2.4C.** In Multiplayer Tournaments, in the case a Single Elimination Match results in a Draw, the Player with the highest Standing from the Swiss Portion of the event should be considered the Winner.
+
+**2.4D.** Check [Appendix B - Time Limits](#appendix-b-–-time-limits) for the recommended time limits in Multiplayer Tournaments.
 
 ## 2.5. Conceding or Intentionally Drawing Games or Matches
 
@@ -1071,21 +1073,20 @@ In the semi finals, the seeds of the winners from the quarterfinals are taken in
 
 The following time limits are recommended for each round of a Multiplayer tournament:
 
-* For Swiss Rounds at Regular REL - 90 minutes
-* For Swiss Rounds at Competitive REL - 75 minutes
-* For Single Elimination Matches - no time limit
+* For Swiss Rounds at Regular REL - 90 minutes + no extra turns time limit
+* For Swiss Rounds at Competitive REL - 75 minutes + 20 minutes extra turns time limit
+* For Single Elimination Matches - no time limit (_with exceptions_)
   
 In the situation where players **Intentionally Draw a game in a Single Elimination Match**, it is recommended to apply the following restrictions:
   
 * A 150 minutes timer that starts counting since the beginning of the Round comes into effect after the first Intentional Draw.
-* After these 150 minutes, this Pod is allowed to continue playing, on _overtime_, as long as there other Pods still playing, not yet on _overtime_.
-* After the 150 minutes + _overtime_ period is over, the match follows the standard End-of-Round procedure for the Tournament.
-* In case the Match results in a Draw, the Player with the highest Standing from the Swiss Portion of the event should be considered the Winner.
+* After 150 minutes, pods that had one or more Intentional Draws are only allowed to continue playing as long as there other Pods still playing, that haven't Intentionally Draw and thus aren't subjected to the 150 minutes limit.
+* After 150 minutes, if there are no other pods still playing, that haven't Intentionally Draw, the match follows the [standard End-of-Round procedure](#24-end-of-match-procedure) for the Tournament.
 * It is recommended that the Finals do not impose any time limit, even after Intentional Draws.
 
 _**Example**:_
 
-_During a Tournament Semifinals, Pod 1 is playing a 3-hour long grindy game. Pod 2 decided to Intentionally Draw a game at the 90 minute mark, hence triggering the 150 minutes timer, thus now having 60 minutes to reach a Match conclusion. After the 150 minutes have passed, they were made aware the Pod 1 is still playing and as such they are allowed overtime to continue playing, but that at any moment the Pod 1 finishes their match, they will have to wrap it up with the standard End-of-Round procedure for the event. As such, they had the chance to play for up to 30 minutes overtime and find a Winner through playing a game of Magic. After Pod 1 finishes their Match, and Pod 2 finishes the End-of-Round procedure, if no Winner is found, then the player with the highest standing from Swiss Rounds in Pod 2 is considered the Winner and moves on to the Finals._
+_During a Tournament Semifinals, Pod 1 is playing a 3-hour long grindy game. Pod 2 decided to Intentionally Draw a game at the 90 minute mark, hence triggering the 150 minutes timer, thus now having 60 minutes to reach a Match conclusion. After the 150 minutes have passed, they were made aware the Pod 1 is still playing and as such they are allowed overtime to continue playing, but that at any moment the Pod 1 finishes their match, they will have to wrap it up with the standard End-of-Round procedure for the event. As such, they had the chance to play for up to extra 30 minutes and find a Winner through playing a game of Magic. After Pod 1 finishes their Match, and Pod 2 finishes the End-of-Round procedure, if no Winner is found, then the player with the highest standing from Swiss Rounds in Pod 2 is considered the Winner and moves on to the Finals._
 
 20-card Multiplayer Booster Drafts, with 2 picks per booster, have the following default time limits for each pick:
 
