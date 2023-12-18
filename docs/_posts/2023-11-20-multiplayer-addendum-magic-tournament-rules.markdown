@@ -344,7 +344,7 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **2.5D** The decision to **Intentionally Draw a Match** must be unanimous among the **Players that are still playing the Match**. This means that **players that lost a / the Game** in the current Match, still **have a say in this decision**.
 
-**2.5E** When **Intentionally Drawing a Game** during a **Single Elimination** or other wise untimed round, there may be some restrictions in place to prevent the repetition of this process from extending the Tournament indefinitely. Check [Appendix B - Time Limits](#appendix-b-–-time-limits) for the recommended restrictions.
+**2.5E** When **Intentionally Drawing a Game** during a **Single Elimination** or otherwise untimed round, there may be some restrictions in place to prevent the repetition of this process from extending the Tournament indefinitely. Check [Appendix B - Time Limits](#appendix-b-–-time-limits) for the recommended restrictions.
 
 # 3. Tournament Rules
 
