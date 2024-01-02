@@ -716,10 +716,23 @@ This process follows the same rules specified in MAMTR 4.2A.
 
 **Policy Additions**
 
-Unsporting conduct will not be tolerated at any time. Tournament participants must behave in a polite and respectful manner. Unsporting conduct includes, but is not limited to: 
+**5.4A** In Multiplayer Tournaments, it is also considered Unsporting Conduct:
 
-* ... _(existing items)_
-* Violating the Tournament Organizer’s Code of Conduct (if applicable).
+* Coercing a player into performing an action over threat of losing the game to another player.
+  * Coercion can happen in non-verbal ways too.
+  * It's not coercion if actions are discussed within a timing where the affect player is not yet under pressure to perform that action.
+  * When proposing intentional draws, players can discuss the terms and reveal hands, but they can't attempt to coerce players that aren't in accordance.
+
+_Example: Alice is presenting a win, Bob has an answer, but passes priority since they see that Diane has untapped lands, and they believe Charles has an answer. Since Charles passes priority to Diane, **it's not acceptable** that Bob asks Diane to: "Tap a land so that I get priority back, otherwise we lose!"._
+
+_Example: Alice is presenting a win, Bob has an answer, but passes priority since they see that Diane has untapped lands, and they believe Charles has an answer. Since Charles passes priority to Diane, **it's not acceptable** that Bob reveals the answer from their hand at this point with the expectation that Diane taps a land in order for Bob to get the priority back._
+
+_Example: Alice is presenting a win, Bob has an answer, but notices that Diane has a Thrasios, Triton Hero, and available mana to activate it. **It is acceptable** that before passing priority, Bob reminds Diane that they can draw a card to find an answer._
+
+_Example: Alice is presenting a win, Bob has a win next turn and this is known information. **It’s not acceptable** that Charles attempts to coerce a player into intentionally drawing: “If you don’t want to draw, then I will cast Silence and you lose to Bob” or “You have to accept the draw, or else we will kill you and we draw anyway”._
+
+_Example: Alice is presenting a win, Bob has a win next turn and this is known information. **It is acceptable** that Charles attempts to politely reason with the players, without threatening to hand over the win to Bob: Alice, I have this Silence. Do you want to draw? No? Ok." - "What about you, Bob and Diane? Are you ok with making a deal to kill Alice and draw afterwards? It would be better if Alice accepted the draw, since Bob can break the deal and we might end up losing the game instead of everyone drawing”._
+
 
 # 6. Constructed Tournament Rules
 
