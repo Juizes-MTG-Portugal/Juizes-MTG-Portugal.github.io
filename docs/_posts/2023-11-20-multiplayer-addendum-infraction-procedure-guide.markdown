@@ -850,6 +850,59 @@ graveyard, the penalty is upgraded.
 
 # 4. Unsporting Conduct
 
+## 4.1. Unsporting Conduct — Minor
+
+<details markdown="0">
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Warning</strong>
+    <p>
+      <strong>Definition</strong>
+    </p>
+    <p>
+      A player takes action that is disruptive to the tournament or its participants. It may affect the 
+      comfort level of those around the individual, but determining whether this is the case is not 
+      required.
+    </p>
+    <p>
+      <strong>Examples</strong>
+    </p>
+    <ol type="A">
+      <li>A player uses excessively vulgar and profane language.</li>
+      <li>A player inappropriately demands to a judge that their opponent receive a penalty.</li>
+      <li>A player appeals to the Head Judge before waiting for the floor judge to issue a ruling.</li>
+      <li>A player throws their deck on the ground after losing a game.</li>
+      <li>A player leaves excessive trash in the play area after leaving the table.</li>
+      <li>A player fails to follow the request of a tournament official to leave the play area.</li>
+    </ol>
+    <p>
+      <strong>Philosophy</strong>
+    </p>
+    <p>
+      All participants should expect a safe and enjoyable environment at a tournament, and a player 
+      needs to be made aware if their behavior is unacceptable so that this environment may be 
+      maintained.
+    </p>
+    <p>
+      <strong>Additional Remedy</strong>
+    </p>
+    <p>
+      The player must correct the problem immediately. Subsequent Unsporting Conduct — Minor 
+      infractions, even for different offenses, will result in a Game Loss. If a Game Loss is issued for 
+      repeated infractions, and it occurs at the end of a game, it is acceptable for the judge to apply the 
+      penalty to the next game instead.
+    </p>
+  </blockquote>
+</details>
+<p></p>
+
+**Policy Additions**
+
+**4.2A. Examples** 
+
+1. In a Multiplayer Tournament, a player uses coercive language to convince an opponent into intentionally drawing the game by saying "You either agree to draw or we lose the game to them".
+2. In a Multiplayer Tournament, a player coerces and opponent into performing an action so they get priority back by saying "Tap that land for mana so I get priority back, otherwise we lose the game". 
+
 ## 4.2. Unsporting Conduct — Major
 
 <details markdown="0">
