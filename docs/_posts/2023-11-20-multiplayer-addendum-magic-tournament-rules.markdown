@@ -1458,18 +1458,9 @@ For Multiplayer Tournaments, in a configuration of four (4) players per Pod, it 
 | 33-64   | 5                                                                | Top 16  |
 | 65-128  | 6                                                                | Top 16  |
 | 129-256 | 7                                                                | Top 40  |
+| 257-512 | 8                                                                | Top 40  |
+| 512+    | 9                                                                | Top 64  |
 
-For Multiplayer Tournaments with more than 257 participants, perform a Top 40 Playoff and apply the following mathematical formula to figure out the number of rounds to play:
-
-$$ {\text{Rounded up }(\log_4(\text{number of players})) + 2} $$
-
-But as you can see in the following graph, we adjust the recommended rounds, mostly because we are also including a playoff section:
-
-![rounds per players](/assets/images/players_rounds.svg)
-
-_Between 257 and 1024 players, the recommended number of rounds is 8._
-
-_With 1024+ players the recommended number of rounds becomes 9._
 
 _In any case, you may want to consider splitting very large events into smaller ones that get merged afterwards, or split the event over multiple days, with cuts based on match points between each day_
 
