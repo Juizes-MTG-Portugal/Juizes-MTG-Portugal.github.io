@@ -115,6 +115,21 @@ the disqualified player and that player’s opponent.
 
 **1.1A.** In Multiplayer Tournaments, in some cases the penalty or additional remedy of **Skipping a Turn** is applied. Please refer to the Comprehensive Rules 500.10 for details on how Skipping a Turn works.
 
+**1.1B.** In Multiplayer Tournaments that use a Best-of-One match structure, a new penalty is introduced: 
+
+**Skip Priority**
+
+The Skip Priority penalty applies for Multiplayer Tournaments, at Competitive and Professional REL, in Best of One Matches:
+
+- The Penalty consists in the player Passing Priority on every action until the end of their next turn.
+- The player will still put triggered abilities on the stack, chose targets for them, and resolve them.
+- The player will be able to pay costs (such as when resolving triggers from Remora, Pact of Negation, Mana Vault, Rhystic Study).
+- The player will be allowed to declare blockers.
+- The player will only be allowed to declare mandatory attackers (such as creatures that must attack).
+- The player will not be allowed to play a land.
+- The player will not be allowed to cast a spell by normal means (but they can if they are resolving a triggered ability, like Rebound or Suspend).
+- The player will not be allowed to activate abilities (except mana abilities to pay for costs).
+
 ## 1.3. Randomizing a Library
 
 <details markdown="0">
@@ -168,7 +183,7 @@ Loss. For multi-day tournaments, the penalty count for these infractions resets 
 
 **2A.** In Multiplayer Tournaments, given the **added complexity of the game state** that can occur, specially in **Best-of-One matches**, the third infraction is often not worthy of an upgrade from **Warning** to **Game Loss** which is an effective **Match Loss**. It is still important, however, to discourage the infraction and mitigate the possible gained avantage. 
 
-As such, in Multiplayer Tournaments, only the **fourth and subsequent Warnings** for a Game Play Error in the same category, are upgraded to a **Game Loss**.
+As such, in Multiplayer Tournaments, the **fourth and fifth Warnings** for a Game Play Error in the same category, are upgraded to a **Skip Priority** penalty. The **sixth and subsequent Warnings** for a Game Play Error in the same category, are upgraded to a **Game Loss**.
 
 ## 2.1. Game Play Error — Missed Trigger
 
