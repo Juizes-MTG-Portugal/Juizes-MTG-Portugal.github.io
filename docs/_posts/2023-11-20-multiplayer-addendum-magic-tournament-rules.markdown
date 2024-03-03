@@ -1316,7 +1316,11 @@ _During a Tournament Semifinals, Pod 1 is playing a 3-hour long grindy game. Pod
 
 **Policy Additions**
 
-In Multiplayer Tournaments, players earn N+1 match points for each match win, where N is the standard number of players in a Pod for that tournament.
+In Multiplayer Tournaments, players earn: 
+
+$$ {n \plus n \times ( 1 \minus (1 \over n) )} $$ 
+
+match points for each match win, where n is the standard number of players in a Pod for that tournament.
 
 The winner is the one that by the end of the round time has the most game wins or that before the end of the round time has achieved the required number of game wins.
 
@@ -1324,15 +1328,25 @@ In the case of a tie, all players in the pod are awarded 1 match point, includin
 
 Players that lost the match are awarded 0 points.
 
-In Best-of-One matches, the match points coincide with game points.
+In Best-of-One matches, the match points can coincide with game points, since the required number of game wins is one.
 
-A player who receives a bye in a Multiplayer tournament receives N+1 match points, where N is the standard number of players in a Pod for that tournament.
+A player who receives a bye in a Multiplayer tournament receives 
+
+$$ {n \plus n \times ( 1 \minus (1 \over n) )} $$  
+
+match points, where N is the standard number of players in a Pod for that tournament.
+
+For example, in a tournament with a typical pod composition of 4 players, the points per win is 7. This value is also used for any incomplete pods (with 3 players).
 
 ## Game Points
 
 **Policy Additions**
 
-In Multiplayer Tournaments, players earn N+1 game points for each game they win, where N is the standard number of players in a Pod for that tournament.
+In Multiplayer Tournaments, players earn 
+
+$$ {n \plus n \times ( 1 \minus (1 \over n) )} $$ 
+
+ game points for each game they win, where n is the standard number of players in a Pod for that tournament.
 
 Each player who began a game that does not end with a winner being declared will earn 1 point.
 
