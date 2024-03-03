@@ -775,7 +775,9 @@ Refer to the official banlist available at: [https://mtgcommander.net/index.php/
 
 ***.1A.** In Commander matches, the required number of game wins to win a match is one. As per 2.1, a Match continues until the required number of game wins is attained by a player or ends in a draw.
 
-***.1B.** In Commander matches, players play against each other in Pods. Each Pod should be composed of four players. In the case that the number of participants is not divisible by 4, it is recommended that players that can’t be matched in Pods of four receive a Bye for that round instead.
+***.1B.** In Commander matches, players play against each other in Pods. Each Pod should be composed of four players. In the case that the number of participants is not divisible by 4, it is recommended that the minimum possible number of Pods with three players be used in order to not have any Byes. 
+
+The reason behind this decision is that the possibility of awarding multiple Byes in an event where the average win percentage is 25% is extremely impactful. In addition to that, multi-day events suffer even more from the high impact of Byes.
 
 ## *.2. Communication Rules
 
@@ -937,12 +939,11 @@ In Multiplayer Tournaments, the modified swiss pairing algorithm is as follows:
 * Pairings should be done by sorting players by performance (Match points plus Tiebreakers in order), followed by preferably matching players following the performance order, starting from the highest performing players, by allocating them to Pods. This is referred to as Top-to-Bottom assignment.
 * This matching process must avoid matching between players that have already played against each other during previous rounds.
 * In the case where Players cannot receive any match during the first Top-to-Bottom pass, the process should iteratively attempt to swap the unmatched players with players that can fit into the incomplete Pods (typically the last pods of the tournament, since the first pass happened in a Top-to-Bottom fashion). The swapped players will then become "Paired up" or "Paired down" depending if they ended in a highest rated pod or not.
-* In competitive REL events, Byes should be awarded to lowest rated players in the case the division of the total number of participants by the number of Pods has a remainder greater than zero. 
-  - _Note: The reasoning behind this is to avoid tainting the competitive spirit of the event by presenting a random situation to the players where their deck, prepared to play in a pod of 4, all of a sudden is paired up to a pod of 3_ 
-* In regular REL events, instead of awarding Byes in case of an uneven distribution of players through the pods, players should be instead matched into one ore more pods of smaller size, always trying to minimize the difference in pod size towards the norm. Examples:
+* Instead of awarding Byes in case of an uneven distribution of players through the pods, players should be instead matched into one ore more pods of smaller size, always trying to minimize the difference in pod size towards the norm. Examples:
   - _In an event with 23 players, pair players using 5 pods with size 4 and 1 pod with size 3_
   - _In an event with 22 players, pair players using 4 pods with size 4 and 2 pods with size 3_
   - _In an event with 21 players, pair players using 3 pods with size 4 and 3 pods with size 3_
+* It is desirable that players only get matched in smaller size pods at most once per event. Thus if necessary, the pairing algorithm should perform a swap and pair a player in that condition in a pod higher in the standings.
 
 In Multiplayer Tournaments, the single-elimination playoffs are paired according to the following pattern:
 
@@ -1371,6 +1372,8 @@ $$
 $$
 {% endraw %}
 
+When a player plays in a smaller size Pod, for example 3-player in a 4-player per pod event, an extra player with the minimum-cap win percentage should be considered as having played in that pod.
+
 # Appendix E – Recommended Number of Rounds in Swiss Tournaments
 
 <details markdown="0">
@@ -1464,7 +1467,7 @@ For Multiplayer Tournaments, in a configuration of four (4) players per Pod, it 
 
 _In any case, you may want to consider splitting very large events into smaller ones that get merged afterwards, or split the event over multiple days, with cuts based on match points between each day_
 
-When the number of players is uneven with the desired Pod size, and byes are being awarded, consider that for each player being awarded a Bye, it's as if 3 invisible players would also exist. Think of these invisible players as dummies that the player awarded the Bye got to play against and win. So, in a scenario where you have 30 players enrolled in the event, because you will have to award 2 Byes, you should actually consider using a number of rounds as if you had 36 players, to mitigate the power imbalance of the multiple Byes.
+When the number of players is uneven with the desired Pod size, and smaller sized pods are used, consider that for each smaller size pod, it's as if an extra invisible player is added to the event. Think of these invisible players as dummies that the players in the smaller size pod played against. So, in a scenario where you have 30 players enrolled in the event, because you will have to pair players into two 3-player pods, you should actually consider using a number of rounds as if you had 32 players, to account for the invisible players.
 
 # Credit
 
