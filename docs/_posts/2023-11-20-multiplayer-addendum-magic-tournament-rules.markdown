@@ -314,7 +314,7 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **2.4C.** In Multiplayer Tournaments, in the case a Single Elimination Match results in a Draw, the Player with the highest Standing from the Swiss Portion of the event should be considered the Winner.
 
-**2.4D.** Check [Appendix B - Time Limits](#appendix-b-–-time-limits) for the recommended time limits in Multiplayer Tournaments.
+**2.4D.** Check [Appendix B - Time Limits](#appendix-b--time-limits) for the recommended time limits in Multiplayer Tournaments.
 
 ## 2.5. Conceding or Intentionally Drawing Games or Matches
 
