@@ -932,7 +932,7 @@ For the single elimination portion of the tournament, the seating and play order
 </details>
 <p></p>
 
-**10.4A.** For Multiplayer Tournaments, it is recommended that Tournament Organizers use a tool that implements the following modified swiss pairing algorithm. There are commercial solutions and also open source solutions [^1] [^2] [^3].
+**10.4A.** For Multiplayer Tournaments, it is recommended that Tournament Organizers use a tool that implements the following modified swiss pairing algorithm. There are commercial solutions and also open source solutions [^1] [^2] [^3] [^4].
 
 In Multiplayer Tournaments, the modified swiss pairing algorithm is as follows:
 
@@ -958,7 +958,8 @@ In the semi finals, the seeds of the winners from the quarterfinals are taken in
 
 [^1]: [EDH_matchmaker](https://github.com/eVen-gits/EDH_matchmaker) _open source_
 [^2]: [SquireBot](https://github.com/SquireTournamentServices/SquireBot) _open source, requires Discord_
-[^3]: [Command Tower](https://topdeck.gg/subscribe) _requires a monthly fee_
+[^3]: [EMP](https://www.planarforge.com/emp/) _free to use_
+[^4]: [Command Tower](https://topdeck.gg/subscribe) _requires a monthly fee_
 
 # Appendix B – Time Limits
 
