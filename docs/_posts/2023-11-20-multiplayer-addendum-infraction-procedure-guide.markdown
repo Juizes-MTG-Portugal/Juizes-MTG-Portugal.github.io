@@ -349,6 +349,8 @@ As such, in Multiplayer Tournaments, the **fourth and fifth Warnings** for a Gam
 
 **2.1A. Additional Remedy** In Multiplayer Tournaments, since there are multiple opponents, **the decisions** that would be made by "the opponent" _(when and if the missed trigger is put on the stack / resolves)_, are **instead made by a majority vote** of the opponents. If no majority decision is reached _(perhaps because one opponent was eliminated and there is an even number of opponents)_, the final decision will be made by a randomly chosen opponent.
 
+**2.1A. Note** In Multiplayer Tournaments, Judges and Players must be on the lookout for situations where the Player that committed the infraction is benefiting from the opponent's decision, which in some corner cases can be a sign of collusion and / or cheating. Keep in mind that given the nuances of multiplayer, sometimes opponents will legitimately choose an option that benefits the Player that committed the infraction.
+
 ## 2.3. Game Play Error — Hidden Card Error
 
 <details markdown="0">
@@ -467,7 +469,9 @@ they may swap the card for a card with the morph ability in hand.
 
 **Policy Additions**
 
-**2.3A Additional Remedy** In Multiplayer Tournaments, the **decision on what cards** must be returned is made by a **majority vote** of opponents. If no majority decision is reached, the final decision will be made by a randomly chosen opponent. 
+**2.3A Additional Remedy** In Multiplayer Tournaments, the **decision on what cards** must be returned is made by a **majority vote** of opponents. If no majority decision is reached, the final decision will be made by a randomly chosen opponent.
+
+**2.3A. Note** In Multiplayer Tournaments, Judges and Players must be on the lookout for situations where the Player that committed the infraction is benefiting from the opponent's decision, which in some corner cases can be a sign of collusion and / or cheating. Keep in mind that given the nuances of multiplayer, sometimes opponents will legitimately choose an option that benefits the Player that committed the infraction.
 
 ## 2.5. Game Play Error — Game Rule Violation
 
@@ -859,7 +863,9 @@ graveyard, the penalty is upgraded.
 
 **Policy Additions**
 
-**3.5A. Additional Remedy** In Multiplayer Tournaments, the **located card or cards are revealed to all opponents**. The **majority of opponents** must come to a decision on wether to fix the problem now or when a player would next get priority, and which missing cards replaces each incorrect card. If no majority decision is reached, the final decision will be made by a randomly chosen opponent.  
+**3.5A. Additional Remedy** In Multiplayer Tournaments, the **located card or cards are revealed to all opponents**. The **majority of opponents** must come to a decision on wether to fix the problem now or when a player would next get priority, and which missing cards replaces each incorrect card. If no majority decision is reached, the final decision will be made by a randomly chosen opponent.
+
+**3.5A. Note** In Multiplayer Tournaments, Judges and Players must be on the lookout for situations where the Player that committed the infraction is benefiting from the opponent's decision, which in some corner cases can be a sign of collusion and / or cheating. Keep in mind that given the nuances of multiplayer, sometimes opponents will legitimately choose an option that benefits the Player that committed the infraction.
 
 **3.5B. Additional Remedy** In Multiplayer Tournaments, it's possible for multiple cards to be missing by be located in multiple players' decks. If the missing card(s) were in a previous or current opponent’s deck(s), issue **penalties to all involved players**.
 
