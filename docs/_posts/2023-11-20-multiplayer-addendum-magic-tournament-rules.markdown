@@ -336,15 +336,15 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **Policy Additions**
 
-**2.5A.** In Multiplayer Tournaments, players may leave the table after losing a match as remaining players continue playing (see rule 800.4 in the Comprehensive Rules). 
+**2.5A.** In Multiplayer Tournaments, the decision to **Intentionally Draw a Game** must be unanimous among the **Players that are still playing the Game**. This means that **players that lost the current Game don't have a say in this decision**.
 
-**2.5B.** If a player leaving the game would affect current or imminent game actions, those actions occur as though that player was still in the game until the end of the current phase.
+**2.5B** In Multiplayer Tournaments, the decision to **Intentionally Draw a Match** must be unanimous among the **Players that are still playing the Match**. This means that **players that lost the current Game** in the current Match, still **have a say in this decision**. In the situation where a Player left the play area and a new Game is about to start, that Player will be subject to potential tardiness penalties.
 
-**2.5C.** The decision to **Intentionally Draw a Game** must be unanimous among the **Players that are still playing the Game**. This means that **players that lost the Game don't have a say in this decision**.
+**2.5C** In Multiplayer Tournaments, when **Intentionally Drawing a Game** during a **Single Elimination** or otherwise untimed round, there may be some restrictions in place to prevent the repetition of this process from extending the Tournament indefinitely. Check [Appendix B - Time Limits](#appendix-b--time-limits) for the recommended restrictions.
 
-**2.5D** The decision to **Intentionally Draw a Match** must be unanimous among the **Players that are still playing the Match**. This means that **players that lost a / the Game** in the current Match, still **have a say in this decision**.
+2.5D In Multiplayer Tournaments, it is encouraged for players that wish to concede a Game, to do so at any time they could play a sorcery.
 
-**2.5E** When **Intentionally Drawing a Game** during a **Single Elimination** or otherwise untimed round, there may be some restrictions in place to prevent the repetition of this process from extending the Tournament indefinitely. Check [Appendix B - Time Limits](#appendix-b--time-limits) for the recommended restrictions.
+2.5E In Multiplayer Tournaments, Players may not concede in order to directly affect the game being played after they leave, or in order to affect the Tournament outcome for themselves or their Opponents. The Head Judge will evaluate the if it can be considered Collusion or Spite Play (see [section 5.4. Unsporting Conduct](#54-unsporting-conduct)). Knowingly breaking this rule to gain an advantage is Unsporting Conduct - Cheating.
 
 # 3. Tournament Rules
 
@@ -724,18 +724,26 @@ This process follows the same rules specified in MAMTR 4.2A.
 
 * Coercing a player into performing an action over threat of losing the game to another player.
   * Coercion can happen in non-verbal ways too.
-  * It's not coercion if actions are discussed within a timing where the affect player is not yet under pressure to perform that action.
+  * It's not Coercion if actions are discussed within a timing where the affect player is not yet under pressure to perform that action.
   * When proposing intentional draws, players can discuss the terms and reveal hands, but they can't attempt to coerce players that aren't in accordance.
-
-_Example: Alice is presenting a win, Bob has an answer, but passes priority since they see that Diane has untapped lands, and they believe Charles has an answer. Since Charles passes priority to Diane, **it's not acceptable** that Bob asks Diane to: "Tap a land so that I get priority back, otherwise we lose!"._
-
-_Example: Alice is presenting a win, Bob has an answer, but passes priority since they see that Diane has untapped lands, and they believe Charles has an answer. Since Charles passes priority to Diane, **it's not acceptable** that Bob reveals the answer from their hand at this point with the expectation that Diane taps a land in order for Bob to get the priority back._
-
-_Example: Alice is presenting a win, Bob has an answer, but notices that Diane has a Thrasios, Triton Hero, and available mana to activate it. **It is acceptable** that before passing priority, Bob reminds Diane that they can draw a card to find an answer._
-
-_Example: Alice is presenting a win, Bob has a win next turn and this is known information. **It’s not acceptable** that Charles attempts to coerce a player into intentionally drawing: “If you don’t want to draw, then I will cast Silence and you lose to Bob” or “You have to accept the draw, or else we will kill you and we draw anyway”._
-
-_Example: Alice is presenting a win, Bob has a win next turn and this is known information. **It is acceptable** that Charles attempts to politely reason with the players, without threatening to hand over the win to Bob: Alice, I have this Silence. Do you want to draw? No? Ok." - "What about you, Bob and Diane? Are you ok with making a deal to kill Alice and draw afterwards? It would be better if Alice accepted the draw, since Bob can break the deal and we might end up losing the game instead of everyone drawing”._
+  * Examples:
+    - Alice is presenting a win, Bob has an answer, but passes priority since they see that Diane has untapped lands, and they believe Charles has an answer. Since Charles passes priority to Diane, **it's not acceptable** that Bob asks Diane to: "Tap a land so that I get priority back, otherwise we lose!"._
+    - Alice is presenting a win, Bob has an answer, but passes priority since they see that Diane has untapped lands, and they believe Charles has an answer. Since Charles passes priority to Diane, **it's not acceptable** that Bob reveals the answer from their hand at this point with the expectation that Diane taps a land in order for Bob to get the priority back._
+    - Alice is presenting a win, Bob has an answer, but notices that Diane has a Thrasios, Triton Hero, and available mana to activate it. **It is acceptable** that before passing priority, Bob reminds Diane that they can draw a card to find an answer._
+    - Alice is presenting a win, Bob has a win next turn and this is known information. **It’s not acceptable** that Charles attempts to coerce a player into intentionally drawing: “If you don’t want to draw, then I will cast Silence and you lose to Bob” or “You have to accept the draw, or else we will kill you and we draw anyway”._
+    - Alice is presenting a win, Bob has a win next turn and this is known information. **It is acceptable** that Charles attempts to politely reason with the players, without threatening to hand over the win to Bob: Alice, I have this Silence. Do you want to draw? No? Ok." - "What about you, Bob and Diane? Are you ok with making a deal to kill Alice and draw afterwards? It would be better if Alice accepted the draw, since Bob can break the deal and we might end up losing the game instead of everyone drawing”._
+* Colluding with an opponent in order to benefit them in the Tournament.
+  * Collusion typically occurs when a player intentionally takes an action that is detrimental to themselves in order to benefit an opponent.
+  * It's not Collusion if the action is a result of a unintentional strategical error.
+  * Examples:
+    - Alice is presenting a win, Bob has an answer and uses it. Charlie uses their answer to stop Bob's, in order to ensure Alice wins the Match. The Judge's investigation determines that Charlie is friends with Alice and wants Alice to move to the single eliminatin portion of the tournament, and that's why they used their answer. Charlie is Colluding with Alice and vice-versa.
+    - Alice is presenting a win, Daniel has an answer and uses it. Charlie uses their answer to stop Daniel's, in order to ensure Alice wins the Match. The Judge's investigation determines that Charlie is friends with Bob and wants Alice to be penalized by collusion in order to give Bob the chance to try and win against Daniel, and that's why they used their answer. Charlie is Colluding with Bob and vice-versa.
+    - Alice is presenting a win, Bob has a win on their next turn and Charlie has an answer to stop Alice and allow Bob to win the game. In this situation Charlie could conceivably be colluding with Alice or Bob by either not performing an action or by performing an action. However it is also possible that no Collusion is happening. It will be up to the Judge's investigation to determine if there is Collusion or not.
+* Performing a detrimental action with the sole purpose of penalizing an opponent out of Spite.
+  * It's not Spite Play if the action is a result of a unintentional strategical error.
+  * Examples:
+    - Alice is presenting a win that makes use of Bob's existing permanents in order to function. Bob feels disgruntled with Alice's previous interactions in the game and scoops up their cards, conceding, in order to prevent Alice from winning the game. Bob is performing a Spite Play against Alice.
+    - Alice is presenting a win that makes use of Bob's existing permanents in order to function. Bob activates their Necropotence enough times so that they lose the game. Bob hopes that the game ends in a draw, and as such this is not a Spite Play.
 
 
 # 6. Constructed Tournament Rules
