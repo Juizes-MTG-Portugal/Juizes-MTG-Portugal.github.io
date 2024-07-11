@@ -992,9 +992,17 @@ the offense is repeated at a later time, the penalty is Disqualification and rem
 </details>
 <p></p>
 
-**Policy Additions**
+**Policy Additions** 
 
-**4.2A. Philosophy** In Multiplayer Tournaments, only the players instigating or perpetuating confrontation are removed from the match, in which case the **match can continue with the remaining players**.
+**4.2A. Definition** In Multiplayer Tournaments, Colluding with an opponent is also an Unsporting Conduct - Major infraction.
+
+**4.2B. Definition** In Multiplayer Tournaments, performing a Spite Play against an opponent is also an Unsporting Conduct - Major infraction.
+
+**4.2C. Philosophy** In Multiplayer Tournaments, only the players instigating or perpetuating confrontation are removed from the match, in which case the **match can continue with the remaining players**.
+
+**4.2D. Upgrade**: In Multiplayer Tournaments, if it is determined that players in Collusion with each other were aware that what they were doing was not permitted, or they acted with malicious intent, the penalty is Disqualification. All players found in Collusion receive this penalty.
+
+**4.2D. Upgrade**: In Multiplayer Tournaments, if it is determined that a player performed a Spite Play while aware it was not permitted, or they acted with malicios intent, the penalty is Disqualification.
 
 ## 4.4. Unsporting Conduct — Bribery and Wagering
 
