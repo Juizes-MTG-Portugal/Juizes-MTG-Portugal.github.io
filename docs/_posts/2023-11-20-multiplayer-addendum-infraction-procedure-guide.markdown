@@ -922,7 +922,7 @@ graveyard, the penalty is upgraded.
 **4.2A. Examples** 
 
 1. In a Multiplayer Tournament, a player uses coercive language to convince an opponent into intentionally drawing the game by saying "You either agree to draw or we lose the game to them".
-2. In a Multiplayer Tournament, a player coerces and opponent into performing an action so they get priority back by saying "Tap that land for mana so I get priority back, otherwise we lose the game". 
+2. In a Multiplayer Tournament, a player coerces and opponent into performing an action so they get priority back by saying "Tap that land for mana so I get priority back, otherwise we lose the game".
 
 ## 4.2. Unsporting Conduct — Major
 
@@ -994,15 +994,17 @@ the offense is repeated at a later time, the penalty is Disqualification and rem
 
 **Policy Additions** 
 
-**4.2A. Definition** In Multiplayer Tournaments, Colluding with an opponent is also an Unsporting Conduct - Major infraction.
+**4.2A. Definition** In Multiplayer Tournaments, Colluding with an opponent is also an Unsporting Conduct - Major infraction. Misplays or suboptimal plays are not Collusion, Collusion require intention to do so.
 
-**4.2B. Definition** In Multiplayer Tournaments, performing a Spite Play against an opponent is also an Unsporting Conduct - Major infraction.
+**4.2B. Definition** In Multiplayer Tournaments, performing a Spite Play against an opponent is also an Unsporting Conduct - Major infraction. Misplays or suboptimal plays are not Spite plays, Spite plays require intention to do so.
 
 **4.2C. Philosophy** In Multiplayer Tournaments, only the players instigating or perpetuating confrontation are removed from the match, in which case the **match can continue with the remaining players**.
 
-**4.2D. Upgrade**: In Multiplayer Tournaments, if it is determined that players in Collusion with each other were aware that what they were doing was not permitted, or they acted with malicious intent, the penalty is Disqualification. All players found in Collusion receive this penalty.
+**4.2D. Additional Remedy** In Multiplayer Tournaments, whenever a Collusion or Spite Play infraction occurs, a full backup may be considered or the game state may be left as is.
 
-**4.2D. Upgrade**: In Multiplayer Tournaments, if it is determined that a player performed a Spite Play while aware it was not permitted, or they acted with malicios intent, the penalty is Disqualification.
+**4.2E. Upgrade**: In Multiplayer Tournaments, if it is determined that players in Collusion with each other were aware that what they were doing was not permitted, or they acted with malicious intent, the penalty is Disqualification. All players found in Collusion receive this penalty.
+
+**4.2F. Upgrade**: In Multiplayer Tournaments, if it is determined that a player performed a Spite Play while aware it was not permitted, or they acted with malicious intent, the penalty is Disqualification.
 
 ## 4.4. Unsporting Conduct — Bribery and Wagering
 
