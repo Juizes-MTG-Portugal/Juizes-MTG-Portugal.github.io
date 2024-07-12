@@ -557,6 +557,8 @@ Free information consists of:
 * ... _(existing items)_
 * The number of times a Commander has been cast from the command zone.
 
+In Multiplayer Tournaments, in order to prevent Collusion (see section [5.4. Unsporting Conduct](#54-unsporting-conduct)), players cannot secretly exchange information with each other. 
+
 ## 4.2. Tournament Shortcuts
 
 <details markdown="0">
@@ -722,29 +724,49 @@ This process follows the same rules specified in MAMTR 4.2A.
 
 **5.4A** In Multiplayer Tournaments, it is also considered Unsporting Conduct:
 
-* Coercing a player into performing an action over threat of losing the game to another player.
-  * Coercion can happen in non-verbal ways too.
-  * It's not Coercion if actions are discussed within a timing where the affect player is not yet under pressure to perform that action.
-  * When proposing intentional draws, players can discuss the terms and reveal hands, but they can't attempt to coerce players that aren't in accordance.
-  * Examples:
-    - Alice is presenting a win, Bob has an answer, but passes priority since they see that Diane has untapped lands, and they believe Charles has an answer. Since Charles passes priority to Diane, **it's not acceptable** that Bob asks Diane to: "Tap a land so that I get priority back, otherwise we lose!"._
-    - Alice is presenting a win, Bob has an answer, but passes priority since they see that Diane has untapped lands, and they believe Charles has an answer. Since Charles passes priority to Diane, **it's not acceptable** that Bob reveals the answer from their hand at this point with the expectation that Diane taps a land in order for Bob to get the priority back._
-    - Alice is presenting a win, Bob has an answer, but notices that Diane has a Thrasios, Triton Hero, and available mana to activate it. **It is acceptable** that before passing priority, Bob reminds Diane that they can draw a card to find an answer._
-    - Alice is presenting a win, Bob has a win next turn and this is known information. **It’s not acceptable** that Charles attempts to coerce a player into intentionally drawing: “If you don’t want to draw, then I will cast Silence and you lose to Bob” or “You have to accept the draw, or else we will kill you and we draw anyway”._
-    - Alice is presenting a win, Bob has a win next turn and this is known information. **It is acceptable** that Charles attempts to politely reason with the players, without threatening to hand over the win to Bob: Alice, I have this Silence. Do you want to draw? No? Ok." - "What about you, Bob and Diane? Are you ok with making a deal to kill Alice and draw afterwards? It would be better if Alice accepted the draw, since Bob can break the deal and we might end up losing the game instead of everyone drawing”._
-* Colluding with an opponent in order to benefit them in the Tournament.
-  * Collusion typically occurs when a player intentionally takes an action that is detrimental to themselves in order to benefit an opponent.
-  * It's not Collusion if the action is a result of a unintentional strategical error.
-  * Examples:
-    - Alice is presenting a win, Bob has an answer and uses it. Charlie uses their answer to stop Bob's, in order to ensure Alice wins the Match. The Judge's investigation determines that Charlie is friends with Alice and wants Alice to move to the single eliminatin portion of the tournament, and that's why they used their answer. Charlie is Colluding with Alice and vice-versa.
-    - Alice is presenting a win, Daniel has an answer and uses it. Charlie uses their answer to stop Daniel's, in order to ensure Alice wins the Match. The Judge's investigation determines that Charlie is friends with Bob and wants Alice to be penalized by collusion in order to give Bob the chance to try and win against Daniel, and that's why they used their answer. Charlie is Colluding with Bob and vice-versa.
-    - Alice is presenting a win, Bob has a win on their next turn and Charlie has an answer to stop Alice and allow Bob to win the game. In this situation Charlie could conceivably be colluding with Alice or Bob by either not performing an action or by performing an action. However it is also possible that no Collusion is happening. It will be up to the Judge's investigation to determine if there is Collusion or not.
-* Performing a detrimental action with the sole purpose of penalizing an opponent out of Spite.
-  * It's not Spite Play if the action is a result of a unintentional strategical error.
-  * Examples:
-    - Alice is presenting a win that makes use of Bob's existing permanents in order to function. Bob feels disgruntled with Alice's previous interactions in the game and scoops up their cards, conceding, in order to prevent Alice from winning the game. Bob is performing a Spite Play against Alice.
-    - Alice is presenting a win that makes use of Bob's existing permanents in order to function. Bob activates their Necropotence enough times so that they lose the game. Bob hopes that the game ends in a draw, and as such this is not a Spite Play.
+**Coercion**: _Coercing a player into performing an action over threat of losing the game to another player._
 
+Coercion can happen in non-verbal ways too.
+It's not Coercion if actions are discussed within a timing where the affect player is not yet under pressure to perform that action.
+When proposing intentional draws, players can discuss the terms and reveal hands, but they can't attempt to coerce players that aren't in accordance.
+
+**Coercion Examples**:
+
+- _Alice is presenting a win, Bob has an answer, but passes priority since they see that Diane has untapped lands, and they believe Charles has an answer. Since Charles passes priority to Diane, **it's not acceptable** that Bob asks Diane to: "Tap a land so that I get priority back, otherwise we lose!"._
+- _Alice is presenting a win, Bob has an answer, but passes priority since they see that Diane has untapped lands, and they believe Charles has an answer. Since Charles passes priority to Diane, **it's not acceptable** that Bob reveals the answer from their hand at this point with the expectation that Diane taps a land in order for Bob to get the priority back._
+- _Alice is presenting a win, Bob has an answer, but notices that Diane has a Thrasios, Triton Hero, and available mana to activate it. **It is acceptable** that before passing priority, Bob reminds Diane that they can draw a card to find an answer._
+- _Alice is presenting a win, Bob has a win next turn and this is known information. **It’s not acceptable** that Charles attempts to coerce a player into intentionally drawing: “If you don’t want to draw, then I will cast Silence and you lose to Bob” or “You have to accept the draw, or else we will kill you and we draw anyway”._
+- _Alice is presenting a win, Bob has a win next turn and this is known information. **It is acceptable** that Charles attempts to politely reason with the players, without threatening to hand over the win to Bob: Alice, I have this Silence. Do you want to draw? No? Ok." - "What about you, Bob and Diane? Are you ok with making a deal to kill Alice and draw afterwards? It would be better if Alice accepted the draw, since Bob can break the deal and we might end up losing the game instead of everyone drawing”._
+
+**Collusion**: _Colluding with an opponent in order to benefit them in the Tournament._
+
+Collusion typically occurs when a player intentionally takes an action that is detrimental to themselves in order to benefit an opponent.
+It's not Collusion if the action is a result of a unintentional strategical error.
+
+**Collusion Examples**:
+
+- _Alice is presenting a win, Bob has an answer and uses it. Charlie uses their answer to stop Bob's, in order to ensure Alice wins the Match. The Judge's investigation determines that Charlie is friends with Alice and wants Alice to move to the single eliminatin portion of the tournament, and that's why they used their answer. Charlie is Colluding with Alice and vice-versa._
+- _Alice is presenting a win, Daniel has an answer and uses it. Charlie uses their answer to stop Daniel's, in order to ensure Alice wins the Match. The Judge's investigation determines that Charlie is friends with Bob and wants Alice to be penalized by collusion in order to give Bob the chance to try and win against Daniel, and that's why they used their answer. Charlie is Colluding with Bob and vice-versa._
+- _Alice is presenting a win, Bob has a win on their next turn and Charlie has an answer to stop Alice and allow Bob to win the game. In this situation Charlie could conceivably be colluding with Alice or Bob by either not performing an action or by performing an action. However it is also possible that no Collusion is happening. It will be up to the Judge's investigation to determine if there is Collusion or not._
+
+**Spite Play**: _Performing a detrimental action with the sole purpose of penalizing an opponent out of Spite._
+
+It's not Spite Play if the action is a result of a unintentional strategical error.
+
+**Spite Play Examples**:
+
+- _Alice is presenting a win that makes use of Bob's existing permanents in order to function. Bob feels disgruntled with Alice's previous interactions in the game and scoops up their cards, conceding, in order to prevent Alice from winning the game. Bob is performing a Spite Play against Alice._
+- _Alice is presenting a win that makes use of Bob's existing permanents in order to function. Bob activates their Necropotence enough times so that they lose the game. Bob hopes that the game ends in a draw, and as such this is not a Spite Play._
+
+In Multiplayer Tournaments, sometimes it will surface the idea that a player is "Kingmaking" another player. This notion of Kingmaking is only problematic if it falls under the category of Collusion or Spite Play. Otherwise, it can be a simple unintentional strategical error, and that's not regulated by Judges.
+
+When investigating these matters, Judges need to take special attention to not reveal strategic information to players at the table. An opponent can potentially accuse a player of Spite Play or Collusion in order to extract strategically relevant information from the Judge's ruling, for example:
+
+- _Player A calls a judge because Player B is casting a Pact of Negation, targetting one of their spells, while Player B only seemingly has 3 available mana in their next upkeep. A Judge comes over, sees this and asks to see Player B's hand, noticing a Dark Ritual, then dismissing the Spite Play / Collusion claim. Player A, C and D noticed this interaction and now think that Player B must have an instant that can provide mana or a way to win at instant speed in their upkeep._
+
+The problem with this situation is that if Player B was actually doing as Spite Play, they must be penalized immediately so that the integrity of the game is not compromised any further. However, investigating this, will leak some information, so Judges need to be careful to minimize these leaks:
+
+- _By asking the player if they are aware of the Spite play rules in the open, without seeing their hand, they are simply reiterating what the player already signaled by casting the Pact of Negation in the first place, minimizing the information leak._
 
 # 6. Constructed Tournament Rules
 
