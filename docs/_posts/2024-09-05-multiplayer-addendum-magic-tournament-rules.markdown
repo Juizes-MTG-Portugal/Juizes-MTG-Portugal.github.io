@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiplayer Addendum to the Magic Tournament Rules"
-date: 2023-11-20 15:00:00 +0000
+date: 2024-09-05 23:00:00 +0000
 categories: unofficial documents multiplayer competitive regular
 permalink: multiplayer-addendum-mtr
 ---
@@ -430,6 +430,30 @@ _Example: Alice owns a Bane Alley Broker. She activated its ability exiling a Da
 _Example: Bob is controlling Alice during her turn, due to resolving the activated ability of a Mindslaver. Alice draws an Ad Nauseam for the turn, then Alice casts and resolves Praetor's Grasp targetting Charlie, exiling a Lion's Eye Diamond. Bob has access to all of this hidden information, but Alice still has the choice of physically revealing cards from her hand, and neither Alice or Bob can physically reveal cards from Charlie's library. Alice will also be the one with the choice to physically reveal the Lion's Eye Diamond, not Bob._
 
 _Example: In a situation where Alice resolved Gather Specimens, Bob controls Lens of Clarity and Charlie is resolving a Reality Shift on a creature controlled by David, both Bob and Alice will gain information about the identity of the Manifested card from David entering the battlefield under Alice's control. However this was an object that is owned by David, created by an effect from Charlie, but neither of them have the right to look at. In this situation, Alice is the one deciding if she wants to physically reveal the hidden information regarding the manifested card._
+
+## 3.17 Supplementary Decks
+
+**Policy Additions** This section was removed in May 13th 2024, and we are bringing it back since some Multiplayer Formats, such as Commander, might make use of Supplementary Decks.
+
+Some mechanics, such as attractions, make use of an additional deck of nontraditional Magic cards. Cards in a secondary deck are not part of the deck or sideboard and do not count against any minimum or maximum deck or sideboard size. They are presented and shuffled alongside the deck during pregame procedures, but do not need to be shuffled again if the player takes a mulligan.
+
+Different supplementary decks must be kept distinct at all times during the game. Opponents may count the number of cards in a supplementary deck at any time.
+
+A player playing a supplementary deck must register the cards if decklists are being used and the contents of that deck cannot change during the event. In an event using continuous construction, players may change the contents of their supplementary decks between matches.
+
+## 3.18 Stickers
+
+**Policy Additions** This section was removed in May 13th 2024, and we are bringing it back since some Multiplayer Formats, such as Commander, might make use of Stickers.
+
+Stickers modify cards; they are found on a set of sticker sheets and persist on the cards as they move between public zones. Stickers do not need to be attached directly to cards; they can be attached to card sleeves or associated in any way that makes the function of the sticker clear.
+
+Sticker sheets are identified in deck registration using a combination of the three name stickers on the sheet. Players present their registered sheets of stickers alongside their deck during the pregame procedure and, if necessary, determine the three sheets to be used for that game at that time.
+
+If a player has not registered a set of sticker sheets but is instructed to put a sticker onto a permanent they own due to an effect they have gained control of, they may visit https://magic.wizards.com/en/unresources to generate three sticker sheets for use in that game only. If they do not choose to do so, the part of the ability instructing them to put a sticker onto a permanent is ignored.
+
+Official sticker sheets are not required, provided that the player makes it clear what sheets they are using, which stickers are on those sheets, and represents the stickers in-game with a method that is clear to both players. Only the official 48 sticker sheet combinations may be used; players cannot mix and match to generate their own sheets.
+
+All stickers are returned to their respective sheets between games.
 
 # 4. Communication
 
@@ -1512,6 +1536,8 @@ When the number of players is uneven with the desired Pod size, and smaller size
 
 # Credit
 
-_Created by Erin Leonard, [Fábio Batista](https://github.com/fbatista), and Graydon Beadle_
+_Initial document Created by Erin Leonard, [Fábio Batista](https://github.com/fbatista), and Graydon Beadle_
 
-_Consultation and editing by [Landon Liberator](https://github.com/Libby-Monarch), Bryan Spellman, Savannah Beard, [Nicholas Hammond](https://github.com/NicholasRHammond), Erin Leonard, Mark Mason, [Tyler Bloom](https://github.com/TylerBloom), and Ethan Smilg_
+_Initial Consultation and editing by [Landon Liberator](https://github.com/Libby-Monarch), Bryan Spellman, Savannah Beard, [Nicholas Hammond](https://github.com/NicholasRHammond), Erin Leonard, Mark Mason, [Tyler Bloom](https://github.com/TylerBloom), and Ethan Smilg_
+
+_Subsequent Contributions by the community via the [github repository](https://github.com/Juizes-MTG-Portugal/Juizes-MTG-Portugal.github.io/issues?q=is%3Aissue+is%3Aclosed)_

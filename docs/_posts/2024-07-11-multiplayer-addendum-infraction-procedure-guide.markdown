@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiplayer Addendum to the Infraction Procedure Guide"
-date: 2023-11-20 15:00:00 +0000
+date: 2024-07-11 16:44:00 +0000
 categories: unofficial documents multiplayer competitive
 permalink: multiplayer-addendum-ipg
 ---
@@ -1056,6 +1056,8 @@ Bribery and wagering disrupt the integrity of the tournament and are strictly fo
 
 # Credit
 
-_Created by Bryan Spellman and Landon Liberator_
+_Initially Created by Bryan Spellman and Landon Liberator_
 
-_Consultation and editing by Savannah Beard, Nicholas Hammond, Fábio Batista, Erin Leonard, Mark Mason, Graydon Beadle, Tyler Bloom, Fatty Springer, Maria Howerton-Sweid, Ethan Smilg, and Seth Arar._
+_Initial Consultation and editing by Savannah Beard, Nicholas Hammond, Fábio Batista, Erin Leonard, Mark Mason, Graydon Beadle, Tyler Bloom, Fatty Springer, Maria Howerton-Sweid, Ethan Smilg, and Seth Arar._
+
+_Subsequent Contributions by the community via the [github repository](https://github.com/Juizes-MTG-Portugal/Juizes-MTG-Portugal.github.io/issues?q=is%3Aissue+is%3Aclosed)_
