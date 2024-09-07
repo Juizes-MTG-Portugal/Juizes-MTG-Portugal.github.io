@@ -1013,7 +1013,7 @@ In the semi finals, the seeds of the winners from the quarterfinals are taken in
 [^1]: [EDH_matchmaker](https://github.com/eVen-gits/EDH_matchmaker) _open source_
 [^2]: [SquireBot](https://github.com/SquireTournamentServices/SquireBot) _open source, requires Discord_
 [^3]: [EMP](https://www.planarforge.com/emp/) _free to use_
-[^4]: [Command Tower](https://topdeck.gg/subscribe) _requires a monthly fee_
+[^4]: [Brainstorm TMS](https://brainstorm-tms.com/) _free to use_
 
 # Appendix B – Time Limits
 
