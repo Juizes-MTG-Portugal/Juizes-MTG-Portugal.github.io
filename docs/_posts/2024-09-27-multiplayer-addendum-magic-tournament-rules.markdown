@@ -1374,11 +1374,13 @@ _During a Tournament Semifinals, Pod 1 is playing a 3-hour long grindy game. Pod
 
 **Policy Additions**
 
-In Multiplayer Tournaments, players earn
+In Multiplayer Tournaments, players earn a different amount of points per match win than in 1v1.
 
-$$ {n + n \times ( 1 - ({1 \over n}) )} $$
+We reached the final formula of:
 
-match points for each match win, where n is the standard number of players in a Pod for that tournament.
+$$ {2n - 1} $$
+
+Where n is the standard number of players in a Pod for that tournament. (Pods with less players still yield the same number of points as the desired standard)
 
 The winner is the one that by the end of the round time has the most game wins or that before the end of the round time has achieved the required number of game wins.
 
@@ -1390,11 +1392,41 @@ In Best-of-One matches, the match points can coincide with game points, since th
 
 A player who receives a bye in a Multiplayer tournament receives
 
-$$ {n + n \times ( 1 - ({1 \over n}) )} $$
+$$ {2n - 1} $$
 
 match points, where N is the standard number of players in a Pod for that tournament.
 
-For example, in a tournament with a typical pod composition of 4 players, the points per win is 7. This value is also used for any incomplete pods (with 3 players).
+For example, **in a tournament with a typical pod composition of 4 players, the points per win is 7.** This value is also used for any incomplete pods (with 3 players).
+
+** Explanation **
+
+This formula is a simplification of:
+
+$$ {n + n \times ( 1 - ({1 \over n}) )} $$
+
+Breaking down this version of the formula we can understand where it comes from:
+
+$$ {1 \over n} $$
+
+This is the chance to win the match (discarding draws and assuming even skill).
+
+Therefore this:
+
+$$ {( 1 - ({1 \over n}) )} $$
+
+Is the chance to lose the match, or in other words the difficulty of winning the match.
+
+Thus, we take the number of base points from a pod (1 per draw per player), and award the winner that base:
+
+$$ {n} $$
+
+So we add a bonus amount of points based on the difficulty of winning the match:
+
+$$ {n + n \times ( 1 - ({1 \over n}) )} $$
+
+Simplifying, we get:
+
+$$ {2n - 1} $$
 
 ## Game Points
 
@@ -1402,11 +1434,15 @@ For example, in a tournament with a typical pod composition of 4 players, the po
 
 In Multiplayer Tournaments, players earn
 
-$$ {n + n \times ( 1 - ({1 \over n}) )} $$
+$$ {2n - 1} $$
 
-game points for each game they win, where n is the standard number of players in a Pod for that tournament.
+Game points for each Game they win, where n is the standard number of players in a Pod for that tournament.
 
-Each player who began a game that does not end with a winner being declared will earn 1 point.
+Each player who began a Game that does not end with a winner being declared will earn 1 point.
+
+** Explanation **
+
+For more details on the Game points formula, check the Match Points explanation section above.
 
 ## Match-Win Percentage
 
