@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiplayer Addendum to the Infraction Procedure Guide"
-date: 2024-07-11 16:44:00 +0000
+date: 2024-09-27 1:00:00 +0000
 categories: unofficial documents multiplayer competitive
 permalink: multiplayer-addendum-ipg
 ---
@@ -53,24 +53,24 @@ A Game Loss ends the current game immediately and the player who committed the i
 considered to have lost the game for the purpose of match reporting. The player receiving a 
 Game Loss chooses whether to play or draw in the next game of that match, if applicable. If a 
 Game Loss is issued before the match begins, neither player in that match may use sideboards (if 
-the tournament uses them) for the first game they play. 
+the tournament uses them) for the first game they play.
 </p>
 <p>
 Game Losses are applied immediately if the game is still ongoing, or to the player’s next game if 
 it is not, unless otherwise specified. If a player would receive multiple Game Losses at the same 
 time, they only receive one. If simultaneous Game Loss penalties are issued to each player, they 
-are recorded, but do not affect the match score. 
+are recorded, but do not affect the match score.
 </p>
 <p>
 <strong>Match Loss</strong>
 </p>
 <p>
 A Match Loss is a severe penalty that is usually issued when the match itself has been 
-compromised. 
+compromised.
 </p>
 <p>
 Match Losses are applied to the match during which the offense occurred unless the offender’s 
-match has already ended, in which case the penalty will be applied to that player’s next match. 
+match has already ended, in which case the penalty will be applied to that player’s next match.
 </p>
 <p>
 <strong>Disqualification</strong>
@@ -196,9 +196,11 @@ As such, in Multiplayer Tournaments, the **fourth and fifth Warnings** for a Gam
     </p>
     <p>
       A triggered ability triggers, but the player controlling the ability doesn’t demonstrate awareness 
-      of the trigger’s existence by the first time that it would affect the game in a visible fashion.
+      of the trigger’s existence by the first time that it would affect the game in a visible fashion. 
+    </p>
+    <p>
       The point by which the player needs to demonstrate this awareness depends on the impact that 
-      the trigger would have on the game:
+      the trigger would have on the game: 
     </p>
     <ul>
       <li>
@@ -228,6 +230,10 @@ As such, in Multiplayer Tournaments, the **fourth and fifth Warnings** for a Gam
       Error — Game Rule Violation.
     </p>
     <p>
+      If the turn-based action of putting a lore counter on a Saga is missed, it should be handled as 
+      though it was a missed trigger. 
+    </p>
+    <p>
       Triggered abilities that do nothing except create delayed triggered abilities automatically resolve 
       without requiring acknowledgment. Awareness of the resulting delayed trigger must be 
       demonstrated at the appropriate point. Triggered abilities that do nothing except create one or 
@@ -246,8 +252,10 @@ As such, in Multiplayer Tournaments, the **fourth and fifth Warnings** for a Gam
       controller to sacrifice a creature, a player who controls no creatures isn’t required to demonstrate 
       awareness of the ability. Similarly, a player demonstrating awareness of an optional trigger with 
       no visible effect is assumed to have made the affirmative choice unless the opponent responds.
+    </p>
+    <p>
       Judges do not intervene in a missed trigger situation unless they intend to issue a Warning or 
-      have reason to suspect that the controller is intentionally missing their triggered abilities.
+      have reason to suspect that the controller is intentionally missing their triggered abilities. 
     </p>
     <p>
       A player controlling another player is responsible for that player’s triggers in addition to their
@@ -307,6 +315,10 @@ As such, in Multiplayer Tournaments, the **fourth and fifth Warnings** for a Gam
       resolving items on the stack in an improper order.
     </p>
     <p>
+    </p>
+      A triggered ability is considered to have triggered even if it was subsequently missed. Effects 
+      that count or restrict the number of times a triggered ability can trigger will count the missed one.
+    <p>
       <strong>Additional Remedy</strong>
     </p>
     <p>
@@ -346,6 +358,8 @@ As such, in Multiplayer Tournaments, the **fourth and fifth Warnings** for a Gam
 <p></p>
 
 **Policy Additions**
+
+**2.1A. Definition** In Multiplayer Tournaments, since there are multiple opponents, for triggered abilities that require its controller to choose targets, **including 'target opponent'**, modes or other choices made when the ability is put onto the stack, the controller must announce those choices before they next pass priority. This is a change from Head-to-Head Tournaments, where the target opponent is obvioulsy defined.
 
 **2.1A. Additional Remedy** In Multiplayer Tournaments, since there are multiple opponents, **the decisions** that would be made by "the opponent" _(when and if the missed trigger is put on the stack / resolves)_, are **instead made by a majority vote** of the opponents. If no majority decision is reached _(perhaps because one opponent was eliminated and there is an even number of opponents)_, the final decision will be made by a randomly chosen opponent.
 
@@ -530,7 +544,7 @@ categories, and only into those categories, perform the appropriate partial fix:
       <li>If a player forgot to untap one or more permanents at the start of their turn and it is still the same turn, untap them.</li> 
       <li>If a player made an illegal choice (including no choice where required) for a static ability generating a continuous effect still on the battlefield, that player makes a legal choice.</li> 
       <li>If a player failed to draw cards, discard cards, or return cards from their hand to another zone, that player does so.</li> 
-      <li>If an object is in an incorrect zone either due to a required zone change being missed or due to being put into the wrong zone during a zone change, the exact object is still known to all players, and it can be moved with only minor disruption to the current state of the game, put the object in the correct zone.</li> 
+      <li>If an object is not in the correct zone, the exact object is still known to all players, and it can be moved with only minor disruption to the current state of the game, put the object in the correct zone. This only applies if the object being in the wrong zone is the Game Rule Violation, and not if it is the consequence of a different error.</li> 
       <li>If damage assignment order has not been declared, the appropriate player chooses that order.</li> 
     </ul>
     <p>
@@ -840,22 +854,29 @@ If the missing card(s) were in a previous or current opponent’s deck, issue pe
 players.
     </p>
     <p>
-<strong>Upgrade</strong>: While presented to the opponent for pre-game shuffling or during a deckcheck, if it is 
-discovered that a deck contains an invalid number of cards (and any missing cards are not in the 
-opponent’s deck) or a sideboard contains too many cards, the penalty is a Game Loss.
+      <strong>Upgrade</strong>: In games before sideboarding, while the deck is presented to the opponent for pre
+      game shuffling or during a deckcheck, if the deck contains fewer cards than registered (and any 
+      missing cards are not in the opponent’s deck) or the sideboard contains more cards than 
+      registered, the penalty is a Game Loss. 
     </p>
     <p>
-<strong>Upgrade</strong>: If an opponent may have made strategic decisions based on the presence of a 
-sideboard card (such as having seen it in the hand or library during a search effect), the penalty is 
-a Game Loss.
+      In games after sideboarding, while the deck is presented to the opponent for pre-game shuffling 
+      or during a deckcheck, if the deck contains fewer cards than the format minimum (and any 
+      missing cards are not in the opponent’s deck) or the sideboard contains more cards than the 
+      format maximum, the penalty is a Game Loss.
     </p>
     <p>
-<strong>Upgrade</strong>: If an error resulted in more copies of a main deck card being played than were 
-registered or allowed by companion restriction and this was discovered after the game had 
-begun, the penalty is a Game Loss unless all copies of the card are still in the random portion of 
-the library. For example if the decklist has two copies of Shock in the main deck and two in the 
-sideboard, but a search finds two copies of Shock in the library with another already in the 
-graveyard, the penalty is upgraded.
+      <strong>Upgrade</strong>: If an opponent may have made strategic decisions based on the presence of a 
+      sideboard card (such as having seen it in the hand or library during a search effect), the penalty is 
+      a Game Loss.
+    </p>
+    <p>
+      <strong>Upgrade</strong>: If an error resulted in more copies of a main deck card being played than were 
+      registered or allowed by companion restriction and this was discovered after the game had 
+      begun, the penalty is a Game Loss unless all copies of the card are still in the random portion of 
+      the library. For example if the decklist has two copies of Shock in the main deck and two in the 
+      sideboard, but a search finds two copies of Shock in the library with another already in the 
+      graveyard, the penalty is upgraded.
     </p>
   </blockquote>
 </details>

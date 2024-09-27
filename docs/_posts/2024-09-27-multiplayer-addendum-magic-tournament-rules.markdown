@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiplayer Addendum to the Magic Tournament Rules"
-date: 2024-09-05 22:00:00 +0000
+date: 2024-09-27 1:00:00 +0000
 categories: unofficial documents multiplayer competitive regular
 permalink: multiplayer-addendum-mtr
 ---
@@ -153,7 +153,7 @@ _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer mat
       have heard of policy and what is “really bad,” but generally play in a fashion similar to the way they do casually. 
       Players are still responsible for following the rules, but the focus is on education and sportsmanship over 
       technically precise play. Infractions in these tournaments are covered by the Judging at Regular Rules 
-      Enforcement Level document, located at <a href="http://wpn.wizards.com/document/magic-gathering-judging-regular-rel">http://wpn.wizards.com/document/magic-gathering-judging-regular-rel</a>.
+      Enforcement Level document, located at <a href="http://wpn.wizards.com/en/rules-documents">http://wpn.wizards.com/en/rules-documents</a>.
     </p>
     <p>
       <strong><em>Competitive</em></strong> 
@@ -164,7 +164,7 @@ _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer mat
       unintentional errors are not punished severely. These are tournaments that protect the interests of all players by 
       providing tournament integrity while also recognizing that not all players are intimately familiar with 
       Professional-level tournament structure, proper procedures, and rules. Infractions in these tournaments are 
-      covered by the Magic Infraction Procedure Guide, located at <a href="http://wpn.wizards.com/document/magic-infraction-procedure-guide">http://wpn.wizards.com/document/magic-infraction-procedure-guide</a>. 
+      covered by the Magic Infraction Procedure Guide, located at <a href="http://wpn.wizards.com/en/rules-documents">http://wpn.wizards.com/en/rules-documents</a>. 
     </p>
     <p>
       <strong><em>Professional</em></strong> 
@@ -173,7 +173,7 @@ _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer mat
       Professional level tournaments offer large cash awards, prestige, and other benefits that draw players from great 
       distances. These tournaments hold players to a higher standard of behavior and technically-correct play than 
       Competitive tournaments. Infractions in these tournaments are covered by the Magic Infraction Procedure Guide, 
-      located at <a href="http://wpn.wizards.com/document/magic-infraction-procedure-guide">http://wpn.wizards.com/document/magic-infraction-procedure-guide</a>.
+      located at <a href="http://wpn.wizards.com/en/rules-documents">http://wpn.wizards.com/en/rules-documents</a>.
     </p>
   </blockquote>
 </details>
@@ -627,6 +627,9 @@ In Multiplayer Tournaments, in order to prevent Collusion (see section [5.4. Uns
       </li>
       <li>
         A player is assumed to be attacking another player with their creatures and not any planeswalkers that player may control unless the attacking player specifies otherwise.
+      </li>
+      <li>
+        If an object has multiple mana abilities, a player is assumed to be activating the one that most specifically applies to the spell or ability for which that mana is being used, unless they announce otherwise. 
       </li>
       <li>
         A player who does not scry/surveil when instructed to is assumed to have not looked and chosen to leave the cards in the same order.
