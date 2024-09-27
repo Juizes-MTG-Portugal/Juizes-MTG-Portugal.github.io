@@ -1398,7 +1398,7 @@ match points, where N is the standard number of players in a Pod for that tourna
 
 For example, **in a tournament with a typical pod composition of 4 players, the points per win is 7.** This value is also used for any incomplete pods (with 3 players).
 
-** Explanation **
+**Explanation**
 
 This formula is a simplification of:
 
@@ -1440,7 +1440,7 @@ Game points for each Game they win, where n is the standard number of players in
 
 Each player who began a Game that does not end with a winner being declared will earn 1 point.
 
-** Explanation **
+**Explanation**
 
 For more details on the Game points formula, check the Match Points explanation section above.
 
