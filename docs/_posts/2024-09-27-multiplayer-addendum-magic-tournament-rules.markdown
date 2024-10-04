@@ -229,7 +229,7 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 
 **2.2A** In Multiplayer Tournaments, both the seating order and first player are defined with a random method. There is no “winner of a random-method” as in Head-to-Head tournaments and therefore no choice to be made in swiss rounds. In single elimination, the player with the highest standing from the swiss portion of the tournament will go first, followed by the player with the next highest, until all player’s order is decided.
 
-**2.2B** For Multiplayer Tournaments where the number of game wins required to win a match is  greater than one, the seating order must be randomized across all games. The starting player is decided using a random method for each game after the first.
+**2.2B** For Multiplayer Tournaments where the number of game wins required to win a match is  greater than one, the seating order must be randomized across all games. In these cases, the starting player is decided using a random method for each game after the first.
 
 ## 2.3. Pregame Procedure
 
