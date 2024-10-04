@@ -654,7 +654,7 @@ The reason being that we can't simply assume a default opponent when there are m
 
 **4.2C** In Multiplayer Tournaments, if a player requests priority and decides they do not wish to do anything, the request is nullified, priority is returned to the active player and the game state is backed up to the point after the last game action.
 
-This is in contrast to Head-to-Head tournaments, where the priority is returned to the player that had originally it. This is done to prevent abuse where players verbally announce outside of their priority window, that they wish to do something and by not doing anything, they are potentially leading other players into passing priority.
+This is in contrast to Head-to-Head tournaments, where the priority is returned to the player that originally had it. This is done to prevent abuse where players verbally announce outside of their priority window, that they wish to do something and by not doing anything, they are potentially leading other players into passing priority.
 
 _Example: Alice is attacking and Bob is pondering what to do while they have priority. Daniel says they will use a Cyclonic Rift at the end of Alice’s turn. Thus, Bob passes priority and Charles also passes priority, followed by Daniel. Combat ends and during their second main phase, Alice plays a land and says “Pass the turn” - attempting to execute the Tournament Shortcut. Then, Bob and Charles both pass priority saying “OK “ on the Tournament Shortcut, knowing that Daniel would do something. However, Daniel says he changed his mind and doesn’t want to do anything._
 
