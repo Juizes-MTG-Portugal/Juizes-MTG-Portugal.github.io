@@ -854,6 +854,8 @@ For the single elimination portion of the tournament, the seating and play order
 
 ***.4A.** Before drawing opening hands, players will reveal their Companion (if any) and then their Commander as per Comprehensive Rules 103.2c. All other pregame procedures are performed as normal.
 
+In Competitive Rules Enforcement Level, the Commander must be clearly identified in the decklist.
+
 ## *.5. Time Extensions
 
 ***.5A** Because Commander decks are 100-card singleton lists, after a Deck Check is performed tournament staff should award extra time to the affected match totaling the time spent on the deck check, plus four (4) extra minutes to account for the additional shuffling time needed.
