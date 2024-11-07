@@ -944,7 +944,7 @@ A backup may be considered to the point of the action, not the erroneous communi
 
 **3.7A. Definition**
 
-In a Multiplayer Tournament, physically revealing hidden information is allowed in certain conditions (see MAMTR 3.13 Hidden Information). Secretly exchanging hidden information with an Opponent is a Communication Policy Violation (see MAMTR 4.1 - Player Communication).
+In a Multiplayer Tournament, physically revealing hidden information is allowed in certain conditions (see [MAMTR 3.13 Hidden Information](https://juizes-mtg-portugal.github.io/multiplayer-addendum-mtr#313-hidden-information)). Secretly exchanging hidden information with an Opponent is a Communication Policy Violation (see [MAMTR 4.1 - Player Communication](https://juizes-mtg-portugal.github.io/multiplayer-addendum-mtr#41-player-communication)).
 
 **3.7B. Examples**
 
