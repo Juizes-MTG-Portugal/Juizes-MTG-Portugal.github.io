@@ -944,7 +944,7 @@ A backup may be considered to the point of the action, not the erroneous communi
 
 **3.7A. Definition**
 
-In a Multiplayer Tournament, physically revealing hidden information is allowed in certain conditions. Failing to comply to that policy is a Communication Policy Violation. This also includes showing hidden information to a specific opponent while not revealing it to the remaining players.
+In a Multiplayer Tournament, physically revealing hidden information is allowed in certain conditions (see MAMTR 3.13 Hidden Information). Secretly exchanging hidden information with an Opponent is a Communication Policy Violation (see MAMTR 4.1 - Player Communication).
 
 **3.7B. Examples**
 
