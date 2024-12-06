@@ -1147,7 +1147,7 @@ In the semi finals, the seeds of the winners from the quarterfinals are taken in
 
 The following time limits are recommended for each Round of a Multiplayer Tournament:
 
-* For Swiss Rounds - 90 minutes + no extra turns time limit
+* For Swiss Rounds - 80 minutes + no extra turns time limit
 * For Single Elimination Matches - no time limit (_with exceptions_)
 
 It is recommended to apply a hard **30 minute last turn time limit** in order to handle a very long last turn after the regular Round time is over, in order to prevent severe delays to the event.
