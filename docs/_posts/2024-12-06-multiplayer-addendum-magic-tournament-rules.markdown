@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiplayer Addendum to the Magic Tournament Rules"
-date: 2024-09-27 1:00:00 +0000
+date: 2024-12-06 1:00:00 +0000
 categories: unofficial documents multiplayer competitive regular
 permalink: multiplayer-addendum-mtr
 ---
