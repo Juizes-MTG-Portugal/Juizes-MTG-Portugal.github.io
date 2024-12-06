@@ -115,21 +115,6 @@ the disqualified player and that player’s opponent.
 
 **1.1A.** In Multiplayer Tournaments, in some cases the penalty or additional remedy of **Skipping a Turn** is applied. Please refer to the Comprehensive Rules 500.10 for details on how Skipping a Turn works.
 
-**1.1B.** In Multiplayer Tournaments that use a Best-of-One match structure, a new penalty is introduced: 
-
-**Skip Priority**
-
-The Skip Priority penalty applies for Multiplayer Tournaments, at Competitive and Professional REL, in Best of One Matches:
-
-- The Penalty consists in the player Passing Priority on every action until the end of their next turn.
-- The player will still put triggered abilities on the stack, chose targets for them, and resolve them.
-- The player will be able to pay costs (such as when resolving triggers from Remora, Pact of Negation, Mana Vault, Rhystic Study).
-- The player will be allowed to declare blockers.
-- The player will only be allowed to declare mandatory attackers (such as creatures that must attack).
-- The player will not be allowed to play a land.
-- The player will not be allowed to cast a spell by normal means (but they can if they are resolving a triggered ability, like Rebound or Suspend).
-- The player will not be allowed to activate abilities (except mana abilities to pay for costs).
-
 ## 1.3. Randomizing a Library
 
 <details markdown="0">
@@ -153,37 +138,6 @@ Shuffles performed by a judge as part of a remedy are not considered shuffles fo
 **Policy Additions**
 
 **1.3A.** In Multiplayer Tournaments, **check with all Players** when determining and verifying wheter any portion of a library is non-random.
-
-# 2. Game Play Errors
-
-<details markdown="0">
-  <summary><strong>Original policy</strong></summary>
-  <blockquote>
-    <p>
-Game Play Errors are caused by incorrect or inaccurate play of the game such that it results in 
-violations of the <strong>Magic</strong> Comprehensive Rules. Many offenses fit into this category and it would 
-be impossible to list them all. The guide below is designed to give judges a framework for 
-assessing how to handle a Game Play Error.
-</p>
-<p>
-Most Game Play Error infractions are assumed to have been committed unintentionally. If the 
-judge believes that the error was intentional, they should first consider whether an Unsporting 
-Conduct — Cheating infraction has occurred. 
-</p>
-<p>
-With the exception of Failure to Maintain Game State, which is never upgraded, the third or 
-subsequent Warning for a Game Play Error offense in the same category is upgraded to a Game 
-Loss. For multi-day tournaments, the penalty count for these infractions resets between days.
-    </p>
-  </blockquote>
-</details>
-<p></p>
-
-**Policy Additions**
-
-**2A.** In Multiplayer Tournaments, given the **added complexity of the game state** that can occur, specially in **Best-of-One matches**, the third infraction is often not worthy of an upgrade from **Warning** to **Game Loss** which is an effective **Match Loss**. It is still important, however, to discourage the infraction and mitigate the possible gained avantage. 
-
-As such, in Multiplayer Tournaments, the **fourth and fifth Warnings** for a Game Play Error in the same category, are upgraded to a **Skip Priority** penalty. The **sixth and subsequent Warnings** for a Game Play Error in the same category, are upgraded to a **Game Loss**.
 
 ## 2.1. Game Play Error — Missed Trigger
 
@@ -701,7 +655,7 @@ between games, the penalty is a Game Loss.
 
 **Policy Additions**
 
-**3.2A. Definition** In Multiplayer Tournaments, this refers **only to players outside of the current match**. Players who offer advice or strategic lines of play to opponents within their current match have not committed Outside Assistance. Keep in mind that **players that got eliminated count as spectators**, so while eliminated, they are considered outside of the current match.
+**3.2A. Definition** In Multiplayer Tournaments, this refers **only to Players outside of the current Match**. Players who offer advice or strategic information to Opponents within their current Match have not committed Outside Assistance. Keep in mind that **Players that got eliminated from an ongoing Game in their current Match, count as Spectators** for the purpose of determining outside assistance, meaning they can't offer advice or strategic information to their Opponents.
 
 ## 3.3 Tournament Error — Slow Play
 
@@ -757,9 +711,7 @@ still applies.
 
 **Policy Additions**
 
-**3.3A. Additional Remedy** In Multiplayer Tournaments, no **additional extra turns** are added as a remedy for slow play. Players who receive a Slow Play warning during the round will **skip any extra turns** originating from the End-of-Round procedure. Their turn is not considered when determining extra turns for end of round procedure. The remaining players take their extra turns. 
-
-**3.3B. Additional Remedy** If a player is issued a Warning for **Slow Play after time in the round** has been called in Multiplayer Tournaments, that player's turn(s) originating from the End-of-Round procedure are **not skipped**, though the Warning still applies. 
+**3.3A. Additional Remedy** In Multiplayer Tournaments, no **additional extra turns** are added as a remedy for slow play.
 
 ## 3.5. Tournament Error — Deck Problem
 
