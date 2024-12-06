@@ -302,15 +302,15 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 
 **Policy Additions**
 
-**2.4A.** In Multiplayer Tournaments, use N turns instead of five, where N equals the number of remaining players. The number of extra turns is determined as time in the round is called. Once this number is determined, players leaving the game have no impact. 
+**2.4A.** In Multiplayer Tournaments, don't use extra turns at the End of Round. Instead, the active player finishes their turn and if no winner is declared by then, the Match ends in a Draw.
 
-_Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer match. Alice is the active player when time in the round was called. Alice finishes playing turn 0, and since there are 4 remaining players in the Pod, 4 extra turns will be played. Bob takes his turn, then Charlie takes his. However, during Charlie’s turn, Alice and Daniel both lose the game. Bob and Charlie will take the remaining turns, since the number of extra turns was determined as time in the round was called and is not impacted by players leaving the game during extra turns._
+_Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer match. Alice is the active player when time in the round was called. Alice finishes playing her turn._
 
-**2.4B.** In Multiplayer Tournaments, even with the extra turns, it is possible that the individual turns take up too much time if players are playing slowly and debating strategic decisions as a group.
+**2.4B.** In Multiplayer Tournaments, even without the extra turns, it is possible that the last turn takes up too much time if players are debating strategic decisions as a group.
 
-In order to enforce a fast pace during extra turns, an **extra turns time limit** is applied. If the **extra turns time limit** is reached before a winner is determined, the active player can still finish their turn without the match ending abruptly.
+In order to enforce a fast pace during the last turn, a **last turn time limit** is applied. If the **last turn time limit** is reached before a winner is determined, the Match immediately ends with the current Game as a Draw.
 
-_Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. Time in the round has been called and Arnold and Benjamin played their extra turns. Cam is the active player when the overtime limit is reached. Cam finishes their turn and passes. Since no winner has been declared, the match must be reported as a draw._
+_Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. Time in the round has been called. Cam is the active player when the last turn time limit is reached. Since no winner has been declared, the Match with the current Game as a Draw._
 
 **2.4C.** In Multiplayer Tournaments, in the case a Single Elimination Match results in a Draw, the Player with the highest Standing from the Swiss Portion of the event should be considered the Winner.
 
@@ -834,7 +834,7 @@ Refer to the official banlist available at: [https://mtgcommander.net/index.php/
 
 ***.1B.** In Commander matches, players play against each other in Pods. Each Pod should be composed of four players. In the case that the number of participants is not divisible by 4, it is recommended that the minimum possible number of Pods with three players be used in order to not have any Byes. 
 
-The reason behind this decision is that the possibility of awarding multiple Byes in an event where the average win percentage is 25% is extremely impactful. In addition to that, multi-day events suffer even more from the high impact of Byes.
+***.1C.** In Commander matches, the use of Sideboard cards is not allowed, with the exception of a single companion.
 
 ## *.2. Communication Rules
 
@@ -844,9 +844,9 @@ The reason behind this decision is that the possibility of awarding multiple Bye
 
 ***.3A.** Due to Commander being typically played in Best-of-One matches, the way the turn cycles are organized in the Pod, and the fact that the first player also draws, the Play-Draw Rule is ignored.
 
-Instead, for the Swiss portion of the tournament, seating order (and thus turn order) will be established by a random method decided by the Tournament Organizer. The turn order cannot be altered except by in-game effects.
+Instead, for the Swiss portion of the tournament, seating order (and thus turn order) will be established by a random method decided by the Tournament Organizer. The turn order cannot be altered except by in-game effects. In the event of more than one Game being played in a Match (perhaps because of a draw), the players remain in the same seats but the starting player must be picked randomly.
 
-For the single elimination portion of the tournament, the seating and play order is defined by the standings from the Swiss portion of the tournament, in accordance with rule 2.2A Play/Draw Rule.
+For the single elimination portion of the tournament, the seating and play order is defined by the standings from the Swiss portion of the tournament, in accordance with rule 2.2A Play/Draw Rule. Both the seating and the play order don't change in the event of multiple games being played in the same Match.
 
 ***.3B.** If the tournament match structure includes multiple games per match, it is recommended that the seating order is randomized between games, as well as the starting player, because otherwise all the players would continue playing with the same priority order as before.
 
@@ -1147,8 +1147,7 @@ In the semi finals, the seeds of the winners from the quarterfinals are taken in
 
 The following time limits are recommended for each round of a Multiplayer tournament:
 
-* For Swiss Rounds at Regular REL - 90 minutes + no extra turns time limit
-* For Swiss Rounds at Competitive REL - 75 minutes + 20 minutes extra turns time limit
+* For Swiss Rounds - 90 minutes + no extra turns time limit
 * For Single Elimination Matches - no time limit (_with exceptions_)
   
 In the situation where players **Intentionally Draw a game in a Single Elimination Match**, it is recommended to apply the following restrictions:
