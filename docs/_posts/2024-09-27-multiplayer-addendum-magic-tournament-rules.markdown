@@ -185,7 +185,7 @@ _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer mat
 
 # 2. Tournament Mechanics
 
-## 2.1. match Structure
+## 2.1. Match Structure
 
 <details markdown="0">
   <summary><strong>Original policy</strong></summary>
@@ -227,7 +227,7 @@ In the case of a tie, the match is a Draw between the Players that participated 
 
 **2.2A** In Multiplayer Tournaments, both the seating order and first player are defined with a random method. There is no “winner of a random-method” as in Head-to-Head tournaments and therefore no choice to be made in swiss rounds. In single elimination, the player with the highest standing from the swiss portion of the tournament will go first, followed by the player with the next highest, until all player’s order is decided.
 
-**2.2B** For Multiplayer Tournaments where the number of game wins required to win a match is  greater than one, the seating order ramains the same across all Games, but the starting player is decided using a random method for each game after the first.
+**2.2B** For Multiplayer Tournaments where the number of game wins required to win a match is  greater than one, the seating order remains the same across all Games, but the starting player is decided using a random method for each game after the first.
 
 ## 2.3. Pregame Procedure
 
@@ -455,7 +455,7 @@ All stickers are returned to their respective sheets between games.
 
 # 4. Communication
 
-## 4.1. player Communication
+## 4.1. Player Communication
 
 <details markdown="0">
   <summary><strong>Original policy</strong></summary>
@@ -1371,7 +1371,7 @@ _During a Tournament Semifinals, Pod 1 is playing a 3-hour long grindy game. Pod
 </details>
 <p></p>
 
-## match Points
+## Match Points
 
 **Policy Additions**
 
@@ -1429,7 +1429,7 @@ Simplifying, we get:
 
 $$ {2n - 1} $$
 
-## game Points
+## Game Points
 
 **Policy Additions**
 
@@ -1445,29 +1445,29 @@ Each player who began a game that does not end with a winner being declared will
 
 For more details on the game points formula, check the match Points explanation section above.
 
-## match-Win Percentage
+## Match-Win Percentage
 
 **Policy Additions**
 
-In Multiplayer Tournaments, the match Win Percentage is defined as follows:
+In Multiplayer Tournaments, the Match Win Percentage is defined as follows:
 
 $$ {\text{match points} - (\text{Number of byes} \times \text{Points per win}) \over \text{Number of matches played} \times \text{Points per win}} $$
 
-## Opponents’ Average match Points
+## Opponents’ Average Match Points
 
 **Policy Additions**
 
-In Multiplayer Tournaments, Opponents’ Average match Points is defined as follows:
+In Multiplayer Tournaments, Opponents’ Average Match Points is defined as follows:
 
 $$ {\text{(MP  of opponent 1)} + \text{(MP of opponent 2)} + \text{...} + \text{(MP of opponent n)} \over n} $$
 
 Note that Byes do not count towards n.
 
-## Opponents’ match-Win Percentage
+## Opponents’ Match-Win Percentage
 
 **Policy Additions**
 
-In Multiplayer Tournaments, Opponent match Win Percentage is defined as follows (MWP : match Win Percentage): 
+In Multiplayer Tournaments, Opponent match Win Percentage is defined as follows (MWP : Match Win Percentage): 
 
 $$ {\text{(MWP of opponent 1)} + \text{(MWP of opponent 2)} + \text{...} + \text{(MWP of opponent n)} \over n} $$
 
