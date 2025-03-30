@@ -708,6 +708,12 @@ Then, the first Player that proposed the earliest point in the loop is considere
 
 This process follows the same rules specified in MAMTR 4.2A.
 
+## 4.8. Reversing Decisions
+
+**Policy Additions**
+
+**4.8A** In Multiplayer Tournaments, a Player granting relevant strategic information, even in situations where a temporary in-game alliance or deal has been made, is never seen as a teammate. So, for the purpose of reversing decisions, any relevant information provided by opponents of the Player wishing to reverse a decision, must be taken into account. 
+
 # 5. Tournament Violations
 
 ## 5.4. Unsporting Conduct
