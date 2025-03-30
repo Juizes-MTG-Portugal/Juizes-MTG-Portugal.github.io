@@ -710,10 +710,54 @@ This process follows the same rules specified in MAMTR 4.2A.
 
 ## 4.8. Reversing Decisions
 
+<details markdown="0">
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+      Players are expected to consider their options before taking an action and players are not usually allowed to take 
+      back an action that has been communicated to their opponent, either verbally or physically. 
+    </p>
+    <p>
+       Sometimes, a player will realize that they have made a wrong decision after making a play. If that player has not 
+    gained any information since taking the action and they wish to make a different decision, a judge may allow that 
+    player to change their mind. Judges must carefully consider whether the player has gained information since 
+    making the play that might have affected the decision; in particular, players may not try to use opponent reactions 
+    (or lack thereof) to see if they should modify actions they committed to. If the judge cannot be sure no 
+    information was gained, they should not allow the decision to be changed.
+    </p>
+    <p>
+      Teammates intervening before information has been gained is acceptable when considering a backup. 
+    </p>
+    <p>
+      Examples
+    </p>
+    <ol>
+      <li>
+        A player plays an Island and, before anything else happens, says “Sorry, I meant to play a Swamp.” 
+      </li>
+      <li>
+        A player says “No blocks” immediately followed by “Wait, no, I block with this creature.”
+      </li>
+      <li>
+        A player says “Go. Wait, land, go.” 
+      </li>
+    </ol>
+  </blockquote>
+</details>
+<p></p>
+
 **Policy Additions**
 
-**4.8A** In Multiplayer Tournaments, a Player granting relevant strategic information, even in situations where a temporary in-game alliance or deal has been made, is never seen as a teammate. So, for the purpose of reversing decisions, any relevant information provided by opponents of the Player wishing to reverse a decision, must be taken into account. 
+**4.8A** In Multiplayer Tournaments, a Player granting relevant strategic information, even in situations where a temporary in-game alliance or deal has been made, is never seen as a teammate intervening.
+So, for the purpose of reversing decisions, any relevant information provided by opponents of the Player wishing to reverse a decision, must be taken into account. 
 
+**Examples**:
+
+- _In a stack war interaction, where Alice is trying to resolve Underworld Breach, Brian responded with Fierce Guardianship, Alice responded with Pact of Negation and Brian responded with Deflecting Swat. When Deflecting Swat resolves, Brian says "Change pact to swat". Cicero immediately yells: "No! you should have targetted breach!". Brian should **not** be allowed to take back his decision._
+- _Alice is trying to find a solution to Brian's win attempt and resolves Demonic Consultation, naming Fierce Guardianship. At this point, Carlos reminds Alice that she should get Mindbreak Trap instead. Alice should **not** be allowed to take back her decision._
+- _Alice sacrifices her Scalding Tarn saying: "I'm going to crack the fetch for Volcanic Island." immediately followed by: "Oh no wait, there is an Opposition Agent in play! Sorry!", without any opponent's intervention. Alice **could be allowed** to take back her decision._
+- _At the end of Alice's turn, Bruno casts a Vampiric Tutor, and Alice immediately says: "Wait, Carlos has an Opposition Agent in play!". Bruno says: "Oh! No, I changed my mind!". Bruno should **not** be allowed to take back his decision._
+  
 # 5. Tournament Violations
 
 ## 5.4. Unsporting Conduct
