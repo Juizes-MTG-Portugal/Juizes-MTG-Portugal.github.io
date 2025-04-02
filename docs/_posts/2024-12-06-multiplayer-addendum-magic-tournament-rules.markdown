@@ -748,8 +748,12 @@ This process follows the same rules specified in MAMTR 4.2A.
 
 **Policy Additions**
 
-**4.8A** In Multiplayer Tournaments, a Player granting relevant strategic information, even in situations where a temporary in-game alliance or deal has been made, is never seen as a teammate intervening.
-So, for the purpose of reversing decisions, any relevant information provided by opponents of the Player wishing to reverse a decision, must be taken into account. 
+**4.8A** In Multiplayer Tournaments, any Opponent providing relevant strategic information, after a decision has been made, is never seen as a teammate intervening.
+For the purpose of reversing decisions, any relevant information provided by Opponents of the Player wishing to reverse a decision, must be taken into account, and if relevant strategic information is found to have been gained, the reversal should not be allowed.
+
+**Philosophy**:
+
+This rule aims to clarify situations where temporary in-game alliances or deals may occur due to the nature of a Free-for-all game. The main point is to avoid a situation where Players will always have their decisions second-guessed by their opponents in most cases trying to be influenced for their benefit, very much as if they had an infinite stock of free _"change the target of target spell"_ effects. This way, the responsibility of a decision is focused on the decision maker, and players are still able to discuss **before a decision is made** what is the best course of action.
 
 **Examples**:
 
