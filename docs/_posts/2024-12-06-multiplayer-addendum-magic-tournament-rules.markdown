@@ -749,7 +749,7 @@ This process follows the same rules specified in MAMTR 4.2A.
 **Policy Additions**
 
 **4.8A** In Multiplayer Tournaments, any Opponent providing relevant strategic information, after a decision has been made, is never seen as a teammate intervening.
-For the purpose of reversing decisions, any relevant information provided by Opponents of the Player wishing to reverse a decision, must be taken into account, and if relevant strategic information is found to have been gained, the reversal should not be allowed.
+For the purpose of reversing decisions, any relevant information provided by Opponents of the Player wishing to reverse a decision, must be taken into account and if relevant strategic information is found to have been gained, the reversal should not be allowed.
 
 **Philosophy**:
 
