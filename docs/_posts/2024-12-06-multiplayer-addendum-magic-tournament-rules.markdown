@@ -874,7 +874,7 @@ The problem with this situation is that if Player B was actually doing as Spite 
 
 Commander Format introduces changes to the Deck Construction rules as defined in section 903.5 of the Comprehensive Rules.
 
-Refer to the official banlist available at: [https://mtgcommander.net/index.php/banned-list/](https://mtgcommander.net/index.php/banned-list/)
+Refer to the official banlist available at [Wizard's of the Coast official website](https://magic.wizards.com/en/banned-restricted-list#commander-banned).
 
 # *. Commander Tournament Rules
 
