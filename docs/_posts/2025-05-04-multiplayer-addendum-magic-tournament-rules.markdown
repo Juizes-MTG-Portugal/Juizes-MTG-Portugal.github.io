@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiplayer Addendum to the Magic Tournament Rules"
-date: 2024-12-06 1:00:00 +0000
+date: 2025-05-04 1:00:00 +0000
 categories: unofficial documents multiplayer competitive regular
 permalink: multiplayer-addendum-mtr
 ---
@@ -384,51 +384,6 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 3. Opponents’ Average Match points
 4. Opponents’ Match Win percentage
 
-## 3.13. Hidden Information
-
-<details markdown="0">
-  <summary><strong>Original policy</strong></summary>
-  <blockquote>
-    <p>
-      Hidden information refers to the faces of cards and other objects at which the rules of the Game and format do not allow you to look.
-    </p>
-    <p>
-      Throughout the Match, a draft, and pregame procedures, Players are responsible for keeping their cards above the level of the playing surface and for making reasonable efforts to prevent hidden information from being revealed. However, Players may choose to reveal their hands or any other hidden information available to them, unless specifically prohibited by the rules. Players must not actively attempt to gain information hidden from them but are not required to inform Opponents who are accidentally revealing hidden information.
-    </p>
-  </blockquote>
-</details>
-<p></p>
-
-**Policy Additions**
-
-**3.13A** In Head-to-Head Tournaments, having the permission to look at an opponent’s card that the Opponent can also look at is technically the same as that card being revealed. However in Multiplayer Tournaments, that is not true. Being able to look at a card that an Opponent can look at doesn’t give a Player the right to reveal that card to everyone. According to Head-to-Head Tournament rules though, Players are free to reveal cards that they can look at and this clashes with the concept of distinguishing between the Look and Reveal actions as defined in CR 701.16 (a through d). 
-
-One of the reasons we want to allow Players revealing hidden information they gained access to is to avoid a Player accidentally revealing hidden information and either them or the Players that gained that information accidentally being penalized. In Multiplayer it is expected that when a Player is dealing with hidden information that pertains to one of their Opponents, that they are extra careful about not physically revealing it. At the same time we also want to allow Players to still be allowed to bluff about hidden information, so in any situation, Players are allowed to verbally reveal any hidden information they may have gained.
-
-In Multiplayer Tournaments, the following rules apply to physically revealing card faces in hidden zones:
-
-- Library: the owner of the cards in the library can choose to physically reveal as long as they have been instructed to look at them.
-- Face down exile: any Player with a currently applicable instruction allowing them to look at the cards may physically reveal them.
-- Face down on the battlefield: the controller of the permanent(s) can choose to physically reveal them.
-- Face down on the stack: the controller of the spell can choose to physically reveal them.
-- Hand: the owner of the card(s) in hand can physically reveal them.
-- Any other temporary face down zone: any Player with a currently applicable instruction allowing them to look at the cards may physically reveal them.
-
-For the purpose of physically revealing cards, an instruction to look at a card is not transferrable to another Player controlling the instructed Player.
-The choice of physically revealing hidden information belongs to the Player as described above, which means that Player-controlling effects, won't allow the controller to force the controlled Player to physically reveal hidden information.
-
-_Example: Alice resolves a Gitaxian Probe, targeting Bob. Alice may look at Bob’s hand but may not reveal or force Bob to reveal their hand to the remaining Players. In this example, Alice is being temporarily shared information about Bob’s hand, and as such she cannot transform the permission granted to her by the Look effect into a Reveal effect. Bob however may choose to reveal their hand at any point._
-
-_Example: Alice resolves a Praetor’s Grasp targeting Bob. Alice may not reveal cards from Bob’s library while resolving the Praetor’s Grasp, neither may Bob. Alice may reveal the chosen card that she exiled face-down. In this example, Bob doesn't know the identity of the cards in their library, and Alice is not the owner of the cards. Also, Alice gained a permission to search Bob's library, not to reveal it, therefore she will be able to only physically reveal the face down exiled card after she chooses one._
-
-_Example: Alice controls an Opposition Agent and is currently controlling Bob while Bob is searching their library. Although Alice can freely talk about cards in Bob's library with the remaining Players, Alice cannot physically reveal the cards in Bob’s library to them. In this example, Alice is controlling Bob. However, controlling the Player doesn’t grant Alice the right to make out-of-Game choices or decisions. The choice to reveal hidden information at any time is granted by MTR 3.13, and as such is not an in-Game choice or decision._
-
-_Example: Alice owns a Bane Alley Broker. She activated its ability exiling a Dark Ritual. At some point Bob gains control or Bane Alley Broker and also activates it exiling a Counterspell. Alice can still look at the Dark Ritual but she can no longer reveal it. Bob can also look at Alice's Dark Ritual and he can reveal it. If Charlie now gains control of Bane Alley Broker, both Alice, Bob and Charlie will be able to look at Dark Ritual and Counterspell, but now, only Charlie can physically reveal them._
-
-_Example: Bob is controlling Alice during her turn, due to resolving the activated ability of a Mindslaver. Alice draws an Ad Nauseam for the turn, then Alice casts and resolves Praetor's Grasp targetting Charlie, exiling a Lion's Eye Diamond. Bob has access to all of this hidden information, but Alice still has the choice of physically revealing cards from her hand, and neither Alice or Bob can physically reveal cards from Charlie's library. Alice will also be the one with the choice to physically reveal the Lion's Eye Diamond, not Bob._
-
-_Example: In a situation where Alice resolved Gather Specimens, Bob controls Lens of Clarity and Charlie is resolving a Reality Shift on a creature controlled by David, both Bob and Alice will gain information about the identity of the Manifested card from David entering the battlefield under Alice's control. However this was an object that is owned by David, created by an effect from Charlie, but neither of them have the right to look at. In this situation, Alice is the one deciding if she wants to physically reveal the hidden information regarding the manifested card._
-
 ## 3.17 Supplementary Decks
 
 **Policy Additions** This section was removed in May 13th 2024, and we are bringing it back since some Multiplayer Formats, such as Commander, might make use of Supplementary Decks.
@@ -578,8 +533,6 @@ Free information consists of:
 
 * ... _(existing items)_
 * The number of times a Commander has been cast from the command zone.
-
-In Multiplayer Tournaments, in order to prevent Collusion (see section [5.4. Unsporting Conduct](#54-unsporting-conduct)), Players cannot secretly exchange information with each other. 
 
 ## 4.2. Tournament Shortcuts
 
@@ -821,6 +774,8 @@ When proposing intentional draws, Players can discuss the terms and reveal hands
 
 Collusion typically occurs when a Player intentionally takes an action that is detrimental to themselves in order to benefit an Opponent.
 It's not Collusion if the action is a result of a unintentional strategical error.
+Although players can share hidden information freely with one another, such act can be considered when investigating for Collusion.
+It is not considered Collusion if a player takes an action that is detrimental (to themselves) in the context of the game but beneficial in the broad context of the tournament.
 
 **Collusion Examples**:
 
