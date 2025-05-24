@@ -775,12 +775,14 @@ When proposing intentional draws, Players can discuss the terms and reveal hands
 Collusion typically occurs when a Player intentionally takes an action that is detrimental to themselves in order to benefit an Opponent.
 It's not Collusion if the action is a result of a unintentional strategical error.
 Although players can share hidden information freely with one another, such act can be considered when investigating for Collusion.
-It is not considered Collusion if a player takes an action that is detrimental (to themselves) in the context of the game but beneficial in the broad context of the tournament.
+It is not considered Collusion if a player takes an action that is detrimental (to themselves) in the context of the Game but beneficial in terms of achieving the best possible final standing at the end of the Tournament.
 
 **Collusion Examples**:
 
 - _Alice is presenting a win, Bob has an answer and uses it. Charlie uses their answer to stop Bob's, in order to ensure Alice wins the Match. The Judge's investigation determines that Charlie is friends with Alice and wants Alice to move to the single eliminatin portion of the Tournament, and that's why they used their answer. Charlie is Colluding with Alice and vice-versa._
 - _Alice is presenting a win, Daniel has an answer and uses it. Charlie uses their answer to stop Daniel's, in order to ensure Alice wins the Match. The Judge's investigation determines that Charlie is friends with Bob and wants Alice to be penalized by collusion in order to give Bob the chance to try and win against Daniel, and that's why they used their answer. Charlie is Colluding with Bob and vice-versa._
+- _Alice is presenting a win, Bob plays an instant that attempts to win on top of Alice. Charlie responds with an instant to deny Bob's win attempt. Since Alice winning is the best outcome for Charlie in terms of Tournament advancement (Alice winning would not grant them enough points to surpass Charlie) allowing Charlie to retain a higher standing and advance with that higher standing than they would if Bob would win and surpass Charlie._
+- _In the finals of the event which grants a qualification to a future invite-only event, Charlie is currently 3rd in the tournament standings, and both Alice and Bob have already qualified for the future event. It is considered Collusion if Charlie plays in order to grant the win to either Alice or Bob, as that creates an unfair competition situation with Daniel, which is currently 4th in the standings, while having Charlie play towards a goal of not achieving the best possible final standing in the event._
 - _Alice is presenting a win, Bob has a win on their next turn and Charlie has an answer to stop Alice and allow Bob to win the Game. In this situation Charlie could conceivably be colluding with Alice or Bob by either not performing an action or by performing an action. However it is also possible that no Collusion is happening. It will be up to the Judge's investigation to determine if there is Collusion or not._
 
 **Spite Play**: _Performing a detrimental action with the sole purpose of penalizing an Opponent out of Spite._
