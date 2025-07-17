@@ -340,9 +340,9 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **2.5C** In Multiplayer Tournaments, when **Intentionally Drawing a Game** during a **Single Elimination** or otherwise untimed Round, there may be some restrictions in place to prevent the repetition of this process from extending the Tournament indefinitely. Check [Appendix B - Time Limits](#appendix-b--time-limits) for the recommended restrictions.
 
-2.5D In Multiplayer Tournaments, it is encouraged for Players that wish to concede a Game, to do so at any time they could play a sorcery.
+**2.5D** In Multiplayer Tournaments, it is encouraged for Players that wish to concede a Game, to do so at any time they could play a sorcery.
 
-2.5E In Multiplayer Tournaments, Players may not concede in order to directly affect the Game being played after they leave, or in order to affect the Tournament outcome for themselves or their Opponents. The Head Judge will evaluate the if it can be considered Collusion or Spite Play (see [section 5.4. Unsporting Conduct](#54-unsporting-conduct)). Knowingly breaking this rule to gain an advantage is Unsporting Conduct - Cheating.
+**2.5E** In Multiplayer Tournaments, Players may not concede in order to directly affect the Game being played after they leave, or in order to affect the Tournament outcome for themselves or their Opponents. The Head Judge will evaluate the if it can be considered Collusion or Spite Play (see [section 5.4. Unsporting Conduct](#54-unsporting-conduct)). Knowingly breaking this rule to gain an advantage is Unsporting Conduct - Cheating.
 
 # 3. Tournament Rules
 
