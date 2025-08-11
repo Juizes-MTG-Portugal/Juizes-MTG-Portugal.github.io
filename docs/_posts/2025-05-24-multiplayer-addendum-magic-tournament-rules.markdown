@@ -857,8 +857,6 @@ Instead, for the Swiss portion of the Tournament, seating order (and thus turn o
 
 For the single elimination portion of the Tournament, the seating and play order is defined by the standings from the Swiss portion of the Tournament, in accordance with rule 2.2A Play/Draw Rule. Both the seating and the play order don't change in the event of multiple Games being played in the same Match.
 
-***.3B.** If the Tournament Match structure includes multiple Games per Match, it is recommended that the seating order is randomized between Games, as well as the starting Player, because otherwise all the Players would continue playing with the same priority order as before.
-
 ## *.4. Pregame Procedure
 
 ***.4A.** Before drawing opening hands, Players will reveal their Companion (if any) and then their Commander as per Comprehensive Rules 103.2c. All other pregame procedures are performed as normal.
