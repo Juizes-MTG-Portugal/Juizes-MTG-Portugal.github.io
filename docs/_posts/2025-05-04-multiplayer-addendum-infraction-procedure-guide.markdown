@@ -593,7 +593,9 @@ a Warning.
 
 **Policy Additions**
 
-**3.1A. Penalty** In Multiplayer Tournaments, **no Game Loss** is awarded for Tardiness. Instead, players who arrive late and would normally receive a Game Loss **skip their first turn**. For more information on skipping turns, refer to Comprehensive Rules 500.10. There is still the path for upgrade to Match Loss after 10 minutes, and the path for downgrade to Warning before 1 minute.
+**3.1A. Penalty** In Multiplayer Tournaments, **no Game Loss** is awarded for Tardiness. Players who would normally receive a Game Loss for Tardiness, instead **skip their first turn**. For more information on skipping turns, refer to Comprehensive Rules 500.10. 
+
+There is still the path for upgrade to **Match Loss after 10 minutes**, and the path for downgrade to **Warning before 1 minute**.
 
 ## 3.2. Tournament Error — Outside Assistance
 
