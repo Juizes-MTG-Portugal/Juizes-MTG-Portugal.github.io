@@ -714,6 +714,9 @@ still applies.
 **Policy Additions**
 
 **3.3A. Additional Remedy** In Multiplayer Tournaments, no **additional extra turns** are added as a remedy for slow play.
+Instead, Players that commit a Slow Play infraction during a Match are inhibited from providing strategical advice to their opponents and also inhibited from asking for strategical advice from their opponents. 
+They can still ask and answer questions regarding the game state.
+Failure to comply with the additional remedy will result in a subsequent Slow Play penalty which will upgrade to a Game Loss.
 
 ## 3.5. Tournament Error — Deck Problem
 

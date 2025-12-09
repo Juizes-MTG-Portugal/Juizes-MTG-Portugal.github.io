@@ -225,9 +225,13 @@ In the case of a tie, the Match is a Draw between the Players that participated 
 
 **Policy Additions**
 
-**2.2A** In Multiplayer Tournaments, both the seating order and first Player are defined with a random method. There is no “winner of a random-method” as in Head-to-Head Tournaments and therefore no choice to be made in swiss Rounds. In single elimination, the Player with the highest standing from the swiss portion of the Tournament will go first, followed by the Player with the next highest, until all player’s order is decided.
+**2.2A** In Multiplayer Tournaments, both the seating order and first Player are defined with a random method. There is no “winner of a random-method” as in Head-to-Head Tournaments and therefore no choice to be made in swiss Rounds. 
 
-**2.2B** For Multiplayer Tournaments where the number of Game wins required to win a Match is  greater than one, the seating order remains the same across all Games, but the starting Player is decided using a random method for each Game after the first.
+**2.2B** In the Single Elimination portion of Multiplayer Tournaments, the Player with the highest standing from the swiss portion of the Tournament will go first, followed by the Player with the next highest, until all player’s order is decided. However, if a player advanced in the Single Elimination portion with a Match Draw, their player order will be pushed to the end of the queue, where their Swiss standing will be used as a tiebreaker among other players that also advanced with a Draw.
+
+_Example: Alice was ranked first in the Swiss portion, and in their top 16 Match, they drew and advanced to the Finals. Bob was ranked second in the Swiss and won their match in top 16. Charlie was ranked third in the Swiss and won their match in the top 16. Daniel was ranked fourth and drew their top 16 Match. The seating and starting player order in the finals will be: Bob, Charlie, Alice, Daniel.
+
+**2.2C** For Multiplayer Tournaments where the number of Game wins required to win a Match is  greater than one, the seating order remains the same across all Games, but the starting Player is decided using a random method for each Game after the first.
 
 ## 2.3. Pregame Procedure
 
@@ -300,17 +304,19 @@ In the case of a tie, the Match is a Draw between the Players that participated 
 
 **Policy Additions**
 
-**2.4A.** In Multiplayer Tournaments, don't use extra turns at the End of Round. Instead, the active Player finishes their turn and if no winner is declared by then, the Match ends in a Draw.
+**2.4A.** In Multiplayer Tournaments, don't use additional turns at the End of Round. Instead, the Active Player finishes their turn and if no winner is declared by then, the Match ends in a Draw. However, extra turn effects can still resolve and grant extra turns that can be played. Loops and Shortcuts involving extra turns can also be executed.
 
 _Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer Match. Alice is the active Player when time in the Round was called. Alice finishes playing her turn._
 
-**2.4B.** In Multiplayer Tournaments, even without the extra turns, it is possible that the last turn takes up too much time if Players are debating strategic decisions as a group.
+_Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer Match. Alice is the active Player when time in the Round was called. Bob resolve a Final Fortune. Bob will play the extra turn._
 
-In order to enforce a fast pace during the last turn, a **last turn time limit** is applied. If the **last turn time limit** is reached before a winner is determined, the Match immediately ends with the current Game as a Draw.
+**2.4B.** In Multiplayer Tournaments, even without the additional turns, it is possible that the last turn takes up too much time if Players are debating strategic decisions as a group.
+
+In order to enforce a fast pace during the last turn, a **last turn time limit** is applied. If the **last turn time limit** is reached before a winner is determined, the Match immediately ends with the current Game as a Draw. Thus said, the players still have agency to concede and determine a Winner at this point, as long as they don't do it improperly (see Improperly Determining a Winner in the Infraction Procedure Guide).
 
 _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. Time in the Round has been called. Cam is the active Player when the last turn time limit is reached. Since no winner has been declared, the Match with the current Game as a Draw._
 
-**2.4C.** In Multiplayer Tournaments, in the case a Single Elimination Match results in a Draw, the Player with the highest Standing from the Swiss Portion of the event should be considered the Winner.
+**2.4C.** In Multiplayer Tournaments, in the case a Single Elimination Match results in a Draw, the Player with the highest Standing from the Swiss Portion of the event should be considered the Winner. In the case where a player advances to the next stage of Single Elimination due to a Match Draw, their seating in the next rounds will be affected, no longer depending only on the standings from the Swiss portion of the event.
 
 **2.4D.** Check [Appendix B - Time Limits](#appendix-b--time-limits) for the recommended time limits in Multiplayer Tournaments.
 
@@ -1156,16 +1162,16 @@ In the semi finals, the seeds of the winners from the quarterfinals are taken in
 
 The following time limits are recommended for each Round of a Multiplayer Tournament:
 
-* For Swiss Rounds - 80 minutes + no extra turns time limit
+* For Swiss Rounds - 75 minutes without no additional turns, with a time limit.
 * For Single Elimination Matches - no time limit (_with exceptions_)
 
-It is recommended to apply a hard **30 minute last turn time limit** in order to handle a very long last turn after the regular Round time is over, in order to prevent severe delays to the event.
+It is recommended to apply a hard **15 minute time limit** in order to handle potentially long last turns after the regular Round time is over, in order to prevent severe delays to the event.
   
 In the situation where Players **Intentionally Draw a Game in a Single Elimination Match**, it is recommended to apply the following restrictions:
   
 * A 150 minutes timer that starts counting since the beginning of the Round comes into effect after the first Intentional Draw.
 * After 150 minutes, pods that had one or more Intentional Draws are only allowed to continue playing as long as there other Pods still playing, that haven't Intentionally Draw and thus aren't subjected to the 150 minutes limit.
-* After 150 minutes, if there are no other pods still playing, that haven't Intentionally Draw, the Match follows the [standard End-of-Round procedure](#24-end-of-Match-procedure) for the Tournament.
+* After 150 minutes, if there are no other pods still playing, that haven't Intentionally Draw, the Match follows the [standard End-of-Round procedure](#24-end-of-Match-procedure) for the Tournament, which includes the 15 minutes time limit.
 * It is recommended that the Finals do not impose any time limit, even after Intentional Draws.
 
 _**Example**:_
