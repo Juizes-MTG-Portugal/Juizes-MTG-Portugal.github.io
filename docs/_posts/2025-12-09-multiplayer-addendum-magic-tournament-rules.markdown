@@ -229,7 +229,7 @@ In the case of a tie, the Match is a Draw between the Players that participated 
 
 **2.2B** In the Single Elimination portion of Multiplayer Tournaments, the Player with the highest standing from the swiss portion of the Tournament will go first, followed by the Player with the next highest, until all player’s order is decided. However, if a player advanced in the Single Elimination portion with a Match Draw, their player order will be pushed to the end of the queue, where their Swiss standing will be used as a tiebreaker among other players that also advanced with a Draw.
 
-_Example: Alice was ranked first in the Swiss portion, and in their top 16 Match, they drew and advanced to the Finals. Bob was ranked second in the Swiss and won their match in top 16. Charlie was ranked third in the Swiss and won their match in the top 16. Daniel was ranked fourth and drew their top 16 Match. The seating and starting player order in the finals will be: Bob, Charlie, Alice, Daniel.
+_Example: Alice was ranked first in the Swiss portion, and in their top 16 Match, they drew and advanced to the Finals. Bob was ranked second in the Swiss and won their match in top 16. Charlie was ranked third in the Swiss and won their match in the top 16. Daniel was ranked fourth and drew their top 16 Match. The seating and starting player order in the finals will be: Bob, Charlie, Alice, Daniel._
 
 **2.2C** For Multiplayer Tournaments where the number of Game wins required to win a Match is  greater than one, the seating order remains the same across all Games, but the starting Player is decided using a random method for each Game after the first.
 
@@ -1162,7 +1162,7 @@ In the semi finals, the seeds of the winners from the quarterfinals are taken in
 
 The following time limits are recommended for each Round of a Multiplayer Tournament:
 
-* For Swiss Rounds - 75 minutes without no additional turns, with a time limit.
+* For Swiss Rounds - 75 minutes without additional turns, and with a time limit.
 * For Single Elimination Matches - no time limit (_with exceptions_)
 
 It is recommended to apply a hard **15 minute time limit** in order to handle potentially long last turns after the regular Round time is over, in order to prevent severe delays to the event.
