@@ -27,9 +27,9 @@ At the time of original publishing, this document has been published solely in E
 
 This document is updated periodically. Please obtain the most current version [here](https://juizes-mtg-portugal.github.io/).
 
-# 1. Tournament Fundamentals
+# 1 Tournament Fundamentals
 
-## 1.1. Tournament Types
+## 1.1 Tournament Types
 
 <details markdown="0">
   <summary><strong>Original policy</strong></summary>
@@ -126,7 +126,7 @@ A Two-Headed Giant team is treated as a single Player when determining the Tourn
 
 **Policy Additions**
 
-**1.10A.** For Multiplayer Tournaments, if a Player loses a Game during a Match, they are expected to act as Spectators for the remainder of the ongoing Game.
+**1.10A** For Multiplayer Tournaments, if a Player loses a Game during a Match, they are expected to act as Spectators for the remainder of the ongoing Game.
 
 _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer Match. Bob loses the Game to combat damage, but doesn’t leave the table and keeps spectating the Game. From this point, until the end of the Game, Bob is forbidden from participating in any political or strategic discussions, since at this point it would be advantageous for Bob if the Game ended up in a Draw._
 
@@ -181,11 +181,11 @@ _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer Mat
 
 **Policy Additions**
 
-**1.12A.** For Multiplayer Tournaments, there are differences on how to handle infractions when compared to Head-to-Head Tournaments. Those differences are covered by the Multiplayer Addendum to the Infraction Procedure Guide, located at [https://juizes-mtg-portugal.github.io/](https://juizes-mtg-portugal.github.io/)
+**1.12A** For Multiplayer Tournaments, there are differences on how to handle infractions when compared to Head-to-Head Tournaments. Those differences are covered by the Multiplayer Addendum to the Infraction Procedure Guide, located at [https://juizes-mtg-portugal.github.io/](https://juizes-mtg-portugal.github.io/)
 
-# 2. Tournament Mechanics
+# 2 Tournament Mechanics
 
-## 2.1. Match Structure
+## 2.1 Match Structure
 
 <details markdown="0">
   <summary><strong>Original policy</strong></summary>
@@ -202,13 +202,13 @@ _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer Mat
 
 **Policy Additions**
 
-**2.1A.** In Multiplayer Tournaments, the usual number of Games required to win a Match is one. If a Game ends in a Draw, a new Game is started including every Player in the Pod.
+**2.1A** In Multiplayer Tournaments, the usual number of Games required to win a Match is one. If a Game ends in a Draw, a new Game is started including every Player in the Pod.
 
 The winner of a Match is the Player that won the required number of Games, or the Player that has won the most Games.
 
 In the case of a tie, the Match is a Draw between the Players that participated in that Match, with the exception of Players that received Match Loss penalties or Players that conceded the Match.
 
-## 2.2. Play/Draw Rule
+## 2.2 Play/Draw Rule
 
 <details markdown="0">
   <summary><strong>Original policy</strong></summary>
@@ -233,7 +233,7 @@ _Example: Alice was ranked first in the Swiss portion, and in their top 16 Match
 
 **2.2C** For Multiplayer Tournaments where the number of Game wins required to win a Match is  greater than one, the seating order remains the same across all Games, but the starting Player is decided using a random method for each Game after the first.
 
-## 2.3. Pregame Procedure
+## 2.3 Pregame Procedure
 
 <details markdown="0">
   <summary><strong>Original policy</strong></summary>
@@ -273,11 +273,11 @@ _Example: Alice was ranked first in the Swiss portion, and in their top 16 Match
 
 **Policy Additions**
 
-**2.3A.** Some Multiplayer Tournaments and Formats might introduce changes to the sequence of pregame procedures. Refer to the mode or format specific rules in the Comprehensive Rules.
+**2.3A** Some Multiplayer Tournaments and Formats might introduce changes to the sequence of pregame procedures. Refer to the mode or format specific rules in the Comprehensive Rules.
 
-**2.3B.** In Multiplayer Tournaments, if a Player makes a mulligan decision (to take or not to take) before it is their turn to do so, they must adhere to that decision.
+**2.3B** In Multiplayer Tournaments, if a Player makes a mulligan decision (to take or not to take) before it is their turn to do so, they must adhere to that decision.
 
-## 2.4. End of Match Procedure
+## 2.4 End of Match Procedure
 
 <details markdown="0">
   <summary><strong>Original policy</strong></summary>
@@ -306,23 +306,23 @@ _Example: Alice was ranked first in the Swiss portion, and in their top 16 Match
 
 **Policy Additions**
 
-**2.4A.** In Multiplayer Tournaments, don't use additional turns at the End of Round. Instead, the Active Player finishes their turn and if no winner is declared by then, the Match ends in a Draw. However, extra turn effects can still resolve and grant extra turns that can be played. Loops and Shortcuts involving extra turns can also be executed.
+**2.4A** In Multiplayer Tournaments, don't use additional turns at the End of Round. Instead, the Active Player finishes their turn and if no winner is declared by then, the Match ends in a Draw. However, extra turn effects can still resolve and grant extra turns that can be played. Loops and Shortcuts involving extra turns can also be executed.
 
 _Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer Match. Alice is the active Player when time in the Round was called. Alice finishes playing her turn._
 
 _Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer Match. Alice is the active Player when time in the Round was called. Bob resolve a Final Fortune. Bob will play the extra turn._
 
-**2.4B.** In Multiplayer Tournaments, even without the additional turns, it is possible that the last turn takes up too much time if Players are debating strategic decisions as a group.
+**2.4B** In Multiplayer Tournaments, even without the additional turns, it is possible that the last turn takes up too much time if Players are debating strategic decisions as a group.
 
 In order to enforce a fast pace during the last turn, a **last turn time limit** is applied. If the **last turn time limit** is reached before a winner is determined, the Match immediately ends with the current Game as a Draw. Thus said, the players still have agency to concede and determine a Winner at this point, as long as they don't do it improperly (see Improperly Determining a Winner in the Infraction Procedure Guide).
 
 _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. Time in the Round has been called. Cam is the active Player when the last turn time limit is reached. Since no winner has been declared, the Match with the current Game as a Draw._
 
-**2.4C.** In Multiplayer Tournaments, in the case a Single Elimination Match results in a Draw, the Player with the highest Standing from the Swiss Portion of the event should be considered the Winner. In the case where a player advances to the next stage of Single Elimination due to a Match Draw, their seating in the next rounds will be affected, no longer depending only on the standings from the Swiss portion of the event.
+**2.4C** In Multiplayer Tournaments, in the case a Single Elimination Match results in a Draw, the Player with the highest Standing from the Swiss Portion of the event should be considered the Winner. In the case where a player advances to the next stage of Single Elimination due to a Match Draw, their seating in the next rounds will be affected, no longer depending only on the standings from the Swiss portion of the event.
 
-**2.4D.** Check [Appendix B - Time Limits](#appendix-b--time-limits) for the recommended time limits in Multiplayer Tournaments.
+**2.4D** Check [Appendix B - Time Limits](#appendix-b--time-limits) for the recommended time limits in Multiplayer Tournaments.
 
-## 2.5. Conceding or Intentionally Drawing Games or Matches
+## 2.5 Conceding or Intentionally Drawing Games or Matches
 
 <details markdown="0">
   <summary><strong>Original policy</strong></summary>
@@ -342,7 +342,7 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **Policy Additions**
 
-**2.5A.** In Multiplayer Tournaments, the decision to **Intentionally Draw a Game** must be unanimous among the **Players that are still playing the Game**. This means that **Players that lost the current Game don't have a say in this decision**.
+**2.5A** In Multiplayer Tournaments, the decision to **Intentionally Draw a Game** must be unanimous among the **Players that are still playing the Game**. This means that **Players that lost the current Game don't have a say in this decision**.
 
 **2.5B** In Multiplayer Tournaments, the decision to **Intentionally Draw a Match** must be unanimous among the **Players that are still playing the Match**. This means that **Players that lost the current Game** in the current Match, still **have a say in this decision**. In the situation where a Player left the play area and a new Game is about to start, that Player will be subject to potential tardiness penalties.
 
@@ -352,9 +352,9 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **2.5E** In Multiplayer Tournaments, Players may not concede in order to directly affect the Game being played after they leave, or in order to affect the Tournament outcome for themselves or their Opponents. The Head Judge will evaluate the if it can be considered Collusion or Spite Play (see [section 5.4. Unsporting Conduct](#54-unsporting-conduct)). Knowingly breaking this rule to gain an advantage is Unsporting Conduct - Cheating.
 
-# 3. Tournament Rules
+# 3 Tournament Rules
 
-## 3.1. Tiebreakers
+## 3.1 Tiebreakers
 
 <details markdown="0">
   <summary><strong>Original policy</strong></summary>
@@ -385,7 +385,7 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **Policy Additions**
 
-**3.1A.** In Multiplayer Tournaments, the following tie breakers are used to determine how a Player ranks:
+**3.1A** In Multiplayer Tournaments, the following tie breakers are used to determine how a Player ranks:
 
 1. Match points
 2. Match Win percentage
@@ -416,9 +416,9 @@ Official sticker sheets are not required, provided that the Player makes it clea
 
 All stickers are returned to their respective sheets between Games.
 
-# 4. Communication
+# 4 Communication
 
-## 4.1. Player Communication
+## 4.1 Player Communication
 
 <details markdown="0">
   <summary><strong>Original policy</strong></summary>
@@ -542,7 +542,7 @@ Free information consists of:
 * ... _(existing items)_
 * The number of times a Commander has been cast from the command zone.
 
-## 4.2. Tournament Shortcuts
+## 4.2 Tournament Shortcuts
 
 <details markdown="0">
   <summary><strong>Original policy</strong></summary>
@@ -623,9 +623,9 @@ _The Head-to-Head fix would allow Charles to have priority at this point, but Ch
 
 _With this fix, we allow Alice to have priority back in their second main phase, after they played the land for the turn._
 
-**4.2D** In Multiplayer Tournaments, if a Player directly or indirectly (through a shortcut) announces ahead of time a decision that they would only have to make once they have priority, the player must adhere to that decision when they eventually receive priority, unless any Player before them in turn order makes a decision other than passing priority.
+**4.2D** In Multiplayer Tournaments, if a Player directly or indirectly (through a shortcut) announces ahead of time a that they would pass priority, the player must adhere to that decision when they eventually receive priority, unless any Player before them in turn order makes a decision other than passing priority.
 
-## 4.4. Loops
+## 4.4 Loops
 
 <details markdown="0">
   <summary><strong>Original policy</strong></summary>
@@ -671,7 +671,7 @@ Then, the first Player that proposed the earliest point in the loop is considere
 
 This process follows the same rules specified in MAMTR 4.2A.
 
-## 4.8. Reversing Decisions
+## 4.8 Reversing Decisions
 
 <details markdown="0">
   <summary><strong>Original policy</strong></summary>
@@ -725,9 +725,9 @@ This rule aims to clarify situations where temporary in-game alliances or deals 
 - _Alice sacrifices her Scalding Tarn saying: "I'm going to crack the fetch for Volcanic Island." immediately followed by: "Oh no wait, there is an Opposition Agent in play! Sorry!", without any opponent's intervention. Alice **could be allowed** to take back her decision._
 - _At the end of Alice's turn, Bruno casts a Vampiric Tutor, and Alice immediately says: "Wait, Carlos has an Opposition Agent in play!". Bruno says: "Oh! No, I changed my mind!". Bruno should **not** be allowed to take back his decision._
   
-# 5. Tournament Violations
+# 5 Tournament Violations
 
-## 5.4. Unsporting Conduct
+## 5.4 Unsporting Conduct
 
 <details markdown="0">
   <summary><strong>Original policy</strong></summary>
@@ -814,9 +814,9 @@ The problem with this situation is that if Player B was actually doing as Spite 
 
 - _By asking the Player if they are aware of the Spite play rules in the open, without seeing their hand, they are simply reiterating what the Player already signaled by casting the Pact of Negation in the first place, minimizing the information leak._
 
-# 6. Constructed Tournament Rules
+# 6 Constructed Tournament Rules
 
-## 6.1. Deck Construction Restrictions 
+## 6.1 Deck Construction Restrictions 
 
 <details markdown="0">
   <summary><strong>Original policy</strong></summary>
@@ -833,9 +833,9 @@ The problem with this situation is that if Player B was actually doing as Spite 
 
 **Policy Additions**
 
-**6.1A.** Some formats have different deck construction restrictions defined in the Comprehensive Rules beginning in section 900.
+**6.1A** Some formats have different deck construction restrictions defined in the Comprehensive Rules beginning in section 900.
 
-## 6.*. Commander Format Deck Construction
+## 6.* Commander Format Deck Construction
 
 **This section as whole is an addition from this supplement and should be interpreted as being under the “6. Constructed Tournament Rules” section of the Magic Tournament Rules: After “6.7. Pioneer Format Deck Construction”.**
 
@@ -843,41 +843,41 @@ Commander Format introduces changes to the Deck Construction rules as defined in
 
 Refer to the official banlist available at [Wizard's of the Coast official website](https://magic.wizards.com/en/banned-restricted-list#commander-banned).
 
-# *. Commander Tournament Rules
+# * Commander Tournament Rules
 
 **This section as whole is an addition from this supplement and should be interpreted as being next to the Format-specific sections of the Magic Tournament Rules: After “9. Two-Headed-Giant Tournament Rules” and before “10. Sanctioning Rules”.**
 
-## *.1. Match Structure
+## *.1 Match Structure
 
-***.1A.** In Commander Matches, the required number of Game wins to win a Match is one. As per 2.1, a Match continues until the required number of Game wins is attained by a Player or ends in a Draw.
+***.1A** In Commander Matches, the required number of Game wins to win a Match is one. As per 2.1, a Match continues until the required number of Game wins is attained by a Player or ends in a Draw.
 
-***.1B.** In Commander Matches, Players play against each other in Pods. Each Pod should be composed of four Players. In the case that the number of participants is not divisible by 4, it is recommended that the minimum possible number of Pods with three Players be used in order to not have any Byes. 
+***.1B** In Commander Matches, Players play against each other in Pods. Each Pod should be composed of four Players. In the case that the number of participants is not divisible by 4, it is recommended that the minimum possible number of Pods with three Players be used in order to not have any Byes. 
 
-***.1C.** In Commander Matches, the use of Sideboard cards is not allowed, with the exception of a single companion.
+***.1C** In Commander Matches, the use of Sideboard cards is not allowed, with the exception of a single companion.
 
-## *.2. Communication Rules
+## *.2 Communication Rules
 
-***.2A.** Commander Damage is considered Status Information and therefore subject to the rules defined in section 4.1 Player Communication.
+***.2A** Commander Damage is considered Status Information and therefore subject to the rules defined in section 4.1 Player Communication.
 
-## *.3. Play/Draw Rule
+## *.3 Play/Draw Rule
 
-***.3A.** Due to Commander being typically played in Best-of-One Matches, the way the turn cycles are organized in the Pod, and the fact that the first Player also draws, the Play-Draw Rule is ignored.
+***.3A** Due to Commander being typically played in Best-of-One Matches, the way the turn cycles are organized in the Pod, and the fact that the first Player also draws, the Play-Draw Rule is ignored.
 
 Instead, for the Swiss portion of the Tournament, seating order (and thus turn order) will be established by a random method decided by the Tournament Organizer. The turn order cannot be altered except by in-Game effects. In the event of more than one Game being played in a Match (perhaps because of a Draw), the Players remain in the same seats but the starting Player must be picked randomly.
 
 For the single elimination portion of the Tournament, the seating and play order is defined by the standings from the Swiss portion of the Tournament, in accordance with rule 2.2A Play/Draw Rule. Both the seating and the play order don't change in the event of multiple Games being played in the same Match.
 
-## *.4. Pregame Procedure
+## *.4 Pregame Procedure
 
-***.4A.** Before drawing opening hands, Players will reveal their Companion (if any) and then their Commander as per Comprehensive Rules 103.2c. All other pregame procedures are performed as normal.
+***.4A** Before drawing opening hands, Players will reveal their Companion (if any) and then their Commander as per Comprehensive Rules 103.2c. All other pregame procedures are performed as normal.
 
 In Competitive Rules Enforcement Level, the Commander must be clearly identified in the decklist.
 
-## *.5. Time Extensions
+## *.5 Time Extensions
 
 ***.5A** Because Commander decks are 100-card singleton lists, after a Deck Check is performed Tournament staff should award extra time to the affected Match totaling the time spent on the deck check, plus four (4) extra minutes to account for the additional shuffling time needed.
 
-## *.6. Commander Booster Draft
+## *.6 Commander Booster Draft
 
 ***.6A** Refer to the Comprehensive Rules (section 903.13. Commander Draft) for instructions on how Commander Booster Draft works.
 
@@ -885,7 +885,7 @@ In Competitive Rules Enforcement Level, the Commander must be clearly identified
 
 ***.7A** Due to the nature of Commander gameplay, it is strongly recommended that single-elimination Rounds be run with no time limit. Any deviation from this recommendation must be communicated to the Players before Tournament begins and any tiebreaker method should be based solely on information pertaining to the current Match.
 
-# 10. Sanctioning Rules
+# 10 Sanctioning Rules
 
 ## 10.1 Participation Minimums
 
@@ -915,9 +915,9 @@ In Competitive Rules Enforcement Level, the Commander must be clearly identified
 
 **Policy Additions**
 
-**10.1A.** For Multiplayer Tournaments at Regular Rules Enforcement Level, a minimum of four (4) Players must participate.
+**10.1A** For Multiplayer Tournaments at Regular Rules Enforcement Level, a minimum of four (4) Players must participate.
 
-**10.1B.** For Multiplayer Tournaments at Competitive Rules Enforcement Level, a minimum of sixteen (16) Players must participate.
+**10.1B** For Multiplayer Tournaments at Competitive Rules Enforcement Level, a minimum of sixteen (16) Players must participate.
 
 ## 10.2 Number of Rounds
 
@@ -950,9 +950,9 @@ In Competitive Rules Enforcement Level, the Commander must be clearly identified
 
 **Policy Additions**
 
-**10.2A.** For Multiplayer Tournaments at Regular Rules Enforcement Level, a minimum of one (1) Round should be played.
+**10.2A** For Multiplayer Tournaments at Regular Rules Enforcement Level, a minimum of one (1) Round should be played.
 
-**10.2B.** For Multiplayer Tournaments at Competitive Rules Enforcement Level, a minimum of two (2) Rounds should be played.
+**10.2B** For Multiplayer Tournaments at Competitive Rules Enforcement Level, a minimum of two (2) Rounds should be played.
 
 ## 10.4 Pairing Algorithm
 
@@ -1008,7 +1008,7 @@ In Competitive Rules Enforcement Level, the Commander must be clearly identified
 </details>
 <p></p>
 
-**10.4A.** For Multiplayer Tournaments, it is recommended that Tournament Organizers use a tool that implements the following modified swiss pairing algorithm. There are commercial solutions and also open source solutions [^1] [^2] [^3] [^4] [^5] [^6].
+**10.4A** For Multiplayer Tournaments, it is recommended that Tournament Organizers use a tool that implements the following modified swiss pairing algorithm. There are commercial solutions and also open source solutions [^1] [^2] [^3] [^4] [^5] [^6].
 
 In Multiplayer Tournaments, the modified swiss pairing algorithm is as follows:
 
