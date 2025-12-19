@@ -623,7 +623,7 @@ _The Head-to-Head fix would allow Charles to have priority at this point, but Ch
 
 _With this fix, we allow Alice to have priority back in their second main phase, after they played the land for the turn._
 
-**4.2D** In Multiplayer Tournaments, if a Player directly or indirectly announces ahead of time a decision that they would only have to make once they have priority, the player must adhere to that decision when they eventually receive priority, unless any player before them in turn order makes a decision other than passing priority.
+**4.2D** In Multiplayer Tournaments, if a Player directly or indirectly (through a shortcut) announces ahead of time a decision that they would only have to make once they have priority, the player must adhere to that decision when they eventually receive priority, unless any Player before them in turn order makes a decision other than passing priority.
 
 ## 4.4. Loops
 
