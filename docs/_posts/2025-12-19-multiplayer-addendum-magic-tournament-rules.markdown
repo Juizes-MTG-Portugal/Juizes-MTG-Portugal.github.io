@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiplayer Addendum to the Magic Tournament Rules"
-date: 2025-12-09 1:00:00 +0000
+date: 2025-12-19 1:00:00 +0000
 categories: unofficial documents multiplayer competitive regular
 permalink: multiplayer-addendum-mtr
 ---
@@ -274,6 +274,8 @@ _Example: Alice was ranked first in the Swiss portion, and in their top 16 Match
 **Policy Additions**
 
 **2.3A.** Some Multiplayer Tournaments and Formats might introduce changes to the sequence of pregame procedures. Refer to the mode or format specific rules in the Comprehensive Rules.
+
+**2.4A.** In Multiplayer Tournaments, if a Player makes a mulligan decision (to take or not to take) before it is their turn to do so, they must adhere to that decision.
 
 ## 2.4. End of Match Procedure
 
@@ -620,6 +622,8 @@ _If Daniel were to pass priority here, the turn would end and Bob’s turn would
 _The Head-to-Head fix would allow Charles to have priority at this point, but Charles is fully tapped-out, so they can’t initiate a new Round of priority._
 
 _With this fix, we allow Alice to have priority back in their second main phase, after they played the land for the turn._
+
+**4.2D** In Multiplayer Tournaments, if a Player directly or indirectly announces ahead of time a decision that they would only have to make once they have priority, the player must adhere to that decision when they eventually receive priority, unless any player before them in turn order makes a decision other than passing priority.
 
 ## 4.4. Loops
 
