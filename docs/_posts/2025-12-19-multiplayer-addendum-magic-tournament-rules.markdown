@@ -275,7 +275,7 @@ _Example: Alice was ranked first in the Swiss portion, and in their top 16 Match
 
 **2.3A.** Some Multiplayer Tournaments and Formats might introduce changes to the sequence of pregame procedures. Refer to the mode or format specific rules in the Comprehensive Rules.
 
-**2.4A.** In Multiplayer Tournaments, if a Player makes a mulligan decision (to take or not to take) before it is their turn to do so, they must adhere to that decision.
+**2.3B.** In Multiplayer Tournaments, if a Player makes a mulligan decision (to take or not to take) before it is their turn to do so, they must adhere to that decision.
 
 ## 2.4. End of Match Procedure
 
