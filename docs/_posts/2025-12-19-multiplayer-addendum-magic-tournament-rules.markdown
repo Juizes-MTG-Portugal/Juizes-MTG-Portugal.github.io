@@ -835,7 +835,7 @@ The problem with this situation is that if Player B was actually doing as Spite 
 
 **6.1A** Some formats have different deck construction restrictions defined in the Comprehensive Rules beginning in section 900.
 
-## 6.* Commander Format Deck Construction
+## 6.x Commander Format Deck Construction
 
 **This section as whole is an addition from this supplement and should be interpreted as being under the “6. Constructed Tournament Rules” section of the Magic Tournament Rules: After “6.7. Pioneer Format Deck Construction”.**
 
@@ -843,47 +843,47 @@ Commander Format introduces changes to the Deck Construction rules as defined in
 
 Refer to the official banlist available at [Wizard's of the Coast official website](https://magic.wizards.com/en/banned-restricted-list#commander-banned).
 
-# * Commander Tournament Rules
+# x Commander Tournament Rules
 
 **This section as whole is an addition from this supplement and should be interpreted as being next to the Format-specific sections of the Magic Tournament Rules: After “9. Two-Headed-Giant Tournament Rules” and before “10. Sanctioning Rules”.**
 
-## *.1 Match Structure
+## x.1 Match Structure
 
-***.1A** In Commander Matches, the required number of Game wins to win a Match is one. As per 2.1, a Match continues until the required number of Game wins is attained by a Player or ends in a Draw.
+**x.1A** In Commander Matches, the required number of Game wins to win a Match is one. As per 2.1, a Match continues until the required number of Game wins is attained by a Player or ends in a Draw.
 
-***.1B** In Commander Matches, Players play against each other in Pods. Each Pod should be composed of four Players. In the case that the number of participants is not divisible by 4, it is recommended that the minimum possible number of Pods with three Players be used in order to not have any Byes. 
+**x.1B** In Commander Matches, Players play against each other in Pods. Each Pod should be composed of four Players. In the case that the number of participants is not divisible by 4, it is recommended that the minimum possible number of Pods with three Players be used in order to not have any Byes. 
 
-***.1C** In Commander Matches, the use of Sideboard cards is not allowed, with the exception of a single companion.
+**x.1C** In Commander Matches, the use of Sideboard cards is not allowed, with the exception of a single companion.
 
-## *.2 Communication Rules
+## x.2 Communication Rules
 
-***.2A** Commander Damage is considered Status Information and therefore subject to the rules defined in section 4.1 Player Communication.
+**x.2A** Commander Damage is considered Status Information and therefore subject to the rules defined in section 4.1 Player Communication.
 
-## *.3 Play/Draw Rule
+## x.3 Play/Draw Rule
 
-***.3A** Due to Commander being typically played in Best-of-One Matches, the way the turn cycles are organized in the Pod, and the fact that the first Player also draws, the Play-Draw Rule is ignored.
+**x.3A** Due to Commander being typically played in Best-of-One Matches, the way the turn cycles are organized in the Pod, and the fact that the first Player also draws, the Play-Draw Rule is ignored.
 
 Instead, for the Swiss portion of the Tournament, seating order (and thus turn order) will be established by a random method decided by the Tournament Organizer. The turn order cannot be altered except by in-Game effects. In the event of more than one Game being played in a Match (perhaps because of a Draw), the Players remain in the same seats but the starting Player must be picked randomly.
 
 For the single elimination portion of the Tournament, the seating and play order is defined by the standings from the Swiss portion of the Tournament, in accordance with rule 2.2A Play/Draw Rule. Both the seating and the play order don't change in the event of multiple Games being played in the same Match.
 
-## *.4 Pregame Procedure
+## x.4 Pregame Procedure
 
-***.4A** Before drawing opening hands, Players will reveal their Companion (if any) and then their Commander as per Comprehensive Rules 103.2c. All other pregame procedures are performed as normal.
+**x.4A** Before drawing opening hands, Players will reveal their Companion (if any) and then their Commander as per Comprehensive Rules 103.2c. All other pregame procedures are performed as normal.
 
 In Competitive Rules Enforcement Level, the Commander must be clearly identified in the decklist.
 
-## *.5 Time Extensions
+## x.5 Time Extensions
 
-***.5A** Because Commander decks are 100-card singleton lists, after a Deck Check is performed Tournament staff should award extra time to the affected Match totaling the time spent on the deck check, plus four (4) extra minutes to account for the additional shuffling time needed.
+**x.5A** Because Commander decks are 100-card singleton lists, after a Deck Check is performed Tournament staff should award extra time to the affected Match totaling the time spent on the deck check, plus four (4) extra minutes to account for the additional shuffling time needed.
 
-## *.6 Commander Booster Draft
+## x.6 Commander Booster Draft
 
-***.6A** Refer to the Comprehensive Rules (section 903.13. Commander Draft) for instructions on how Commander Booster Draft works.
+**x.6A** Refer to the Comprehensive Rules (section 903.13. Commander Draft) for instructions on how Commander Booster Draft works.
 
-## *.7 Commander Single Elimination Procedures
+## x.7 Commander Single Elimination Procedures
 
-***.7A** Due to the nature of Commander gameplay, it is strongly recommended that single-elimination Rounds be run with no time limit. Any deviation from this recommendation must be communicated to the Players before Tournament begins and any tiebreaker method should be based solely on information pertaining to the current Match.
+**x.7A** Due to the nature of Commander gameplay, it is strongly recommended that single-elimination Rounds be run with no time limit. Any deviation from this recommendation must be communicated to the Players before Tournament begins and any tiebreaker method should be based solely on information pertaining to the current Match.
 
 # 10 Sanctioning Rules
 
