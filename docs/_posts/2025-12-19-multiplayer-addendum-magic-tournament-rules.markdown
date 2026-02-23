@@ -346,11 +346,13 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **2.5B** In Multiplayer Tournaments, the decision to **Intentionally Draw a Match** must be unanimous among the **Players that are still playing the Match**. This means that **Players that lost the current Game** in the current Match, still **have a say in this decision**. In the situation where a Player left the play area and a new Game is about to start, that Player will be subject to potential tardiness penalties.
 
-**2.5C** In Multiplayer Tournaments, when **Intentionally Drawing a Game** during a **Single Elimination** or otherwise untimed Round, there may be some restrictions in place to prevent the repetition of this process from extending the Tournament indefinitely. Check [Appendix B - Time Limits](#appendix-b--time-limits) for the recommended restrictions.
+**2.5C** In Multiplayer Tournaments, the proposal to Intentionally Draw a Game or Match must be **immediately accepted or rejected** and cannot have any conditions attached to ongoing or future game decisions. This means that Players **cannot include intentional draws as part of deals**.
 
-**2.5D** In Multiplayer Tournaments, it is encouraged for Players that wish to concede a Game, to do so at any time they could play a sorcery.
+**2.5D** In Multiplayer Tournaments, when **Intentionally Drawing a Game** during a **Single Elimination** or otherwise untimed Round, there may be some restrictions in place to prevent the repetition of this process from extending the Tournament indefinitely. Check [Appendix B - Time Limits](#appendix-b--time-limits) for the recommended restrictions.
 
-**2.5E** In Multiplayer Tournaments, Players may not concede in order to directly affect the Game being played after they leave, or in order to affect the Tournament outcome for themselves or their Opponents. The Head Judge will evaluate the if it can be considered Collusion or Spite Play (see [section 5.4. Unsporting Conduct](#54-unsporting-conduct)). Knowingly breaking this rule to gain an advantage is Unsporting Conduct - Cheating.
+**2.5E** In Multiplayer Tournaments, it is encouraged for Players that wish to concede a Game, to do so at any time they could play a sorcery.
+
+**2.5F** In Multiplayer Tournaments, Players may not concede in order to directly affect the Game being played after they leave, or in order to affect the Tournament outcome for themselves or their Opponents. The Head Judge will evaluate the if it can be considered Collusion or Spite Play (see [section 5.4. Unsporting Conduct](#54-unsporting-conduct)). Knowingly breaking this rule to gain an advantage is Unsporting Conduct - Cheating.
 
 # 3 Tournament Rules
 
