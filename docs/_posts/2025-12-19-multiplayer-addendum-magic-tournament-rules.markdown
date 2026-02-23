@@ -346,7 +346,7 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **2.5B** In Multiplayer Tournaments, the decision to **Intentionally Draw a Match** must be unanimous among the **Players that are still playing the Match**. This means that **Players that lost the current Game** in the current Match, still **have a say in this decision**. In the situation where a Player left the play area and a new Game is about to start, that Player will be subject to potential tardiness penalties.
 
-**2.5C** In Multiplayer Tournaments, the decision to **Intentionally Draw a Game or Match** must be **immediately** accepted or rejected and without any conditions attached to ongoing or future game decisions. This means that **Players cannot use intentional draws as part of deals**.
+**2.5C** In Multiplayer Tournaments, the proposal to Intentionally Draw a Game or Match must be **immediately accepted or rejected** and cannot have any conditions attached to ongoing or future game decisions. This means that Players **cannot include intentional draws as part of deals**.
 
 **2.5D** In Multiplayer Tournaments, when **Intentionally Drawing a Game** during a **Single Elimination** or otherwise untimed Round, there may be some restrictions in place to prevent the repetition of this process from extending the Tournament indefinitely. Check [Appendix B - Time Limits](#appendix-b--time-limits) for the recommended restrictions.
 
