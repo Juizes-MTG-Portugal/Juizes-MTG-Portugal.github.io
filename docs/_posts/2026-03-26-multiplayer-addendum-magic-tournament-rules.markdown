@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiplayer Addendum to the Magic Tournament Rules"
-date: 2026-03-26 1:00:00 +0000
+date: 2026-04-26 1:00:00 +0000
 categories: unofficial documents multiplayer competitive regular
 permalink: multiplayer-addendum-mtr
 ---
@@ -410,7 +410,7 @@ Stickers modify cards; they are found on a set of sticker sheets and persist on 
 
 Sticker sheets are identified in deck registration using a combination of the three name stickers on the sheet. Players present their registered sheets of stickers alongside their deck during the pregame procedure and, if necessary, determine the three sheets to be used for that Game at that time.
 
-If a Player has not registered a set of sticker sheets but is instructed to put a sticker onto a permanent they own due to an effect they have gained control of, they may visit https://magic.wizards.com/en/unresources to generate three sticker sheets for use in that Game only. If they do not choose to do so, the part of the ability instructing them to put a sticker onto a permanent is ignored.
+If a Player has not registered a set of sticker sheets or failed to perform the above mentioned pregame procedure but is instructed to put a sticker onto a permanent they own due to an effect they have gained control of, they may visit https://magic.wizards.com/en/unresources to generate three sticker sheets for use in that Game only. If they do not choose to do so, the part of the ability instructing them to put a sticker onto a permanent is ignored.
 
 Official sticker sheets are not required, provided that the Player makes it clear what sheets they are using, which stickers are on those sheets, and represents the stickers in-Game with a method that is clear to both Players. Only the official 48 sticker sheet combinations may be used; Players cannot mix and Match to generate their own sheets.
 
