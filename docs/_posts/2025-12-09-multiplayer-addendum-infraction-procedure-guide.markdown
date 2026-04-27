@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiplayer Addendum to the Infraction Procedure Guide"
-date: 2025-12-09 1:00:00 +0000
+date: 2026-04-27 1:00:00 +0000
 categories: unofficial documents multiplayer competitive
 permalink: multiplayer-addendum-ipg
 ---
@@ -315,7 +315,15 @@ Shuffles performed by a judge as part of a remedy are not considered shuffles fo
 
 **2.1A. Definition** In Multiplayer Tournaments, since there are multiple opponents, for triggered abilities that require its controller to choose targets, **including 'target opponent'**, modes or other choices made when the ability is put onto the stack, the controller must announce those choices before they next pass priority. This is a change from Head-to-Head Tournaments, where the target opponent is obvioulsy defined.
 
-**2.1A. Additional Remedy** In Multiplayer Tournaments, since there are multiple opponents, **the decisions** that would be made by "the opponent" _(when and if the missed trigger is put on the stack / resolves)_, are **instead made by a majority vote** of the opponents. If no majority decision is reached _(perhaps because one opponent was eliminated and there is an even number of opponents)_, the final decision will be made by a randomly chosen opponent.
+**2.1A. Additional Remedy** In Multiplayer Tournaments, since there are multiple opponents, **the decision** that would be made by **"the opponent"** is **instead made by a majority vote** of the opponents. If no majority is reached _(perhaps because one opponent was eliminated and there is an even number of opponents)_, the final decision will be made by a randomly chosen opponent instead.
+
+This applies to:
+
+> If the triggered ability is a delayed triggered ability that undoes a zone change (including token creation) caused by the effect that created the delayed triggered ability, **the opponent** chooses whether to resolve the ability the next time a player would get priority or when a player would get priority at the start of the next phase. The new zone does not need to be the same as the one the card was originally moved from.
+
+and: 
+
+>  If the triggered ability isn’t covered by the previous paragraphs, **the opponent** chooses whether the triggered ability is added to the stack. If it is, it’s inserted at the appropriate place on the stack if possible or on the bottom of the stack. No player may make choices for the triggered ability involving objects that would not have been legal choices when the ability should have triggered. For example, if the ability instructs a player to sacrifice a creature, that player can't sacrifice a creature that wasn't on the battlefield when the ability should have triggered.
 
 **2.1A. Note** In Multiplayer Tournaments, Judges and Players must be on the lookout for situations where the Player that committed the infraction is benefiting from the opponent's decision, which in some corner cases can be a sign of collusion and / or cheating. Keep in mind that given the nuances of multiplayer, sometimes opponents will legitimately choose an option that benefits the Player that committed the infraction.
 
