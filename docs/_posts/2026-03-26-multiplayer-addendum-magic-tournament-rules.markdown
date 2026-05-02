@@ -1187,7 +1187,7 @@ _During a Tournament Semifinals, Pod 1 is playing a 3-hour long grindy Game. Pod
 20-card Multiplayer Booster Drafts, with 2 picks per booster, have the following default time limits for each pick:
 
 | Cards remaining in pack | Time allotted |
-|-----------------------------------------|
+| ----------------------- | ------------- |
 | 20 cards                | 60 seconds    |
 | 18 cards                | 60 seconds    |
 | 16 cards                | 55 seconds    |
