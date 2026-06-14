@@ -859,6 +859,14 @@ Refer to the official banlist available at [Wizard's of the Coast official websi
 
 **x.2A** Commander Damage is considered Status Information and therefore subject to the rules defined in section 4.1 Player Communication.
 
+**x.2B** In Commander Matches, Players must communicate with each other using a common language that everyone can understand. Players are also refrained from secretely communicating with each other. However this doesn't mean players can't reveal hidden information available to them only to specific Players.
+
+**Examples**
+
+- _Alice is about to win the Game. Bob shows a card from their hand to Charlie, while asking for everyone to hear: "Should i use this now?". This is allowed._
+- _Alice is about to win the Game. Alice and Dory don't speak French. Bob and Chris start talking to each other in French to try and decide the best strategy. This is not allowed._
+- _Alice is about to win the Game. Bob whispers Charlie something unintelligible to Alice and Dory. This is not allowed._
+
 ## x.3 Play/Draw Rule
 
 **x.3A** Due to Commander being typically played in Best-of-One Matches, the way the turn cycles are organized in the Pod, and the fact that the first Player also draws, the Play-Draw Rule is ignored.
