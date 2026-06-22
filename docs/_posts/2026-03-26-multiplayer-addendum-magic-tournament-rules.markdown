@@ -853,7 +853,10 @@ Refer to the official banlist available at [Wizard's of the Coast official websi
 
 ## x.1 Match Structure
 
-**x.1A** In Commander Matches, the required number of Game wins to win a Match is one. As per 2.1, a Match continues until the required number of Game wins is attained by a Player or ends in a Draw.
+**x.1A** In Commander Tournaments, the required number of Game wins to win a Match is one (check section 2.1 Match Structure):
+
+- During the Swiss portion of the event, if a Game ends in a Draw, the Match immediately ends in a Draw and no new Games can be played in the Match.
+- During the Single Elimination portion of the Event, a Match continues until the required number of Game wins is attained by a Player or ends in a Draw.
 
 **x.1B** In Commander Matches, Players play against each other in Pods. Each Pod should be composed of four Players. In the case that the number of participants is not divisible by 4, it is recommended that the minimum possible number of Pods with three Players be used in order to not have any Byes. 
 
