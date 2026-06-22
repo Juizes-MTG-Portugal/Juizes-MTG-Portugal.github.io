@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiplayer Addendum to the Magic Tournament Rules"
-date: 2026-04-26 1:00:00 +0000
+date: 2026-06-22 1:00:00 +0000
 categories: unofficial documents multiplayer competitive regular
 permalink: multiplayer-addendum-mtr
 ---
@@ -202,11 +202,15 @@ _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer Mat
 
 **Policy Additions**
 
-**2.1A** In Multiplayer Tournaments, the usual number of Games required to win a Match is one. If a Game ends in a Draw, a new Game is started including every Player in the Pod.
+**2.1A** In Multiplayer Tournaments, the usual number of Games required to win a Match is one.
 
 The winner of a Match is the Player that won the required number of Games, or the Player that has won the most Games.
 
 In the case of a tie, the Match is a Draw between the Players that participated in that Match, with the exception of Players that received Match Loss penalties or Players that conceded the Match.
+
+**2.1B** In Multiplayer Tournaments, during the Swiss portion of the event where the required number of Games to Win a Match is one, if a Game ends in a Draw, the Match immediately ends in a Draw with not more games allowed to be played in the Match.
+
+**2.1C** In Multiplayer Tournaments, during the Single Elimination portion of the event, If a Game ends in a Draw, a new Game is started including every Player in the Pod.
 
 ## 2.2 Play/Draw Rule
 
@@ -316,7 +320,7 @@ _Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer Match. Al
 
 In order to enforce a fast pace during the last turn, a **last turn time limit** is applied. If the **last turn time limit** is reached before a winner is determined, the Match immediately ends with the current Game as a Draw. Thus said, the players still have agency to concede and determine a Winner at this point, as long as they don't do it improperly (see Improperly Determining a Winner in the Infraction Procedure Guide).
 
-_Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. Time in the Round has been called. Cam is the active Player when the last turn time limit is reached. Since no winner has been declared, the Match with the current Game as a Draw._
+_Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. Time in the Round has been called. Cam is the active Player when the last turn time limit is reached. Since no winner has been declared, the Match ends with the current Game as a Draw._
 
 **2.4C** In Multiplayer Tournaments, in the case a Single Elimination Match results in a Draw, the Player with the highest Standing from the Swiss Portion of the event should be considered the Winner. In the case where a player advances to the next stage of Single Elimination due to a Match Draw, their seating in the next rounds will be affected, no longer depending only on the standings from the Swiss portion of the event.
 
@@ -849,7 +853,10 @@ Refer to the official banlist available at [Wizard's of the Coast official websi
 
 ## x.1 Match Structure
 
-**x.1A** In Commander Matches, the required number of Game wins to win a Match is one. As per 2.1, a Match continues until the required number of Game wins is attained by a Player or ends in a Draw.
+**x.1A** In Commander Tournaments, the required number of Game wins to win a Match is one (check section 2.1 Match Structure):
+
+- During the Swiss portion of the event, if a Game ends in a Draw, the Match immediately ends in a Draw and no new Games can be played in the Match.
+- During the Single Elimination portion of the Event, a Match continues until the required number of Game wins is attained by a Player or ends in a Draw.
 
 **x.1B** In Commander Matches, Players play against each other in Pods. Each Pod should be composed of four Players. In the case that the number of participants is not divisible by 4, it is recommended that the minimum possible number of Pods with three Players be used in order to not have any Byes. 
 
