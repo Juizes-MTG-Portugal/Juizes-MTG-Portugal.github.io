@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiplayer Addendum to the Infraction Procedure Guide"
-date: 2026-04-27 1:00:00 +0000
+date: 2026-06-22 1:00:00 +0000
 categories: unofficial documents multiplayer competitive
 permalink: multiplayer-addendum-ipg
 ---
@@ -991,6 +991,49 @@ the offense is repeated at a later time, the penalty is Disqualification and rem
 **4.2E. Upgrade**: In Multiplayer Tournaments, if it is determined that players in Collusion with each other were aware that what they were doing was not permitted, or they acted with malicious intent, the penalty is Disqualification. All players found in Collusion receive this penalty.
 
 **4.2F. Upgrade**: In Multiplayer Tournaments, if it is determined that a player performed a Spite Play while aware it was not permitted, or they acted with malicious intent, the penalty is Disqualification.
+
+## 4.3 Unsporting Conduct - Improperly Determining a Winner
+
+<details markdown="0">
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <strong style="float:right; border: 1px solid black; padding: 0px 15px;">Match Loss</strong>
+    <p>
+      <strong>Definition</strong>
+    </p>
+    <p>
+      A player uses or offers to use a method that is not part of the current game (including actions not legal in the current game) to determine the outcome of a game or match.
+    </p>
+    <p>
+      If the player was aware that what they were doing was against the rules, the infraction is Unsporting Conduct – Cheating
+    </p>
+    <p>
+      <strong>Examples</strong>
+    </p>
+    <ol>
+      <li>As time is called, two players about to draw roll a die to determine the winner.</li>
+      <li>A player offers to flip a coin to determine the winner of a match.</li>
+      <li>Two players arm wrestle to determine the winner of the match.</li>
+      <li>Two players play rock-paper-scissors to decide if they should play the match or draw.</li>
+      <li>Two players compare the converted mana costs of the top cards of their libraries to determine the winner of a game at the end of extra turns.</li>
+      <li>Two players reveal cards from the top of their libraries to see “who would win” after extra turns.</li>
+      <li>A player says “Oh no, we’re going to draw, that is terrible for us.  If only there were something we could do about it.”</li>
+    </ol>
+    <p>
+      <strong>Philosophy</strong>
+    </p>
+    <p>Using an outside-the-game method to determine a winner compromises the integrity of the tournament.</p>
+    <p>Matches that result in a draw due to time are expected to be reported as such and are not excluded from this penalty if the players use an illegal method to determine the outcome.</p>
+  </blockquote>
+</details>
+
+**Policy Additions** 
+
+**4.3A. Definition** In Multiplayer Tournaments, not respecting a rule that limits the number of Games played in a Match is also Unsporting Conduct - Improperly Determining a Winner.
+
+**4.3A. Examples**
+
+1. In the Swiss portion of a Multiplayer Tournament with the requirement of playing a single Game, players agree to Draw and one of them suggests that since they still have 45 minutes left on the Round timer, that they should play another Game to determine the winner.
 
 ## 4.4. Unsporting Conduct — Bribery and Wagering
 
