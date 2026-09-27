@@ -1053,8 +1053,8 @@ In the semi finals, the seeds of the winners from the quarterfinals are taken in
 [^2]: [SquireBot](https://github.com/SquireTournamentServices/SquireBot) _open source, requires Discord_
 [^3]: [EMP](https://www.planarforge.com/emp/) _free to use_
 [^4]: [Brainstorm TMS](https://brainstorm-tms.com/) _free to use_
-[^5]: [Spicerack.gg](https://www.spicerack.gg/) _free to use_
-[^6]: [Canivete](https://github.com/fbatista/canivete) _open source_
+[^5]: [Canivete](https://github.com/fbatista/canivete) _open source_
+[^6]: [Topdeck](https://topdeck.gg) _commercial_
 
 # Appendix B – Time Limits
 
