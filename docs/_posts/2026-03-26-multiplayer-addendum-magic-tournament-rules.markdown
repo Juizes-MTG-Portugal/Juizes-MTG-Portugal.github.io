@@ -1183,21 +1183,15 @@ In the semi finals, the seeds of the winners from the quarterfinals are taken in
 
 The following time limits are recommended for each Round of a Multiplayer Tournament:
 
-* For Swiss Rounds - 75 minutes without additional turns, and with a time limit.
-* For Single Elimination Matches - no time limit (_with exceptions_)
+* For Swiss Rounds - 75 minutes without additional turns, and with a time limit **(a)**.
+* For Single Elimination quarterfinal or semi-final matches - 150 minutes without additional turns, and with a time limit **(a)(b)**.
+* For Single Elimination final matches - no time limit **(b)(c)**.
 
-It is recommended to apply a hard **15 minute time limit** in order to handle potentially long last turns after the regular Round time is over, in order to prevent severe delays to the event.
+**(a)** It is recommended to apply a hard **15 minute time limit** in order to handle potentially long last turns after the regular Round time is over, in order to prevent severe delays to the event.
   
-In the situation where Players **Intentionally Draw a Game in a Single Elimination Match**, it is recommended to apply the following restrictions:
-  
-* A 150 minutes timer that starts counting since the beginning of the Round comes into effect after the first Intentional Draw.
-* After 150 minutes, pods that had one or more Intentional Draws are only allowed to continue playing as long as there other Pods still playing, that haven't Intentionally Draw and thus aren't subjected to the 150 minutes limit.
-* After 150 minutes, if there are no other pods still playing, that haven't Intentionally Draw, the Match follows the [standard End-of-Round procedure](#24-end-of-Match-procedure) for the Tournament, which includes the 15 minutes time limit.
-* It is recommended that the Finals do not impose any time limit, even after Intentional Draws.
+**(b)** Ideally, in Single Elimination Matches, no time limit should be imposed, however, in the case where that's not possible, it is recommended that in Single Elimination Matches, a 150 minute round timer is applied, following the standard End-of-Round procedure.
 
-_**Example**:_
-
-_During a Tournament Semifinals, Pod 1 is playing a 3-hour long grindy Game. Pod 2 decided to Intentionally Draw a Game at the 90 minute mark, hence triggering the 150 minutes timer, thus now having 60 minutes to reach a Match conclusion. After the 150 minutes have passed, they were made aware the Pod 1 is still playing and as such they are allowed overtime to continue playing, but that at any moment the Pod 1 finishes their Match, they will have to wrap it up with the standard End-of-Round procedure for the event. As such, they had the chance to play for up to extra 30 minutes and find a Winner through playing a Game of Magic. After Pod 1 finishes their Match, and Pod 2 finishes the End-of-Round procedure, if no Winner is found, then the Player with the highest standing from Swiss Rounds in Pod 2 is considered the Winner and moves on to the Finals._
+**(c)** It is highly recommended that the Finals do not impose any time limit, however in special cases, like the venue having a hard close time, that can be waived. As with any other recommendations in this section, the Head Judge may choose to deviate from them but must communicate it clearly before and during registration.
 
 20-card Multiplayer Booster Drafts, with 2 picks per booster, have the following default time limits for each pick:
 
