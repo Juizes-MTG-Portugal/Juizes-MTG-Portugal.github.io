@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiplayer Addendum to the Magic Tournament Rules"
-date: 2026-06-22 1:00:00 +0000
+date: 2026-09-27 1:00:00 +0000
 categories: unofficial documents multiplayer competitive regular
 permalink: multiplayer-addendum-mtr
 ---
@@ -1053,8 +1053,8 @@ In the semi finals, the seeds of the winners from the quarterfinals are taken in
 [^2]: [SquireBot](https://github.com/SquireTournamentServices/SquireBot) _open source, requires Discord_
 [^3]: [EMP](https://www.planarforge.com/emp/) _free to use_
 [^4]: [Brainstorm TMS](https://brainstorm-tms.com/) _free to use_
-[^5]: [Spicerack.gg](https://www.spicerack.gg/) _free to use_
-[^6]: [Canivete](https://github.com/fbatista/canivete) _open source_
+[^5]: [Canivete](https://github.com/fbatista/canivete) _open source_
+[^6]: [Topdeck](https://topdeck.gg) _commercial_
 
 # Appendix B – Time Limits
 
@@ -1613,4 +1613,4 @@ _Initial document Created by Erin Leonard, [Fábio Batista](https://github.com/f
 
 _Initial Consultation and editing by [Landon Liberator](https://github.com/Libby-Monarch), Bryan Spellman, Savannah Beard, [Nicholas Hammond](https://github.com/NicholasRHammond), Erin Leonard, Mark Mason, [Tyler Bloom](https://github.com/TylerBloom), and Ethan Smilg_
 
-_Subsequent Contributions by the community via the [github repository](https://github.com/Juizes-MTG-Portugal/Juizes-MTG-Portugal.github.io/issues?q=is%3Aissue+is%3Aclosed)_
+_Subsequent Contributions by the community via the [github repository](https://github.com/Juizes-MTG-Portugal/Juizes-MTG-Portugal.github.io/issues?q=is%3Aissue+is%3Aclosed) with the support of [cedheurope.com](https://cedheurope.com)_
