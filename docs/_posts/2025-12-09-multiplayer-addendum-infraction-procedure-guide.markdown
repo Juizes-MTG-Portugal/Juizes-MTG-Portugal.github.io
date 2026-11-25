@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiplayer Addendum to the Infraction Procedure Guide"
-date: 2026-06-22 1:00:00 +0000
+date: 2026-11-25 1:00:00 +0000
 categories: unofficial documents multiplayer competitive
 permalink: multiplayer-addendum-ipg
 ---
