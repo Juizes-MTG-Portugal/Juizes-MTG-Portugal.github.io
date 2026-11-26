@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiplayer Addendum to the Infraction Procedure Guide"
-date: 2026-06-22 1:00:00 +0000
+date: 2026-11-25 1:00:00 +0000
 categories: unofficial documents multiplayer competitive
 permalink: multiplayer-addendum-ipg
 ---
@@ -313,19 +313,22 @@ Shuffles performed by a judge as part of a remedy are not considered shuffles fo
 
 **Policy Additions**
 
-**2.1A. Definition** In Multiplayer Tournaments, since there are multiple opponents, for triggered abilities that require its controller to choose targets, **including 'target opponent'**, modes or other choices made when the ability is put onto the stack, the controller must announce those choices before they next pass priority. This is a change from Head-to-Head Tournaments, where the target opponent is obvioulsy defined.
+**2.1A. Definition** In Multiplayer Tournaments, because there are multiple opponents, if a triggered ability requires its controller to choose targets (including "target opponent"), modes, or other choices when it is put onto the stack, the controller must announce those choices before next passing priority. This differs from Head-to-Head Tournaments, where the target opponent is automatically assumed.
 
-**2.1A. Additional Remedy** In Multiplayer Tournaments, since there are multiple opponents, **the decision** that would be made by **"the opponent"** is **instead made by a majority vote** of the opponents. If no majority is reached _(perhaps because one opponent was eliminated and there is an even number of opponents)_, the final decision will be made by a randomly chosen opponent instead.
+**2.1A. Additional Remedy** In Multiplayer Tournaments, whenever the standard remedy refers to a decision made by **"the opponent"**, that decision requires **unanimous agreement** among all active opponents of the player who missed the trigger:
+
+* **Generally beneficial triggers** (triggers whose resolution would typically benefit their controller): All opponents must unanimously agree to put the triggered ability onto the stack (or, for delayed zone-change triggers, agree on when to resolve it). **If they do not reach a unanimous decision, the trigger remains missed (or, for delayed zone-change triggers, resolves at the start of the next phase)**.
+* **Generally detrimental triggers** (triggers whose resolution would typically harm or penalize their controller): All opponents must unanimously agree **not** to put the triggered ability onto the stack. **If they do not reach a unanimous decision, the triggered ability is put onto the stack in the appropriate position if possible, or on the bottom of the stack.**
 
 This applies to:
 
 > If the triggered ability is a delayed triggered ability that undoes a zone change (including token creation) caused by the effect that created the delayed triggered ability, **the opponent** chooses whether to resolve the ability the next time a player would get priority or when a player would get priority at the start of the next phase. The new zone does not need to be the same as the one the card was originally moved from.
 
-and: 
+and:
 
->  If the triggered ability isn’t covered by the previous paragraphs, **the opponent** chooses whether the triggered ability is added to the stack. If it is, it’s inserted at the appropriate place on the stack if possible or on the bottom of the stack. No player may make choices for the triggered ability involving objects that would not have been legal choices when the ability should have triggered. For example, if the ability instructs a player to sacrifice a creature, that player can't sacrifice a creature that wasn't on the battlefield when the ability should have triggered.
+> If the triggered ability isn’t covered by the previous paragraphs, **the opponent** chooses whether the triggered ability is added to the stack. If it is, it’s inserted at the appropriate place on the stack if possible or on the bottom of the stack. No player may make choices for the triggered ability involving objects that would not have been legal choices when the ability should have triggered. For example, if the ability instructs a player to sacrifice a creature, that player can't sacrifice a creature that wasn't on the battlefield when the ability should have triggered.
 
-**2.1A. Note** In Multiplayer Tournaments, Judges and Players must be on the lookout for situations where the Player that committed the infraction is benefiting from the opponent's decision, which in some corner cases can be a sign of collusion and / or cheating. Keep in mind that given the nuances of multiplayer, sometimes opponents will legitimately choose an option that benefits the Player that committed the infraction.
+**2.1A. Note** In Multiplayer Tournaments, temporary alliances are a normal part of gameplay, and opponents who wished to help the player who missed a trigger had the opportunity to point it out before it was missed. Requiring unanimity ensures that a player (and any temporary allies) cannot easily bypass the penalty of missing a trigger unless every opponent agrees. Even so, judges and players should remain alert for situations where opponents' decisions suggest collusion and/or cheating rather than legitimate in-game strategy.
 
 ## 2.3. Game Play Error — Hidden Card Error
 
