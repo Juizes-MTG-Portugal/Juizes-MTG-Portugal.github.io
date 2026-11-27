@@ -346,7 +346,7 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **2.5B** In Multiplayer Tournaments, the decision to **Intentionally Draw a Match** must be unanimous among the **Players that are still playing the Match**. This means that **Players that lost the current Game** in the current Match, still **have a say in this decision**. In the situation where a Player left the play area and a new Game is about to start, that Player will be subject to potential tardiness penalties.
 
-**2.5C** In Multiplayer Tournaments, Players may not make or accept agreements that condition a Player's game decisions or the end of a Game or Match on a future game action or outcome. This includes agreements to take or withhold actions to cause a Draw or ensure a specific Player wins, or to concede, in exchange for a prize split, reward, or other consideration. This prohibition applies even if all Players agree to the conditional arrangement.
+**2.5C** In Multiplayer Tournaments, Players may not make or accept a deal that conditions how a Game or Match ends on game actions or outcomes. This includes deals to take or withhold actions to cause a Draw, ensure a specific Player wins, or have a Player concede. This prohibition applies whether or not the deal involves a prize split, reward, or other consideration, and even if all Players agree to it.
 
 An immediate proposal to Intentionally Draw a Game or Match, accepted unanimously as required by **2.5A** or **2.5B**, is not a conditional agreement. Prize splits that are permitted by the Magic Tournament Rules and agreed to without conditions on game actions or outcomes are also allowed.
 
