@@ -1030,7 +1030,7 @@ Bribery and wagering disrupt the integrity of the tournament and are strictly fo
 
 **Policy Additions**
 
-**4.4A. Definition and Philosophy** In Multiplayer Tournaments, an agreement that exchanges one or more in-game actions for a Game or Match result is also Bribery. The exchange may be explicit or implied, may involve one action or a sequence of actions, and does not require an outside-the-game reward. A result includes an intentional Draw, a specific Player winning, or a Player conceding.
+**4.4A. Definition and Philosophy** In Multiplayer Tournaments, offering, encouraging, or accepting an agreement that exchanges one or more in-game actions for a Game or Match result is also Bribery. The exchange may be explicit or implied, may involve one action or a sequence of actions, and does not require an outside-the-game reward. A result includes an intentional Draw, a specific Player winning, or a Player conceding.
 
 In-game agreements that do not exchange actions for a Game or Match result, such as agreeing not to attack one another this turn, are not Bribery. They may still be investigated as Collusion under [4.2 Unsporting Conduct - Major](#42-unsporting-conduct--major).
 
