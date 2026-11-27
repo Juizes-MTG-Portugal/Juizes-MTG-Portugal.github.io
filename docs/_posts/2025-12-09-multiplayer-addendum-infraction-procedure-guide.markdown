@@ -1030,7 +1030,11 @@ Bribery and wagering disrupt the integrity of the tournament and are strictly fo
 
 **Policy Additions**
 
-**4.4A. Philosophy** In Multiplayer Tournaments, **in-game agreements**, such as offering to not attack one another, are **not Bribery**. Bribery refers to tangible, monetary, or other similar means outside of the game offered to influence or change gameplay decisions or match outcome. These could however fall under [4.2 Unsporting Conduct - Major](#42-unsporting-conduct--major) as collusion, and thus be investigated as such.
+**4.4A. Definition and Philosophy** In Multiplayer Tournaments, an agreement that exchanges one or more in-game actions for a Game or Match result is also Bribery. The exchange may be explicit or implied, may involve one action or a sequence of actions, and does not require an outside-the-game reward. A result includes an intentional Draw, a specific Player winning, or a Player conceding.
+
+In-game agreements that do not exchange actions for a Game or Match result, such as agreeing not to attack one another this turn, are not Bribery. They may still be investigated as Collusion under [4.2 Unsporting Conduct - Major](#42-unsporting-conduct--major).
+
+_Example: Alice asks Bob, Charlie, and Dani to use their interaction to eliminate Eve in exchange for agreeing to intentionally Draw afterward. This is Bribery because they are exchanging game actions for a Draw, even though no outside reward is offered._
 
 # Credit
 
