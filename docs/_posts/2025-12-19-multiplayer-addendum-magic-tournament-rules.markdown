@@ -348,6 +348,8 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **2.5C** In Multiplayer Tournaments, the proposal to Intentionally Draw a Game or Match must be **immediately accepted or rejected** and cannot have any conditions attached to ongoing or future game decisions. This means that Players **cannot include intentional draws as part of deals**.
 
+_Example: Alice proposes an intentional draw, but Bob rejects it. The Players may continue the Game, but Bob, Charlie, and Dani may not agree to eliminate Alice and then intentionally draw the Game. That would make the draw conditional on future game actions, which is not allowed._
+
 **2.5D** In Multiplayer Tournaments, when **Intentionally Drawing a Game** during a **Single Elimination** or otherwise untimed Round, there may be some restrictions in place to prevent the repetition of this process from extending the Tournament indefinitely. Check [Appendix B - Time Limits](#appendix-b--time-limits) for the recommended restrictions.
 
 **2.5E** In Multiplayer Tournaments, it is encouraged for Players that wish to concede a Game, to do so at any time they could play a sorcery.
