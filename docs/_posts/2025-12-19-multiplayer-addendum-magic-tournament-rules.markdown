@@ -346,14 +346,14 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **2.5B** In Multiplayer Tournaments, the decision to **Intentionally Draw a Match** must be unanimous among the **Players that are still playing the Match**. This means that **Players that lost the current Game** in the current Match, still **have a say in this decision**. In the situation where a Player left the play area and a new Game is about to start, that Player will be subject to potential tardiness penalties.
 
-**2.5C** In Multiplayer Tournaments, Players may not make or accept an agreement that conditions how a Game or Match ends on a Player taking or refraining from a game action. This includes agreements to end the Game or Match in an intentional Draw, to concede, or to take or withhold actions so that a specific Player wins. This applies whether or not the agreement involves a prize split, reward, or other consideration.
+**2.5C** In Multiplayer Tournaments, Players may not make or accept agreements that condition a Player's game decisions or the end of a Game or Match on a future game action or outcome. This includes agreements to take or withhold actions to cause a Draw or ensure a specific Player wins, or to concede, in exchange for a prize split, reward, or other consideration. This prohibition applies even if all Players agree to the conditional arrangement.
 
-A proposal to Intentionally Draw a Game or Match must be **immediately accepted or rejected**. Players may not make ongoing or future game decisions conditional on accepting or rejecting such a proposal.
+An immediate proposal to Intentionally Draw a Game or Match, accepted unanimously as required by **2.5A** or **2.5B**, is not a conditional agreement. Prize splits that are permitted by the Magic Tournament Rules and agreed to without conditions on game actions or outcomes are also allowed.
 
 _Examples:_
 
-- _Alice proposes an intentional Draw, but Bob rejects it. Bob, Charlie, and Dani may not agree to eliminate Alice and then intentionally Draw the Game. That agreement conditions the Game ending on future game actions._
-- _Alice offers to split the prizes with Bob and Charlie if they let her win, or if Bob concedes. This is a prohibited game-ending deal, regardless of whether the proposed split is even._
+- _Alice proposes an intentional Draw, but Bob rejects it. Bob, Charlie, and Dani may not agree to eliminate Alice and then intentionally Draw the Game. That agreement conditions the Draw on future game actions._
+- _Alice offers to split the prizes with Bob and Charlie if they let her win, or if Bob concedes. This is a prohibited conditional agreement, regardless of whether the proposed split is even._
 
 **2.5D** In Multiplayer Tournaments, when **Intentionally Drawing a Game** during a **Single Elimination** or otherwise untimed Round, there may be some restrictions in place to prevent the repetition of this process from extending the Tournament indefinitely. Check [Appendix B - Time Limits](#appendix-b--time-limits) for the recommended restrictions.
 
