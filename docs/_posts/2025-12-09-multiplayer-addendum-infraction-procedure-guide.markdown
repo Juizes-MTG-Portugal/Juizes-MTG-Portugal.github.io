@@ -1034,7 +1034,7 @@ Bribery and wagering disrupt the integrity of the tournament and are strictly fo
 
 In-game agreements that do not exchange actions for a Game or Match result, such as agreeing not to attack one another this turn, are not Bribery. They may still be investigated as Collusion under [4.2 Unsporting Conduct - Major](#42-unsporting-conduct--major).
 
-_Example: Alice asks Bob, Charlie, and Dani to use their interaction to eliminate Eve in exchange for agreeing to intentionally Draw afterward. This is Bribery because they are exchanging game actions for a Draw, even though no outside reward is offered._
+_Example: Alice asks Bob, and Charlie to use their interaction to eliminate Dani in exchange for agreeing to intentionally Draw afterward. This is Bribery because they are exchanging game actions for a Draw, even though no outside reward is offered._
 
 # Credit
 
